@@ -1,0 +1,30 @@
+{
+  "schema_version": "3.0",
+  "activity_id": "ACT-DUP-001",
+  "module": "Duplikat Harga",
+  "feature": "Pengecekan Duplikat & Paginasi",
+  "user_objective_non_it": "Panduan bagi staf dalam memeriksa baris duplikat dan kontrol paginasi prev/next secara cepat dan aman.",
+  "verified_roles": [
+    "NANA (Observed in Header)"
+  ],
+  "steps_grounded": [
+    {
+      "step": 1,
+      "target_label_exact": "PREV / NEXT",
+      "action": "OBSERVE_PAGINATION",
+      "observed_outcome": "Terbukti tombol PREV berstatus disabled dan tombol NEXT berstatus enabled",
+      "evidence_id": "EVD-STATE_DUPLICATE_001_PAGINATION"
+    }
+  ],
+  "governing_business_rules": [
+    "BR-01",
+    "BR-04"
+  ],
+  "questions_for_process_owner": [
+    "Apakah staf kasir diizinkan melihat seluruh kolom harga pada modul Duplikat Harga?",
+    "Kapan jadwal sinkronisasi atau perubahan data rutin dilakukan pada fitur Pengecekan Duplikat & Paginasi?"
+  ],
+  "coverage_gaps": [
+    "Eksekusi tombol Duplikasi DIBLOKIR di produksi."
+  ]
+}

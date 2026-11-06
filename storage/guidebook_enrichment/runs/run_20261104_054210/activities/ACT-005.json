@@ -1,0 +1,57 @@
+{
+  "schema_version": "2.0",
+  "activity_id": "ACT-005",
+  "module": "Katalog Brand",
+  "feature": "Katalog Produk & Kategori Brand",
+  "activity_name": "Navigasi 10 Brand Resmi & Pemisahan Komponen Global",
+  "priority": "HIGH",
+  "role_claimed": "IT Administrator",
+  "role_verified": "NANA (Admin/IT - Observed in UI Header)",
+  "role_verification_source": "Live brand inspection",
+  "environment": "production_read_only",
+  "url": "https://pricelist.radiatorsprings.id/harga?brand=makerspace",
+  "captured_at_utc": "2026-11-04T05:42:55.920Z",
+  "prerequisites": [
+    "Pengguna memilih salah satu menu Brand pada sidebar navigasi"
+  ],
+  "initial_state_id": "state_003_brand_makerspace",
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Buka halaman katalog brand resmi",
+      "ui_label_exact": "Makerspace, Speedometer, Gearsecond, dll",
+      "locator": "nav a[href*='harga?brand=']",
+      "state_before_id": "state_003_brand_makerspace",
+      "screenshot_before_ref": "screenshots_sanitized/state_003_brand_makerspace.png",
+      "state_after_id": null,
+      "screenshot_after_ref": null,
+      "observed_result": "Katalog memuat kategori spesifik brand tanpa mencampur komponen global inquiry.",
+      "expected_result": "Karyawan dapat melihat struktur harga resmi per merk dagang.",
+      "outcome": "OBSERVED",
+      "evidence_ids": [
+        "EV-BRAND-CATALOG"
+      ]
+    }
+  ],
+  "validation_rules": [
+    "Setiap brand memiliki daftar produk dan struktur kolom harga yang disesuaikan."
+  ],
+  "business_rule_refs": [
+    "BR-01"
+  ],
+  "permission_refs": [
+    "PERM-READ-ALL"
+  ],
+  "evidence_statuses": [
+    "OBSERVED"
+  ],
+  "confidence_reason": "Menyelesaikan gap audit B.34 dan B.36 dengan memisahkan kategori asli brand dari boilerplate global.",
+  "coverage_gaps": [],
+  "source_raw_page_refs": [
+    "storage/raw_pages/003_https___pricelist_radiatorsprings_id_harga_brand_makerspace.json"
+  ],
+  "source_old_analysis_refs": [
+    "storage/checkpoints/analysis_003_https___pricelist_radiatorsprings_id_harga_brand_makerspace.json"
+  ],
+  "sensitive_data_removed_in_export": true
+}

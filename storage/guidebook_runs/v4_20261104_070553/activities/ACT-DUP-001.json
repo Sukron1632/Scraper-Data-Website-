@@ -1,0 +1,36 @@
+{
+  "schema_version": "4.0",
+  "activity_id": "ACT-DUP-001",
+  "module_id": "MOD-007",
+  "module": "Duplikat Harga",
+  "feature_id": "FEAT-DUP-PAG",
+  "feature": "Paginasi Duplikat PREV/NEXT",
+  "activity_name_ui_accurate": "Memeriksa Entri Duplikat dan Menguji Kontrol Navigasi Paginasi",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "readiness": "READY_FOR_PROCEDURAL_GUIDE",
+  "preconditions": [
+    "Berada pada rute /admin/duplicate"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "OBSERVE_PAGINATION",
+      "ui_target_actual": "Tombol PREV dan NEXT Paginasi",
+      "state_before_id": "STATE_DUPLICATE_001_PAGINATION",
+      "state_after_id": "STATE_DUPLICATE_001_PAGINATION",
+      "expected_result": "Tombol navigasi PREV dan NEXT terdeteksi aktif pada antarmuka",
+      "evidence_ids": [
+        "EVD-STATE_DUPLICATE_001_PAGINATION"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01",
+    "BR-04"
+  ],
+  "gaps": [
+    "Aksi Eksekusi Duplikasi berstatus DEFERRED (FEAT-DUPLICATE-EXECUTE)."
+  ]
+}

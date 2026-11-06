@@ -1,0 +1,38 @@
+[
+  {
+    "rule_id": "BR-01",
+    "name": "Zero-Mutation Production Guardrail",
+    "description": "Seluruh aktivitas ekstraksi dan observasi di sistem produksi https://pricelist.radiatorsprings.id berstatus READ-ONLY mutlak. Tidak diperkenankan melakukan eksekusi simpan, ubah, atau hapus.",
+    "source": "Kontrak Keselamatan Operasional & safety_guardrails.json",
+    "context": "Global System Access",
+    "confidence": "CERTAIN",
+    "verification_status": "VERIFIED_ACTIVE"
+  },
+  {
+    "rule_id": "BR-02",
+    "name": "Pencarian Harga Real-Time Multi-Filter",
+    "description": "Halaman Cari Harga menyaring produk berdasarkan kombinasi kata kunci nama barang, brand, tipe kendaraan, dan kategori secara dinamis.",
+    "source": "Observed Live UI Behavior at /search",
+    "context": "Modul Pencarian Harga",
+    "confidence": "VERIFIED",
+    "verification_status": "TESTED_READ_ONLY"
+  },
+  {
+    "rule_id": "BR-03",
+    "name": "Proteksi Data Pribadi (PII Masking)",
+    "description": "Seluruh nomor telepon, alamat email, kata sandi, dan kredensial karyawan wajib disamarkan sebelum didokumentasikan.",
+    "source": "data_governance_rules.json & SOP PT Radiator Springs Indonesia",
+    "context": "Modul User & Karyawan",
+    "confidence": "CERTAIN",
+    "verification_status": "VERIFIED_ACTIVE"
+  },
+  {
+    "rule_id": "BR-04",
+    "name": "Konfirmasi Paginasi Duplikat",
+    "description": "Tabel duplikat harga memiliki kontrol navigasi halaman PREV dan NEXT dengan status aktif/non-aktif sesuai ketersediaan halaman.",
+    "source": "Observed Live UI Behavior at /admin/duplicate",
+    "context": "Modul Duplikat Harga",
+    "confidence": "VERIFIED",
+    "verification_status": "TESTED_READ_ONLY"
+  }
+]

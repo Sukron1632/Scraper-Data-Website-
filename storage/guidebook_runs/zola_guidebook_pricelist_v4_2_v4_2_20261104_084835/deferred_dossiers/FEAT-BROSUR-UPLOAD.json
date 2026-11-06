@@ -1,0 +1,20 @@
+{
+  "deferred_feature_id": "FEAT-BROSUR-UPLOAD",
+  "parent_module_id": "MOD-004",
+  "display_label": "Upload Brosur",
+  "entry_point": "https://pricelist.radiatorsprings.id/admin/brosur",
+  "visible_state_ref": "evidence/screenshots_sanitized/STATE_BROSUR_001_LIST.png",
+  "target_bbox_px": [
+    1200,
+    36,
+    140,
+    40
+  ],
+  "why_mutative": "Mengunggah file PDF/gambar brosur baru ke penyimpanan cloud S3 publik.",
+  "what_is_not_tested": "Upload file fisik ke bucket produksi.",
+  "staging_test_plan": "Unggah file PDF uji di staging dan pastikan link publik berfungsi.",
+  "owner_confirmation_needed": "Format dan batas ukuran file brosur.",
+  "allowed_guidebook_text": "Katalog Brosur memuat daftar dokumen promosi digital resmi perusahaan.",
+  "prohibited_guidebook_text": "Jangan mengunggah dokumen draft ke direktori publik produksi.",
+  "linked_outline_section": "SEC-04"
+}

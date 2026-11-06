@@ -1,0 +1,20 @@
+{
+  "deferred_feature_id": "FEAT-EDIT-SAVE",
+  "parent_module_id": "MOD-008",
+  "display_label": "Simpan Perubahan Harga",
+  "entry_point": "https://pricelist.radiatorsprings.id/admin/edit-harga",
+  "visible_state_ref": "evidence/screenshots_sanitized/STATE_EDIT_HARGA_001_VIEW.png",
+  "target_bbox_px": [
+    1260,
+    115,
+    95,
+    36
+  ],
+  "why_mutative": "Mengubah harga dasar, harga bottom, harga bengkel, dan harga end user di database produksi.",
+  "what_is_not_tested": "Submit formulir pembaruan harga massal.",
+  "staging_test_plan": "Centang 2 produk di staging, klik Edit, ubah harga, lalu simpan dan verifikasi perubahannya.",
+  "owner_confirmation_needed": "Persetujuan manajerial untuk audit trail perubahan harga.",
+  "allowed_guidebook_text": "Tombol 'Edit' akan aktif setelah satu atau lebih produk dicentang pada tabel seleksi.",
+  "prohibited_guidebook_text": "Jangan mengeksekusi penyimpanan perubahan harga di produksi.",
+  "linked_outline_section": "SEC-06"
+}

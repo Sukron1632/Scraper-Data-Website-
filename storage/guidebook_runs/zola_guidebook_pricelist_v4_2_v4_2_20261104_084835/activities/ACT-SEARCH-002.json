@@ -1,0 +1,29 @@
+{
+  "activity_id": "ACT-SEARCH-002",
+  "module_id": "MOD-002",
+  "feature_id": "FEAT-SEARCH-REALTIME",
+  "title": "Mencari Produk Spesifik Menggunakan Kata Kunci",
+  "observed_result": "Tabel menampilkan daftar baris produk yang sesuai kata kunci secara real-time.",
+  "prerequisites": "Modul Cari Harga dalam keadaan bersih dan modal panduan tertutup.",
+  "observed_role": "Staff / IT Administrator (NANA)",
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Ketik kata kunci produk (misal: 'speedometer') pada kolom pencarian.",
+      "exact_ui_label": "Cari produk...",
+      "evidence_ids": [
+        "EVD-STATE_SEARCH_002_MODAL_CLOSED"
+      ]
+    },
+    {
+      "step_number": 2,
+      "action": "Tunggu pembaruan otomatis tabel Livewire tanpa menekan tombol enter.",
+      "exact_ui_label": "Daftar Produk",
+      "evidence_ids": [
+        "EVD-STATE_SEARCH_003_FILTERED"
+      ]
+    }
+  ],
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "status": "READY_FOR_GUIDEBOOK"
+}

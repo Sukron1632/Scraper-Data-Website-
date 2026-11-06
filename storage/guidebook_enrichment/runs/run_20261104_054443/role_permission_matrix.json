@@ -1,0 +1,37 @@
+{
+  "audit_date_utc": "2026-11-04T05:45:36.365Z",
+  "account_verified": {
+    "username_login": "berlianaindahfebrizza12@gmail.com",
+    "display_name_header": "NANA",
+    "effective_role_observed": "Admin / IT Operations (Full Read Access)",
+    "verification_method": "Direct inspection of navigation bar and header elements in live Chromium session"
+  },
+  "roles": {
+    "NANA (Admin/IT Observed)": {
+      "dashboard_view": "ALLOWED (Observed)",
+      "search_and_filter": "ALLOWED (Observed)",
+      "brand_catalog_view": "ALLOWED (Observed)",
+      "brosur_view": "ALLOWED (Observed)",
+      "brosur_create_or_upload": "UNKNOWN (Blocked on production)",
+      "diskon_view": "ALLOWED (Observed)",
+      "diskon_apply_or_archive": "BLOCKED (Requires authorized staging to test)",
+      "user_view": "ALLOWED (Observed)",
+      "user_create_or_modify": "UNKNOWN (Blocked on production)",
+      "duplicate_check_view": "ALLOWED (Observed)",
+      "duplicate_execute": "BLOCKED (Requires authorized staging to test)",
+      "edit_harga_direct_access": "OBSERVED_REDIRECT_OR_BLOCKED (Documented in Discrepancies)"
+    },
+    "Staff Operasional Biasa": {
+      "status": "UNKNOWN / NOT_VERIFIED",
+      "note": "Hanya 1 akun pengujian yang tersedia. Role lain tidak diasumsikan dan wajib dikonfirmasi pemilik sistem."
+    },
+    "Kasir": {
+      "status": "UNKNOWN / NOT_VERIFIED",
+      "note": "Belum pernah diuji dengan akun kasir berizin."
+    },
+    "Admin Gudang": {
+      "status": "UNKNOWN / NOT_VERIFIED",
+      "note": "Belum pernah diuji dengan akun admin gudang berizin."
+    }
+  }
+}

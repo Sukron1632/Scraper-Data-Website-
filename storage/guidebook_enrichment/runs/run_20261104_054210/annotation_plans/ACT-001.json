@@ -1,0 +1,29 @@
+{
+  "activity_id": "ACT-001",
+  "screenshot_ref": "screenshots_sanitized/state_001_dashboard_clean.png",
+  "style_standard": "Zola Standard (Orange #E65100 / Charcoal #263238 / White #FFFFFF)",
+  "callouts": [
+    {
+      "callout_number": "[01]",
+      "element_label": "Katalog & Ringkasan Produk",
+      "action": "Periksa",
+      "operational_purpose": "Menampilkan total data produk aktif sebagai acuan shift kerja.",
+      "target_locator": ".grid .card, .metric-box",
+      "bounding_box_estimate": {
+        "focal_area": "Area kerja utama",
+        "relative_position": "Top / Header"
+      }
+    },
+    {
+      "callout_number": "[02]",
+      "element_label": "Status Promo",
+      "action": "Periksa",
+      "operational_purpose": "Memberikan kepastian program diskon sebelum transaksi dimulai.",
+      "target_locator": ".promo-container, .discount-badge",
+      "bounding_box_estimate": {
+        "focal_area": "Area kerja utama",
+        "relative_position": "Center / Table"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+node_modules/
+.env
+storage/sessions/*.json
+!storage/sessions/.gitkeep
+storage/screenshots/*.png
+!storage/screenshots/.gitkeep
+storage/raw_pages/*.json
+!storage/raw_pages/.gitkeep
+storage/checkpoints/*.json
+!storage/checkpoints/.gitkeep
+output/guidebook/docx/*.docx
+output/guidebook/markdown/*.md
+!output/guidebook/markdown/.gitkeep
+output/audit/*.md
+!output/audit/.gitkeep
+

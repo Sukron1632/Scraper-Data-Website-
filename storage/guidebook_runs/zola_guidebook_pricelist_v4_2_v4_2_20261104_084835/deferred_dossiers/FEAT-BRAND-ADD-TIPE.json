@@ -1,0 +1,20 @@
+{
+  "deferred_feature_id": "FEAT-BRAND-ADD-TIPE",
+  "parent_module_id": "MOD-003",
+  "display_label": "Tambah Tipe",
+  "entry_point": "https://pricelist.radiatorsprings.id/harga?brand=speedometer",
+  "visible_state_ref": "evidence/screenshots_sanitized/STATE_BRAND_007_speedometer.png",
+  "target_bbox_px": [
+    1246,
+    36,
+    154,
+    40
+  ],
+  "why_mutative": "Menambah data varian tipe kendaraan baru ke master catalog database produksi.",
+  "what_is_not_tested": "Eksekusi penyimpanan tipe baru.",
+  "staging_test_plan": "1. Buka form Tambah Tipe di staging. 2. Pilih merk dan masukkan tipe uji. 3. Verifikasi ketersediaan tipe di dropdown.",
+  "owner_confirmation_needed": "Konfirmasi hak akses role untuk penambahan tipe.",
+  "allowed_guidebook_text": "Tombol 'Tambah Tipe' digunakan untuk mendaftarkan varian tipe kendaraan baru di bawah merk tertentu.",
+  "prohibited_guidebook_text": "Jangan menambahkan tipe dummy ke produksi.",
+  "linked_outline_section": "SEC-03"
+}

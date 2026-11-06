@@ -1,0 +1,29 @@
+{
+  "schema_version": "3.0",
+  "activity_id": "ACT-EDIT-001",
+  "module": "Edit Harga",
+  "feature": "Formulir Pembaruan Harga Massal",
+  "user_objective_non_it": "Panduan bagi staf dalam membuka halaman formulir edit harga tanpa eksekusi simpan secara cepat dan aman.",
+  "verified_roles": [
+    "NANA (Observed in Header)"
+  ],
+  "steps_grounded": [
+    {
+      "step": 1,
+      "target_label_exact": "Edit Harga",
+      "action": "OBSERVE_FORM_VIEW",
+      "observed_outcome": "Halaman terbuka langsung tanpa redirect (Status: 200). Tombol simpan tidak dieksekusi demi keamanan.",
+      "evidence_id": "EVD-STATE_EDIT_HARGA_001_VIEW"
+    }
+  ],
+  "governing_business_rules": [
+    "BR-01"
+  ],
+  "questions_for_process_owner": [
+    "Apakah staf kasir diizinkan melihat seluruh kolom harga pada modul Edit Harga?",
+    "Kapan jadwal sinkronisasi atau perubahan data rutin dilakukan pada fitur Formulir Pembaruan Harga Massal?"
+  ],
+  "coverage_gaps": [
+    "Eksekusi penyimpanan mutasi harga DIBLOKIR di produksi, wajib diuji di Staging."
+  ]
+}

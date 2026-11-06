@@ -1,0 +1,21 @@
+{
+  "dataset_version": "4.0",
+  "lineage_history": [
+    {
+      "version": "1.0",
+      "note": "Mass scraping awal & crawling HTML mentah"
+    },
+    {
+      "version": "2.0",
+      "note": "Percobaan enrichment awal (mengalami P0 Livewire POST blocking)"
+    },
+    {
+      "version": "3.0",
+      "note": "Remediasi V3 (Livewire guardrail, 70 baseline files, 2-pass search test)"
+    },
+    {
+      "version": "4.0",
+      "note": "Production-ready dataset with documented exceptions, 8 modul lengkap, nonzero measured bboxes, overlay previews, dan source extracts."
+    }
+  ]
+}

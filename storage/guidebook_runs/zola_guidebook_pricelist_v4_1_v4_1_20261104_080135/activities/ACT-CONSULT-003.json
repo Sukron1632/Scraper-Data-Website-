@@ -1,0 +1,33 @@
+{
+  "schema_version": "4.1",
+  "activity_id": "ACT-CONSULT-003",
+  "module_id": "MOD-009",
+  "module": "Tanya Harga & Konsultasi Keluhan",
+  "feature_id": "FEAT-CONSULT-CANCEL",
+  "feature": "Membatalkan dan Menutup Form",
+  "activity_name_ui_accurate": "Menutup Formulir Konsultasi Tanpa Menyimpan Data",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "readiness": "READY_FOR_PROCEDURAL_GUIDE",
+  "preconditions": [
+    "Modal Tanya Harga terbuka dan pengguna ingin membatalkan"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "CLICK_CANCEL_BUTTON",
+      "ui_target_actual": "Tombol 'Batal' atau Icon Silang [X]",
+      "state_before_id": "STATE_CONSULT_004_MODAL_OTHER",
+      "state_after_id": "STATE_CONSULT_005_MODAL_CLOSED",
+      "expected_result": "Modal tertutup sepenuhnya dan antarmuka kembali ke halaman awal tanpa perubahan",
+      "evidence_ids": [
+        "EVD-STATE_CONSULT_005_MODAL_CLOSED"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01"
+  ],
+  "gaps": []
+}

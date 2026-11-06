@@ -1,0 +1,20 @@
+{
+  "deferred_feature_id": "FEAT-DISKON-CREATE",
+  "parent_module_id": "MOD-005",
+  "display_label": "Tambah",
+  "entry_point": "https://pricelist.radiatorsprings.id/admin/diskon",
+  "visible_state_ref": "evidence/screenshots_sanitized/STATE_DISKON_001_LIST.png",
+  "target_bbox_px": [
+    1058,
+    36,
+    119,
+    40
+  ],
+  "why_mutative": "Membuat promo diskon baru dengan persentase potongan harga yang mengubah kalkulasi kasir.",
+  "what_is_not_tested": "Eksekusi penyimpanan formulir program promo baru.",
+  "staging_test_plan": "1. Klik tombol Tambah di staging. 2. Isi nama promo, persentase diskon, dan rentang tanggal. 3. Simpan dan cek tabel.",
+  "owner_confirmation_needed": "Konfirmasi batasan maksimum persentase diskon yang diizinkan sistem.",
+  "allowed_guidebook_text": "Tombol 'Tambah' membuka formulir pendaftaran program promo dan diskon baru bagi tim marketing.",
+  "prohibited_guidebook_text": "Jangan mengklik Simpan promo baru di produksi tanpa jadwal resmi.",
+  "linked_outline_section": "SEC-05"
+}

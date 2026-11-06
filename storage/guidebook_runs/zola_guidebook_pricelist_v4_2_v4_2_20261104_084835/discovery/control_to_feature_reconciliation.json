@@ -1,0 +1,9 @@
+{
+  "audit_time_utc": "2026-11-04T08:50:18.911Z",
+  "formula": "Set A (Observed Actionable Controls) - Set C (Canonical Features)",
+  "total_observed_controls": 17,
+  "mapped_controls": 17,
+  "unresolved_controls_count": 0,
+  "unresolved_controls": [],
+  "status": "PASS_ZERO_UNRESOLVED"
+}

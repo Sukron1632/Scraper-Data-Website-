@@ -1,0 +1,70 @@
+[
+  {
+    "section_number": 1,
+    "title": "Memulai dan Mengenal Sistem Web Pricelist",
+    "description": "Panduan navigasi dasar antarmuka dan pemantauan ringkasan metrik statistik katalog.",
+    "activities": [
+      "ACT-DASH-001"
+    ]
+  },
+  {
+    "section_number": 2,
+    "title": "Mencari dan Memeriksa Harga Produk",
+    "description": "SOP pencarian real-time kata kunci produk, penanganan pop-up onboarding, pemfilteran brand, dan katalog 10 merek resmi.",
+    "activities": [
+      "ACT-SEARCH-001",
+      "ACT-SEARCH-002",
+      "ACT-SEARCH-003",
+      "ACT-SEARCH-004",
+      "ACT-BRAND-001"
+    ]
+  },
+  {
+    "section_number": 3,
+    "title": "Melihat Informasi Produk dan Brosur Digital",
+    "description": "Tinjauan daftar brosur digital resmi dan rincian pemetaan produk dalam brosur.",
+    "activities": [
+      "ACT-BROSUR-001"
+    ],
+    "deferred_notes": "Aksi Tambah Brosur berstatus DEFERRED."
+  },
+  {
+    "section_number": 4,
+    "title": "Tanya Harga & Konsultasi Keluhan (Modal Global)",
+    "description": "Panduan membuka form konsultasi, memilih 3 jenis produk (Mobil, Motor, Non-Kendaraan), memahami isian wajib, dan membatalkan.",
+    "activities": [
+      "ACT-CONSULT-001",
+      "ACT-CONSULT-002",
+      "ACT-CONSULT-003"
+    ],
+    "deferred_notes": "Aksi Kirim ke WhatsApp berstatus DEFERRED demi keselamatan produksi."
+  },
+  {
+    "section_number": 5,
+    "title": "Memantau Promosi dan Diskon",
+    "description": "Panduan visual memantau program promo potongan harga aktif.",
+    "activities": [
+      "ACT-DISKON-001"
+    ],
+    "deferred_notes": "Aksi Apply Diskon dan Arsip berstatus DEFERRED."
+  },
+  {
+    "section_number": 6,
+    "title": "Mengelola Data Produk dan Harga (Duplikat & Edit)",
+    "description": "Navigasi pemeriksaan data duplikat dengan paginasi PREV/NEXT dan antarmuka seleksi produk untuk edit harga.",
+    "activities": [
+      "ACT-DUP-001",
+      "ACT-EDIT-001"
+    ],
+    "deferred_notes": "Eksekusi duplikasi dan simpan harga massal berstatus DEFERRED."
+  },
+  {
+    "section_number": 7,
+    "title": "Administrasi Pengguna dan Hak Akses",
+    "description": "Tinjauan daftar akun pengguna dan hak akses terdaftar dengan sanitasi data pribadi.",
+    "activities": [
+      "ACT-USER-001"
+    ],
+    "deferred_notes": "Aksi tambah, edit, dan sync user berstatus DEFERRED."
+  }
+]

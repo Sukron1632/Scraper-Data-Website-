@@ -1,0 +1,62 @@
+{
+  "schema_version": "4.0",
+  "policy": "ZERO_MUTATION_ON_PRODUCTION",
+  "generated_at_utc": "2026-11-04T07:06:52.591Z",
+  "total_deferred_features": 6,
+  "exceptions": [
+    {
+      "feature_id": "FEAT-EDIT-SAVE",
+      "module": "Edit Harga",
+      "action_name": "Edit (0)",
+      "status": "NOT_EXECUTED_PRODUCTION_SAFETY",
+      "reason": "Perubahan data dilarang pada sistem produksi aktif (BR-01).",
+      "prerequisite_for_testing": "Penyediaan lingkungan staging / replika database non-produksi oleh pemilik sistem.",
+      "guidebook_handling": "Dokumentasikan keberadaan dan posisi kontrol; kosongkan langkah eksekusi final."
+    },
+    {
+      "feature_id": "FEAT-DISKON-APPLY",
+      "module": "Diskon",
+      "action_name": "Apply Diskon",
+      "status": "NOT_EXECUTED_PRODUCTION_SAFETY",
+      "reason": "Perubahan data dilarang pada sistem produksi aktif (BR-01).",
+      "prerequisite_for_testing": "Penyediaan lingkungan staging / replika database non-produksi oleh pemilik sistem.",
+      "guidebook_handling": "Dokumentasikan keberadaan dan posisi kontrol; kosongkan langkah eksekusi final."
+    },
+    {
+      "feature_id": "FEAT-DISKON-ARCHIVE",
+      "module": "Diskon",
+      "action_name": "Arsipkan",
+      "status": "NOT_EXECUTED_PRODUCTION_SAFETY",
+      "reason": "Perubahan data dilarang pada sistem produksi aktif (BR-01).",
+      "prerequisite_for_testing": "Penyediaan lingkungan staging / replika database non-produksi oleh pemilik sistem.",
+      "guidebook_handling": "Dokumentasikan keberadaan dan posisi kontrol; kosongkan langkah eksekusi final."
+    },
+    {
+      "feature_id": "FEAT-DUPLICATE-EXECUTE",
+      "module": "Duplikat Harga",
+      "action_name": "Duplikat",
+      "status": "NOT_EXECUTED_PRODUCTION_SAFETY",
+      "reason": "Perubahan data dilarang pada sistem produksi aktif (BR-01).",
+      "prerequisite_for_testing": "Penyediaan lingkungan staging / replika database non-produksi oleh pemilik sistem.",
+      "guidebook_handling": "Dokumentasikan keberadaan dan posisi kontrol; kosongkan langkah eksekusi final."
+    },
+    {
+      "feature_id": "FEAT-USER-SYNC",
+      "module": "Karyawan & User",
+      "action_name": "Sync / Sync Org Units",
+      "status": "NOT_EXECUTED_PRODUCTION_SAFETY",
+      "reason": "Perubahan data dilarang pada sistem produksi aktif (BR-01).",
+      "prerequisite_for_testing": "Penyediaan lingkungan staging / replika database non-produksi oleh pemilik sistem.",
+      "guidebook_handling": "Dokumentasikan keberadaan dan posisi kontrol; kosongkan langkah eksekusi final."
+    },
+    {
+      "feature_id": "FEAT-BROSUR-CREATE",
+      "module": "Brosur",
+      "action_name": "Tambah Brosur",
+      "status": "NOT_EXECUTED_PRODUCTION_SAFETY",
+      "reason": "Perubahan data dilarang pada sistem produksi aktif (BR-01).",
+      "prerequisite_for_testing": "Penyediaan lingkungan staging / replika database non-produksi oleh pemilik sistem.",
+      "guidebook_handling": "Dokumentasikan keberadaan dan posisi kontrol; kosongkan langkah eksekusi final."
+    }
+  ]
+}

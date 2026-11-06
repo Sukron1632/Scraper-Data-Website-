@@ -1,0 +1,11 @@
+{
+  "transition_id": "TR-001",
+  "from_state_id": "STATE_SEARCH_001_MODAL_OPEN",
+  "action_ui_accurate": "Klik tombol \"Lewati Panduan\"",
+  "to_state_id": "STATE_SEARCH_002_MODAL_CLOSED",
+  "recorded_at_utc": "2026-11-04T06:30:07.676Z",
+  "assertion": {
+    "assertion_type": "MODAL_DISMISSED",
+    "status": "PASS"
+  }
+}

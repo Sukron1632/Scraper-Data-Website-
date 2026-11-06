@@ -1,0 +1,122 @@
+[
+  {
+    "module_id": "MOD-001",
+    "activity_id": "ACT-DASH-001",
+    "feature_id": "FEAT-DASH-SUMMARY",
+    "activity_title": "Memantau Metrik Katalog Produk dan Shortcut Brosur Digital",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_DASHBOARD_001_CLEAN;EVD-STATE_DASHBOARD_001_CLEAN"
+  },
+  {
+    "module_id": "MOD-002",
+    "activity_id": "ACT-SEARCH-001",
+    "feature_id": "FEAT-SEARCH-ONBOARDING",
+    "activity_title": "Menutup Pop-up Panduan Interaktif saat Pertama Masuk",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_SEARCH_001_MODAL_OPEN;EVD-STATE_SEARCH_002_MODAL_CLOSED"
+  },
+  {
+    "module_id": "MOD-002",
+    "activity_id": "ACT-SEARCH-002",
+    "feature_id": "FEAT-SEARCH-REALTIME",
+    "activity_title": "Mencari Produk Spesifik Menggunakan Kata Kunci",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_SEARCH_002_MODAL_CLOSED;EVD-STATE_SEARCH_003_FILTERED"
+  },
+  {
+    "module_id": "MOD-002",
+    "activity_id": "ACT-SEARCH-003",
+    "feature_id": "FEAT-SEARCH-EMPTY",
+    "activity_title": "Melihat Tampilan saat Produk Tidak Ditemukan (Empty State)",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_SEARCH_004_EMPTY;EVD-STATE_SEARCH_004_EMPTY"
+  },
+  {
+    "module_id": "MOD-002",
+    "activity_id": "ACT-SEARCH-004",
+    "feature_id": "FEAT-SEARCH-BRAND-FILTER",
+    "activity_title": "Memilih Brand Tertentu untuk Menyaring Hasil Pencarian",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_SEARCH_002_MODAL_CLOSED;EVD-STATE_SEARCH_005_BRAND_FILTERED"
+  },
+  {
+    "module_id": "MOD-002",
+    "activity_id": "ACT-SEARCH-005",
+    "feature_id": "FEAT-SEARCH-CONTROLS",
+    "activity_title": "Mengatur Jumlah Baris Tampilan dan Konfigurasi Kolom Harga",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_SEARCH_002_MODAL_CLOSED;EVD-STATE_SEARCH_002_MODAL_CLOSED"
+  },
+  {
+    "module_id": "MOD-003",
+    "activity_id": "ACT-BRAND-001",
+    "feature_id": "FEAT-BRAND-CATALOG",
+    "activity_title": "Memilih Merek Resmi pada Katalog Produk Spesifik",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_BRAND_007_speedometer;EVD-STATE_BRAND_007_speedometer"
+  },
+  {
+    "module_id": "MOD-004",
+    "activity_id": "ACT-BROSUR-001",
+    "feature_id": "FEAT-BROSUR-DETAIL",
+    "activity_title": "Melihat Rincian Pemetaan Produk dalam Brosur Digital",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_BROSUR_001_LIST;EVD-STATE_BROSUR_002_DETAIL_1103"
+  },
+  {
+    "module_id": "MOD-004",
+    "activity_id": "ACT-BROSUR-002",
+    "feature_id": "FEAT-BROSUR-LIST",
+    "activity_title": "Menavigasi dan Meninjau Daftar Katalog Brosur Digital",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_BROSUR_001_LIST;EVD-STATE_BROSUR_001_LIST"
+  },
+  {
+    "module_id": "MOD-005",
+    "activity_id": "ACT-DISKON-001",
+    "feature_id": "FEAT-DISKON-LIST",
+    "activity_title": "Memeriksa Status dan Masa Berlaku Program Diskon Aktif",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_DISKON_001_LIST"
+  },
+  {
+    "module_id": "MOD-006",
+    "activity_id": "ACT-USER-001",
+    "feature_id": "FEAT-USER-LIST",
+    "activity_title": "Meninjau Daftar Akun Pengguna dan Status Hak Akses",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_USER_001_LIST"
+  },
+  {
+    "module_id": "MOD-007",
+    "activity_id": "ACT-DUP-001",
+    "feature_id": "FEAT-DUP-PAGINATION",
+    "activity_title": "Menavigasi Halaman Data Duplikat Menggunakan Tombol NEXT",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_DUPLICATE_001_PAGINATION;EVD-STATE_DUPLICATE_001_PAGINATION"
+  },
+  {
+    "module_id": "MOD-008",
+    "activity_id": "ACT-EDIT-001",
+    "feature_id": "FEAT-EDIT-SELECTION",
+    "activity_title": "Memeriksa Status Tombol Edit (0) Disabled pada Seleksi Produk",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_EDIT_HARGA_001_VIEW;EVD-STATE_EDIT_HARGA_001_VIEW"
+  },
+  {
+    "module_id": "MOD-009",
+    "activity_id": "ACT-CONSULT-001",
+    "feature_id": "FEAT-CONSULT-FORM",
+    "activity_title": "Membuka Form Konsultasi & Memilih Varian Produk (Mobil, Motor, Non-Kendaraan)",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_CONSULT_001_TRIGGER;EVD-STATE_CONSULT_002_MODAL_SPD"
+  },
+  {
+    "module_id": "MOD-009",
+    "activity_id": "ACT-CONSULT-002",
+    "feature_id": "FEAT-CONSULT-FORM",
+    "activity_title": "Membatalkan Form Konsultasi via Tombol Batal",
+    "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+    "evidence_refs": "EVD-STATE_CONSULT_002_MODAL_SPD;EVD-STATE_CONSULT_005_MODAL_CLOSED"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "schema_version": "3.0",
+  "activity_id": "ACT-DASH-001",
+  "module_id": "MOD-001",
+  "module": "Dashboard",
+  "feature_id": "FEAT-001",
+  "feature": "Ringkasan Sistem & Statistik",
+  "activity_name_ui_accurate": "Memantau Metrik Katalog Produk dan Status Promo Aktif",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "preconditions": [
+    "Pengguna berhasil login dan berada pada rute /dashboard"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "OBSERVE_UI_CARD",
+      "ui_target_actual": "Katalog & Ringkasan Produk",
+      "state_before_id": "STATE_DASHBOARD_001_CLEAN",
+      "state_after_id": "STATE_DASHBOARD_001_CLEAN",
+      "expected_result": "Menampilkan kartu statistik total produk aktif",
+      "actual_result": "Kartu statistik produk teramati tampil bersih tanpa elemen modal tersembunyi",
+      "assertion_status": "PASS",
+      "evidence_ids": [
+        "EVD-STATE_DASHBOARD_001_CLEAN"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01"
+  ],
+  "verification_status": "OBSERVED_UI",
+  "readiness": "READY_FOR_VISUAL_GUIDE",
+  "gaps": [
+    "Hak akses role kasir/gudang belum diuji terpisah"
+  ],
+  "source_refs": [
+    "storage/raw_pages/001_https___pricelist_radiatorsprings_id_dashboard.json"
+  ]
+}

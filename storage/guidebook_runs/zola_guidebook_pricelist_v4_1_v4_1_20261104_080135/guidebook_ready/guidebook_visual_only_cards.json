@@ -1,0 +1,18 @@
+[
+  {
+    "activity_id": "ACT-DISKON-001",
+    "module": "Diskon",
+    "feature": "Daftar Diskon Aktif",
+    "title": "Memantau Daftar Program Diskon dan Status Promo",
+    "screenshot_ref": "EVD-STATE_DISKON_001_LIST",
+    "guidance_note": "Pengenalan antarmuka visual terbatas. Eksekusi lanjutan ditunda demi keselamatan data produksi."
+  },
+  {
+    "activity_id": "ACT-EDIT-001",
+    "module": "Edit Harga",
+    "feature": "Seleksi Produk Edit Harga",
+    "title": "Daftar & Pemilihan Produk Edit Harga (Tombol Edit (0) Disabled)",
+    "screenshot_ref": "EVD-STATE_EDIT_HARGA_001_VIEW",
+    "guidance_note": "Pengenalan antarmuka visual terbatas. Eksekusi lanjutan ditunda demi keselamatan data produksi."
+  }
+]

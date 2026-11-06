@@ -1,0 +1,30 @@
+{
+  "schema_version": "3.0",
+  "activity_id": "ACT-DUP-001",
+  "screenshot_ref": "screenshots_sanitized_v3/STATE_DUPLICATE_001_PAGINATION.png",
+  "style_standard": "Zola Standard (Orange #E65100 / Charcoal #263238 / White #FFFFFF)",
+  "canvas_resolution": {
+    "width": 1440,
+    "height": 900
+  },
+  "callouts": [
+    {
+      "callout_id": "CALL-1",
+      "callout_number": "[01]",
+      "target_label_actual": "PREV / NEXT",
+      "action_type": "OBSERVE_PAGINATION",
+      "bbox_px": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "canvas_dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "operational_instruction": "Tombol PREV disabled pada hal 1 dan tombol NEXT enabled",
+      "review_status": "MEASURED_AND_VERIFIED"
+    }
+  ]
+}

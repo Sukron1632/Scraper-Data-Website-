@@ -1,0 +1,213 @@
+[
+  {
+    "module_id": "MOD-001",
+    "module_name": "Dashboard",
+    "url_route": "/dashboard",
+    "features": [
+      {
+        "feature_id": "FEAT-DASH-01",
+        "feature_name": "Ringkasan Sistem & Statistik",
+        "classification": "READ_ONLY",
+        "activities": [
+          {
+            "activity_id": "ACT-DASH-001",
+            "activity_name": "Memantau Metrik Katalog Produk dan Status Promo Aktif",
+            "readiness": "READY_FOR_PROCEDURAL_GUIDE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module_id": "MOD-002",
+    "module_name": "Cari Harga",
+    "url_route": "/search",
+    "features": [
+      {
+        "feature_id": "FEAT-SEARCH-01",
+        "feature_name": "Panduan Onboarding Driver.js",
+        "classification": "READ_ONLY",
+        "activities": [
+          {
+            "activity_id": "ACT-SEARCH-001",
+            "activity_name": "Menutup Pop-up Panduan Interaktif saat Pertama Masuk",
+            "readiness": "READY_FOR_PROCEDURAL_GUIDE"
+          }
+        ]
+      },
+      {
+        "feature_id": "FEAT-SEARCH-02",
+        "feature_name": "Pencarian Real-Time Livewire",
+        "classification": "READ_ONLY",
+        "activities": [
+          {
+            "activity_id": "ACT-SEARCH-002",
+            "activity_name": "Mencari Produk Spesifik Menggunakan Kata Kunci",
+            "readiness": "READY_FOR_PROCEDURAL_GUIDE"
+          },
+          {
+            "activity_id": "ACT-SEARCH-003",
+            "activity_name": "Melihat Tampilan saat Produk Tidak Ditemukan (Empty State)",
+            "readiness": "READY_FOR_PROCEDURAL_GUIDE"
+          }
+        ]
+      },
+      {
+        "feature_id": "FEAT-SEARCH-03",
+        "feature_name": "Filter Brand & Kategori",
+        "classification": "READ_ONLY",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "module_id": "MOD-003",
+    "module_name": "Harga per Brand",
+    "url_route": "/harga?brand=...",
+    "features": [
+      {
+        "feature_id": "FEAT-BRAND-ALL",
+        "feature_name": "Katalog 10 Brand Resmi",
+        "classification": "READ_ONLY",
+        "activities": [
+          {
+            "activity_id": "ACT-BRAND-001",
+            "activity_name": "Membuka dan Mengecek Katalog Resmi 10 Brand Terdaftar",
+            "readiness": "READY_FOR_PROCEDURAL_GUIDE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module_id": "MOD-004",
+    "module_name": "Brosur",
+    "url_route": "/admin/brosur",
+    "features": [
+      {
+        "feature_id": "FEAT-BROSUR-LIST",
+        "feature_name": "Daftar Brosur Digital",
+        "classification": "READ_ONLY",
+        "activities": []
+      },
+      {
+        "feature_id": "FEAT-BROSUR-VIEW",
+        "feature_name": "Rincian Produk Brosur #1103",
+        "classification": "READ_ONLY",
+        "activities": [
+          {
+            "activity_id": "ACT-BROSUR-001",
+            "activity_name": "Melihat Daftar Brosur Digital dan Rincian Pemetaan Produk",
+            "readiness": "READY_FOR_PROCEDURAL_GUIDE"
+          }
+        ]
+      },
+      {
+        "feature_id": "FEAT-BROSUR-MUT",
+        "feature_name": "Tambah / Upload Brosur",
+        "classification": "MUTATIVE_DEFERRED",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "module_id": "MOD-005",
+    "module_name": "Diskon",
+    "url_route": "/admin/diskon",
+    "features": [
+      {
+        "feature_id": "FEAT-DISKON-LIST",
+        "feature_name": "Daftar Diskon Aktif",
+        "classification": "READ_ONLY",
+        "activities": [
+          {
+            "activity_id": "ACT-DISKON-001",
+            "activity_name": "Memantau Daftar Program Diskon dan Status Promo",
+            "readiness": "READY_FOR_VISUAL_GUIDE"
+          }
+        ]
+      },
+      {
+        "feature_id": "FEAT-DISKON-MUT",
+        "feature_name": "Apply & Arsip Diskon",
+        "classification": "MUTATIVE_DEFERRED",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "module_id": "MOD-006",
+    "module_name": "Karyawan & User",
+    "url_route": "/admin/user",
+    "features": [
+      {
+        "feature_id": "FEAT-USER-LIST",
+        "feature_name": "Daftar Akun Karyawan",
+        "classification": "READ_ONLY",
+        "activities": [
+          {
+            "activity_id": "ACT-USER-001",
+            "activity_name": "Melihat Daftar Karyawan dan Role Akses Terdaftar Secara Aman",
+            "readiness": "READY_FOR_PROCEDURAL_GUIDE"
+          }
+        ]
+      },
+      {
+        "feature_id": "FEAT-USER-MUT",
+        "feature_name": "Tambah / Edit / Sync User",
+        "classification": "MUTATIVE_DEFERRED",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "module_id": "MOD-007",
+    "module_name": "Duplikat Harga",
+    "url_route": "/admin/duplicate",
+    "features": [
+      {
+        "feature_id": "FEAT-DUP-PAG",
+        "feature_name": "Paginasi Duplikat PREV/NEXT",
+        "classification": "READ_ONLY",
+        "activities": [
+          {
+            "activity_id": "ACT-DUP-001",
+            "activity_name": "Memeriksa Entri Duplikat dan Menguji Kontrol Navigasi Paginasi",
+            "readiness": "READY_FOR_PROCEDURAL_GUIDE"
+          }
+        ]
+      },
+      {
+        "feature_id": "FEAT-DUP-MUT",
+        "feature_name": "Eksekusi Duplikasi Produk",
+        "classification": "MUTATIVE_DEFERRED",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "module_id": "MOD-008",
+    "module_name": "Edit Harga",
+    "url_route": "/admin/edit-harga",
+    "features": [
+      {
+        "feature_id": "FEAT-EDIT-VIEW",
+        "feature_name": "Seleksi Produk Edit Harga",
+        "classification": "READ_ONLY",
+        "activities": [
+          {
+            "activity_id": "ACT-EDIT-001",
+            "activity_name": "Daftar & Pemilihan Produk Edit Harga (Tombol Edit (0) Disabled)",
+            "readiness": "READY_FOR_VISUAL_GUIDE"
+          }
+        ]
+      },
+      {
+        "feature_id": "FEAT-EDIT-MUT",
+        "feature_name": "Submit Ubah Harga Massal",
+        "classification": "MUTATIVE_DEFERRED",
+        "activities": []
+      }
+    ]
+  }
+]

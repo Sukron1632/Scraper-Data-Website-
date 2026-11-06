@@ -1,0 +1,32 @@
+[
+  {
+    "finding_id": "V4-GAP-01",
+    "description": "Modul global Tanya Harga & Konsultasi Keluhan terlewat dari inventaris V4.",
+    "status_v4_1": "FIXED",
+    "remediation_proof": "Ditambahkan sebagai MOD-009 dengan 3 aktivitas teruji (ACT-CONSULT-001..003), 3 varian formulir lengkap, dan dossier submit deferred (FEAT-CONSULT-SUBMIT)."
+  },
+  {
+    "finding_id": "V4-GAP-02",
+    "description": "Nilai CSRF token masih tertinggal pada HTML distribusi V4.",
+    "status_v4_1": "FIXED",
+    "remediation_proof": "Seluruh meta[name=csrf-token] dan input[name=_token] diganti dengan placeholder [REDACTED_CSRF_TOKEN]."
+  },
+  {
+    "finding_id": "V4-GAP-03",
+    "description": "Entry name di dalam ZIP V4 mengandung backslash Windows.",
+    "status_v4_1": "FIXED",
+    "remediation_proof": "Packaging ZIP dialihkan menggunakan Python zipfile untuk menjamin format POSIX forward slash (/) 100% bebas backslash."
+  },
+  {
+    "finding_id": "V4-GAP-04",
+    "description": "Semantic mismatch pada callout ACT-DUP-001, ACT-EDIT-001, ACT-BRAND-001, ACT-SEARCH-003, ACT-BROSUR-001.",
+    "status_v4_1": "FIXED",
+    "remediation_proof": "Seluruh callout dikoreksi mengarah persis ke tombol target spesifik dan menggunakan tangkapan layar state yang relevan."
+  },
+  {
+    "finding_id": "V4-GAP-05",
+    "description": "FEAT-SEARCH-03 (Filter Brand) memiliki activities: [].",
+    "status_v4_1": "FIXED",
+    "remediation_proof": "Ditambahkan aktivitas teruji ACT-SEARCH-004 dengan screenshot STATE_SEARCH_005_BRAND_FILTERED."
+  }
+]

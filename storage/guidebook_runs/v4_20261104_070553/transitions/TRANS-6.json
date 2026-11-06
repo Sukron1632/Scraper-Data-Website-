@@ -1,0 +1,12 @@
+{
+  "schema_version": "4.0",
+  "transition_id": "TRANS-6",
+  "from_state_id": "STATE_DUPLICATE_001_PAGINATION",
+  "to_state_id": "STATE_DUPLICATE_002_PAGE2",
+  "trigger_action": "Klik tombol NEXT paginasi",
+  "assertion_data": {
+    "assertion_type": "PAGINATION_ADVANCE",
+    "status": "PASS"
+  },
+  "recorded_at_utc": "2026-11-04T07:06:22.075Z"
+}

@@ -1,0 +1,94 @@
+{
+  "schema_version": "2.0",
+  "activity_id": "ACT-002",
+  "module": "Cari Harga",
+  "feature": "Pencarian Produk & Filter Spesifik",
+  "activity_name": "Mencari Informasi Harga Produk & Menyesuaikan Kolom Tampilan",
+  "priority": "CRITICAL",
+  "role_claimed": "IT Administrator",
+  "role_verified": "NANA (Admin/IT - Observed in UI Header)",
+  "role_verification_source": "Live header inspection at https://pricelist.radiatorsprings.id/search",
+  "environment": "production_read_only",
+  "url": "https://pricelist.radiatorsprings.id/search",
+  "captured_at_utc": "2026-11-04T05:42:55.920Z",
+  "prerequisites": [
+    "Pengguna berada pada modul Cari Harga",
+    "Pop-up panduan interaktif telah dilewati/ditutup"
+  ],
+  "initial_state_id": "state_002_search_modal_open",
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Tutup Pop-up Panduan Interaktif bila muncul",
+      "ui_label_exact": "Lewati Panduan",
+      "locator": "button:has-text('Lewati Panduan'), .driver-close-btn",
+      "state_before_id": "state_002_search_modal_open",
+      "screenshot_before_ref": "screenshots_sanitized/state_002_search_modal_open.png",
+      "state_after_id": "state_002_search_modal_closed",
+      "screenshot_after_ref": "screenshots_sanitized/state_002_search_modal_closed.png",
+      "observed_result": "Pop-up panduan tertutup sempurna dan seluruh area tabel pencarian terbuka penuh.",
+      "expected_result": "Layar beralih ke mode kerja pencarian aktif.",
+      "outcome": "OBSERVED",
+      "evidence_ids": [
+        "EV-SEARCH-MODAL"
+      ]
+    },
+    {
+      "step_number": 2,
+      "action": "Ketik kata kunci produk pada Kolom Pencarian",
+      "ui_label_exact": "Cari Produk...",
+      "locator": "input[type='text'], input[placeholder*='Cari']",
+      "state_before_id": "state_002_search_modal_closed",
+      "screenshot_before_ref": "screenshots_sanitized/state_002_search_modal_closed.png",
+      "state_after_id": "state_002_search_filtered",
+      "screenshot_after_ref": "screenshots_sanitized/state_002_search_filtered.png",
+      "observed_result": "Tabel menampilkan daftar produk yang sesuai dengan kata kunci secara real-time.",
+      "expected_result": "Baris tabel terfilter tanpa perlu me-refresh halaman.",
+      "outcome": "OBSERVED",
+      "evidence_ids": [
+        "EV-SEARCH-FILTER"
+      ]
+    },
+    {
+      "step_number": 3,
+      "action": "Ketik kata kunci acak untuk mengamati kondisi data tidak ditemukan",
+      "ui_label_exact": "Cari Produk...",
+      "locator": "input[type='text'], input[placeholder*='Cari']",
+      "state_before_id": "state_002_search_filtered",
+      "screenshot_before_ref": "screenshots_sanitized/state_002_search_filtered.png",
+      "state_after_id": "state_002_search_empty",
+      "screenshot_after_ref": "screenshots_sanitized/state_002_search_empty.png",
+      "observed_result": "Tabel menampilkan state kosong tanpa data produk.",
+      "expected_result": "Pengguna mengetahui indikator visual saat produk tidak tersedia di sistem.",
+      "outcome": "OBSERVED",
+      "evidence_ids": [
+        "EV-SEARCH-EMPTY"
+      ]
+    }
+  ],
+  "validation_rules": [
+    "Pencarian bersifat case-insensitive.",
+    "Jika kata kunci tidak cocok, tabel menampilkan 0 hasil."
+  ],
+  "business_rule_refs": [
+    "BR-02"
+  ],
+  "permission_refs": [
+    "PERM-READ-ALL"
+  ],
+  "evidence_statuses": [
+    "OBSERVED",
+    "TESTED_READ_ONLY"
+  ],
+  "confidence_reason": "Diuji langsung pada live system dengan variasi state: modal open, modal closed, query cocok, dan query kosong.",
+  "coverage_gaps": [
+    "Eksekusi tombol Download file excel/pdf tidak dijalankan di produksi guna menghindari beban IO server."
+  ],
+  "source_raw_page_refs": [
+    "storage/raw_pages/002_https___pricelist_radiatorsprings_id_search.json"
+  ],
+  "source_old_analysis_refs": [
+    "storage/checkpoints/analysis_002_https___pricelist_radiatorsprings_id_search.json"
+  ],
+  "sensitive_data_removed_in_export": true
+}

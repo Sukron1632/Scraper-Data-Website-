@@ -1,0 +1,27 @@
+{
+  "schema_version": "3.0",
+  "activity_id": "ACT-SEARCH-001",
+  "module": "Cari Harga",
+  "feature": "Panduan Onboarding",
+  "user_objective_non_it": "Panduan bagi staf dalam menutup pop-up panduan interaktif untuk memulai pencarian secara cepat dan aman.",
+  "verified_roles": [
+    "NANA (Observed in Header)"
+  ],
+  "steps_grounded": [
+    {
+      "step": 1,
+      "target_label_exact": "Lewati Panduan",
+      "action": "CLICK_DISMISS",
+      "observed_outcome": "Modal berhasil ditutup dan tabel pencarian normal terlihat sempurna",
+      "evidence_id": "EVD-STATE_SEARCH_001_MODAL_OPEN"
+    }
+  ],
+  "governing_business_rules": [
+    "BR-01"
+  ],
+  "questions_for_process_owner": [
+    "Apakah staf kasir diizinkan melihat seluruh kolom harga pada modul Cari Harga?",
+    "Kapan jadwal sinkronisasi atau perubahan data rutin dilakukan pada fitur Panduan Onboarding?"
+  ],
+  "coverage_gaps": []
+}

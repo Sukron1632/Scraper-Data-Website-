@@ -1,0 +1,15 @@
+# RUANG LINGKUP RILIS DATASET V4 (RELEASE SCOPE)
+- **Status Rilis:** 🟢 **GO_WITH_DOCUMENTED_EXCEPTIONS**
+- **Cakupan Siap Tulis (Ready for Guidebook):**
+  - Bab 1: Pengenalan Dashboard & Statistik Katalog
+  - Bab 2: Prosedur Pencarian Produk & Filter Harga Real-Time
+  - Bab 3: Panduan Katalog Resmi 10 Brand
+  - Bab 4: Panduan Melihat Brosur Digital & Rincian Produk
+  - Bab 5: Navigasi Tabel Duplikat & Paginasi
+  - Bab 6: Tinjauan Daftar Karyawan & Akun Pengguna
+  - Bab 7: Pengenalan Antarmuka Seleksi Edit Harga (Read-Only)
+- **Cakupan Ditunda (Deferred to Staging):**
+  - Prosedur Simpan Perubahan Harga Massal
+  - Prosedur Apply / Arsip Diskon
+  - Prosedur Eksekusi Duplikasi Produk
+  - Prosedur Tambah / Sinkronisasi Pengguna

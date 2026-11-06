@@ -1,0 +1,18 @@
+{
+  "plan_id": "PLAN-ACT-BROSUR-002",
+  "activity_id": "ACT-BROSUR-002",
+  "screenshot_ref": "evidence/screenshots_sanitized/STATE_BROSUR_001_LIST.png",
+  "callouts": [
+    {
+      "callout_number": 1,
+      "target_label": "Daftar Katalog Brosur Digital Resmi",
+      "bbox_px": [
+        290,
+        120,
+        1110,
+        600
+      ],
+      "text_note": "Katalog seluruh brosur promosi yang tersedia."
+    }
+  ]
+}

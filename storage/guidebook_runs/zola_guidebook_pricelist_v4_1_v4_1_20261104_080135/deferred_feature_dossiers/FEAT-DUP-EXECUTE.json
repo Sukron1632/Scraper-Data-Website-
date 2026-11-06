@@ -1,0 +1,21 @@
+{
+  "schema_version": "4.1",
+  "feature_id": "FEAT-DUP-EXECUTE",
+  "module": "Duplikat Harga",
+  "ui_label_exact": "Duplikat",
+  "observed_location": "Tombol aksi baris tabel /admin/duplicate",
+  "existence_status": "INVENTORY_TRUTH",
+  "visual_status": "OBSERVED_IN_PAGE",
+  "mutation_test_status": "NOT_EXECUTED_PRODUCTION_SAFETY",
+  "is_production_safe_to_click": false,
+  "role_status": "NANA (Observed in Header)",
+  "field_inventory_refs": [],
+  "evidence_refs": [
+    "EVD-STATE_DUPLICATE_001_PAGINATION"
+  ],
+  "remaining_questions": [
+    "Bagaimana logika pencegahan SKU ganda saat eksekusi duplikasi?"
+  ],
+  "guidebook_permission": "EXPLAIN_PURPOSE_DEFER_EXECUTION_STEPS",
+  "verification_notes": "Eksekusi duplikasi dicegat untuk mencegah duplikasi data riil di database."
+}

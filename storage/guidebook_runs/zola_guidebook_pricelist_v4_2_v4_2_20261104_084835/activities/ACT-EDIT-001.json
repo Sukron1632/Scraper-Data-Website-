@@ -1,0 +1,29 @@
+{
+  "activity_id": "ACT-EDIT-001",
+  "module_id": "MOD-008",
+  "feature_id": "FEAT-EDIT-SELECTION",
+  "title": "Memeriksa Status Tombol Edit (0) Disabled pada Seleksi Produk",
+  "observed_result": "Tombol 'Edit (0)' teramati dalam keadaan nonaktif (disabled) hingga produk dicentang.",
+  "prerequisites": "Pengguna membuka rute /admin/edit-harga.",
+  "observed_role": "Staff / IT Administrator (NANA)",
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Perhatikan tombol 'Edit (0)' di kanan atas tabel sebelum ada produk yang dipilih.",
+      "exact_ui_label": "Edit (0)",
+      "evidence_ids": [
+        "EVD-STATE_EDIT_HARGA_001_VIEW"
+      ]
+    },
+    {
+      "step_number": 2,
+      "action": "Perhatikan kotak centang (checkbox) pada baris produk yang menjadi syarat aktivasi tombol.",
+      "exact_ui_label": "Pilih Produk",
+      "evidence_ids": [
+        "EVD-STATE_EDIT_HARGA_001_VIEW"
+      ]
+    }
+  ],
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "status": "READY_FOR_GUIDEBOOK"
+}

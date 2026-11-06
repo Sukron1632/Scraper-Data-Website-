@@ -1,0 +1,33 @@
+{
+  "schema_version": "4.1",
+  "generated_at_utc": "2026-11-04T08:02:55.367Z",
+  "scraper_policies": [
+    {
+      "rule_code": "BR-01",
+      "name": "Zero Mutation on Live Production",
+      "status": "ENFORCED_ACTIVE"
+    },
+    {
+      "rule_code": "BR-03",
+      "name": "PII & Secret Sanitization",
+      "status": "ENFORCED_ACTIVE"
+    }
+  ],
+  "product_business_rules": [
+    {
+      "rule_code": "BR-02",
+      "name": "Pencarian Real-Time via Livewire 3",
+      "status": "TESTED_READ_ONLY"
+    },
+    {
+      "rule_code": "BR-04",
+      "name": "Paginasi Tabel Duplikat Harga",
+      "status": "TESTED_READ_ONLY"
+    },
+    {
+      "rule_code": "BR-05",
+      "name": "Modal Konsultasi 3 Varian Produk",
+      "status": "TESTED_READ_ONLY"
+    }
+  ]
+}

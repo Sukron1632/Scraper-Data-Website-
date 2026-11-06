@@ -1,0 +1,7 @@
+# DRAF BUKU PANDUAN DARI AI WEBSITE
+(Tempelkan teks hasil dari website AI atau ChatGPT/Claude/Gamma di sini untuk diaudit secara otomatis)
+
+Contoh:
+Bab 1: Pengelolaan Data Transaksi
+Untuk mengubah data transaksi, karyawan cukup klik tombol 'Ubah' atau 'Delete' di tabel sebelah kanan, lalu simpan perubahan tersebut.
+

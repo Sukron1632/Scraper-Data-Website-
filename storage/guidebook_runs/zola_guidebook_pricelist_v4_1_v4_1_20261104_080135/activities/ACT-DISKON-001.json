@@ -1,0 +1,35 @@
+{
+  "schema_version": "4.1",
+  "activity_id": "ACT-DISKON-001",
+  "module_id": "MOD-005",
+  "module": "Diskon",
+  "feature_id": "FEAT-DISKON-LIST",
+  "feature": "Daftar Diskon Aktif",
+  "activity_name_ui_accurate": "Memantau Daftar Program Diskon dan Status Promo",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "verification_status": "VERIFIED_VISUAL_ONLY",
+  "readiness": "READY_FOR_VISUAL_GUIDE",
+  "preconditions": [
+    "Berada pada rute /admin/diskon"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "OBSERVE_UI_TABLE",
+      "ui_target_actual": "Tabel Diskon Aktif",
+      "state_before_id": "STATE_DISKON_001_LIST",
+      "state_after_id": "STATE_DISKON_001_LIST",
+      "expected_result": "Daftar promo dan persentase diskon terlihat jelas pada tabel",
+      "evidence_ids": [
+        "EVD-STATE_DISKON_001_LIST"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01"
+  ],
+  "gaps": [
+    "Aksi Apply dan Arsip berstatus DEFERRED (FEAT-DISKON-APPLY, FEAT-DISKON-ARCHIVE)."
+  ]
+}

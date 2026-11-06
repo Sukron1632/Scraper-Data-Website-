@@ -1,0 +1,1166 @@
+{
+  "state_id": "state_009_brand_speedometer",
+  "url": "https://pricelist.radiatorsprings.id/harga?brand=speedometer",
+  "title": "Web Pricelist | Admin",
+  "captured_at_utc": "2026-11-04T05:42:49.716Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "screenshot_original_ref": "screenshots_original_new/state_009_brand_speedometer.png",
+  "screenshot_sanitized_ref": "screenshots_sanitized/state_009_brand_speedometer.png",
+  "module": "Katalog Brand",
+  "feature": "Katalog Brand SPEEDOMETER",
+  "state_description": "Tampilan katalog produk resmi brand SPEEDOMETER beserta kategori dan struktur harga.",
+  "modal_active": false,
+  "filter_applied": false,
+  "pagination_info": null,
+  "dom_summary": {
+    "url": "https://pricelist.radiatorsprings.id/harga?brand=speedometer",
+    "title": "Web Pricelist | Admin",
+    "interactiveElementsCount": 171,
+    "visibleElementsCount": 45,
+    "elements": [
+      {
+        "idx": 0,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 1,
+        "tagName": "input",
+        "type": "checkbox",
+        "id": "main-drawer",
+        "role": null,
+        "text": "on",
+        "className": "drawer-toggle",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 2,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Tambah Merk",
+        "className": "btn normal-case btn-primary",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1075,
+          "y": 36,
+          "width": 160,
+          "height": 40
+        }
+      },
+      {
+        "idx": 3,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Tambah Tipe",
+        "className": "btn normal-case btn-primary",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1246,
+          "y": 36,
+          "width": 154,
+          "height": 40
+        }
+      },
+      {
+        "idx": 4,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary92ec82f68081de4e3bdfb1ad5b8e3d95search",
+        "role": null,
+        "text": "Cari merk atau tipe...",
+        "className": null,
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 325,
+          "y": 150,
+          "width": 377,
+          "height": 38
+        }
+      },
+      {
+        "idx": 5,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "AFTERMARKET",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-primary text-white shadow-lg",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 241,
+          "width": 199,
+          "height": 44
+        }
+      },
+      {
+        "idx": 6,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "ASTON MARTIN",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 293,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 7,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "AUDI",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 347,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 8,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "BMW",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 401,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 9,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "BYD",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 455,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 10,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "CADILLAC",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 509,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 11,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "CHEVROLET",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 563,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 12,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "CITROEN",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 617,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 13,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "DAIHATSU",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 671,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 14,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "DATSUN",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 725,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 15,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "DFSK",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 779,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 16,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "DODGE",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 833,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 17,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "FERRARI",
+        "className": "flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold uppercase transition bg-slate-900 border border-slate-700/60 text-slate-300 hover:bg-slate-800",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 887,
+          "width": 199,
+          "height": 46
+        }
+      },
+      {
+        "idx": 52,
+        "tagName": "div",
+        "type": null,
+        "id": null,
+        "role": "button",
+        "text": "DASH 2 PRO",
+        "className": "group relative aspect-[4/3] cursor-pointer overflow-hidden rounded-3xl border border-white/10 bg-slate-900 shadow-xl transition-all duration-300 hover:border-primary/50",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 517,
+          "y": 209,
+          "width": 209,
+          "height": 157
+        }
+      },
+      {
+        "idx": 53,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "flex h-9 w-9 items-center justify-center rounded-xl bg-amber-500/90 text-white shadow-lg backdrop-blur hover:bg-amber-500 hover:scale-105 active:scale-95 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 677,
+          "y": 222,
+          "width": 36,
+          "height": 36
+        }
+      },
+      {
+        "idx": 54,
+        "tagName": "div",
+        "type": null,
+        "id": null,
+        "role": "button",
+        "text": "HALTECH",
+        "className": "group relative aspect-[4/3] cursor-pointer overflow-hidden rounded-3xl border border-white/10 bg-slate-900 shadow-xl transition-all duration-300 hover:border-primary/50",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 742,
+          "y": 209,
+          "width": 209,
+          "height": 157
+        }
+      },
+      {
+        "idx": 55,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "flex h-9 w-9 items-center justify-center rounded-xl bg-amber-500/90 text-white shadow-lg backdrop-blur hover:bg-amber-500 hover:scale-105 active:scale-95 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 901,
+          "y": 222,
+          "width": 36,
+          "height": 36
+        }
+      },
+      {
+        "idx": 56,
+        "tagName": "div",
+        "type": null,
+        "id": null,
+        "role": "button",
+        "text": "INSTRUMENT UNIVERSAL",
+        "className": "group relative aspect-[4/3] cursor-pointer overflow-hidden rounded-3xl border border-white/10 bg-slate-900 shadow-xl transition-all duration-300 hover:border-primary/50",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 966,
+          "y": 209,
+          "width": 209,
+          "height": 157
+        }
+      },
+      {
+        "idx": 57,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "flex h-9 w-9 items-center justify-center rounded-xl bg-amber-500/90 text-white shadow-lg backdrop-blur hover:bg-amber-500 hover:scale-105 active:scale-95 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1126,
+          "y": 222,
+          "width": 36,
+          "height": 36
+        }
+      },
+      {
+        "idx": 58,
+        "tagName": "div",
+        "type": null,
+        "id": null,
+        "role": "button",
+        "text": "Belum ada foto\nMARKETPLACE",
+        "className": "group relative aspect-[4/3] cursor-pointer overflow-hidden rounded-3xl border border-white/10 bg-slate-900 shadow-xl transition-all duration-300 hover:border-primary/50",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1191,
+          "y": 209,
+          "width": 209,
+          "height": 157
+        }
+      },
+      {
+        "idx": 59,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "flex h-9 w-9 items-center justify-center rounded-xl bg-amber-500/90 text-white shadow-lg backdrop-blur hover:bg-amber-500 hover:scale-105 active:scale-95 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1351,
+          "y": 222,
+          "width": 36,
+          "height": 36
+        }
+      },
+      {
+        "idx": 60,
+        "tagName": "div",
+        "type": null,
+        "id": null,
+        "role": "button",
+        "text": "UNIVERSAL",
+        "className": "group relative aspect-[4/3] cursor-pointer overflow-hidden rounded-3xl border border-white/10 bg-slate-900 shadow-xl transition-all duration-300 hover:border-primary/50",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 517,
+          "y": 382,
+          "width": 209,
+          "height": 157
+        }
+      },
+      {
+        "idx": 61,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "flex h-9 w-9 items-center justify-center rounded-xl bg-amber-500/90 text-white shadow-lg backdrop-blur hover:bg-amber-500 hover:scale-105 active:scale-95 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 677,
+          "y": 395,
+          "width": 36,
+          "height": 36
+        }
+      },
+      {
+        "idx": 62,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "btn normal-case btn-circle btn-sm btn-ghost absolute end-4 top-4 z-[999]",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 918,
+          "y": 307,
+          "width": 30,
+          "height": 30
+        }
+      },
+      {
+        "idx": 63,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary55997a10055e9f20200cdd80d2e9605cnama",
+        "role": null,
+        "text": "Masukkan nama",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 512,
+          "y": 388,
+          "width": 416,
+          "height": 36
+        }
+      },
+      {
+        "idx": 64,
+        "tagName": "select",
+        "type": null,
+        "id": "maryd0d03d022bcb957f41a9127af097326fdataType",
+        "role": null,
+        "text": "Pilih tipe\nFolder\nDaftar Harga",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 501,
+          "y": 472,
+          "width": 439,
+          "height": 34
+        }
+      },
+      {
+        "idx": 65,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Batal",
+        "className": "btn normal-case",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 752,
+          "y": 555,
+          "width": 68,
+          "height": 38
+        }
+      },
+      {
+        "idx": 66,
+        "tagName": "button",
+        "type": "submit",
+        "id": null,
+        "role": null,
+        "text": "Simpan",
+        "className": "btn normal-case bg-[#ff8912] hover:bg-[#ff8912] text-white",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 831,
+          "y": 555,
+          "width": 109,
+          "height": 38
+        }
+      },
+      {
+        "idx": 67,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "close",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "idx": 68,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "✕",
+        "className": "btn btn-sm btn-circle btn-ghost text-white",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 69,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Foto Speedometer",
+        "className": "rounded-lg px-3 py-1.5 text-xs font-semibold transition bg-primary text-black",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 70,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Daftar Harga",
+        "className": "rounded-lg px-3 py-1.5 text-xs font-semibold transition flex items-center gap-2 bg-white/5 text-slate-400 hover:text-white",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 71,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "‹",
+        "className": "btn btn-primary rounded-full absolute left-3 top-1/2",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 72,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "›",
+        "className": "btn btn-primary rounded-full absolute right-3 top-1/2",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 73,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "−",
+        "className": "btn btn-sm btn-primary text-slate-200",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": false,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 74,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Reset",
+        "className": "btn btn-sm btn-primary text-slate-200",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 75,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "+",
+        "className": "btn btn-sm btn-primary text-slate-200",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 76,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Buka Tab Baru",
+        "className": "btn btn-sm btn-info text-slate-200 hover:btn-primary",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 77,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "btn normal-case btn-circle btn-sm btn-ghost absolute end-4 top-4 z-[999]",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 1038,
+          "y": 332,
+          "width": 30,
+          "height": 30
+        }
+      },
+      {
+        "idx": 78,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Tutup",
+        "className": "btn normal-case btn-sm rounded-lg border border-white/10 bg-white/5 hover:bg-white/10 text-white font-bold",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 1001,
+          "y": 538,
+          "width": 60,
+          "height": 30
+        }
+      },
+      {
+        "idx": 79,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "close",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "idx": 80,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "btn normal-case btn-circle btn-sm btn-ghost absolute end-4 top-4 z-[999]",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 1099,
+          "y": 73,
+          "width": 30,
+          "height": 30
+        }
+      },
+      {
+        "idx": 81,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary0f693f20714f93ab929d0c50fe43a747sku",
+        "role": null,
+        "text": "",
+        "className": "font-mono bg-base-200/50 cursor-not-allowed opacity-90",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 331,
+          "y": 166,
+          "width": 236,
+          "height": 36
+        }
+      },
+      {
+        "idx": 82,
+        "tagName": "select",
+        "type": null,
+        "id": "mary5dea10b2fc778ff1f727ef7d0fab8d8eunit",
+        "role": null,
+        "text": "Pilih Satuan\nPCS\nSET\nUNIT\nMETER\nROLL\nPAKET\nPASANG\nBOX",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 591,
+          "y": 167,
+          "width": 258,
+          "height": 34
+        }
+      },
+      {
+        "idx": 83,
+        "tagName": "select",
+        "type": null,
+        "id": "mary067e583be9b0c91f239db7e3cb7e0a76id_kategori",
+        "role": null,
+        "text": "Pilih Kategori Produk",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 863,
+          "y": 167,
+          "width": 258,
+          "height": 34
+        }
+      },
+      {
+        "idx": 84,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary50cc990a07a6d2a8a98dd4b31762a41bnama",
+        "role": null,
+        "text": "Masukkan nama produk",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 331,
+          "y": 250,
+          "width": 779,
+          "height": 36
+        }
+      },
+      {
+        "idx": 85,
+        "tagName": "select",
+        "type": null,
+        "id": "mary7ad75b0b090d1ae7feb69971ff9fcdbcpemasangan",
+        "role": null,
+        "text": "Pilih Pemasangan\n— Belum Ditentukan —\nFree Pasang\nTanpa Pasang",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 319,
+          "y": 334,
+          "width": 394,
+          "height": 34
+        }
+      },
+      {
+        "idx": 86,
+        "tagName": "select",
+        "type": null,
+        "id": "maryd4890c3f5477f41aa28d77e8edee9f6adesain",
+        "role": null,
+        "text": "Pilih Status Desain\nDengan Desain\nTanpa Desain",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 727,
+          "y": 334,
+          "width": 394,
+          "height": 34
+        }
+      },
+      {
+        "idx": 87,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary9447514d1efc142d0e5788e1f20e5892price_konsumen",
+        "role": null,
+        "text": "Harga Normal",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 395,
+          "y": 465,
+          "width": 294,
+          "height": 17
+        }
+      },
+      {
+        "idx": 88,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary9447514d1efc142d0e5788e1f20e5892price_reseller",
+        "role": null,
+        "text": "Harga Normal",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 803,
+          "y": 465,
+          "width": 294,
+          "height": 17
+        }
+      },
+      {
+        "idx": 89,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary9447514d1efc142d0e5788e1f20e5892price_grosir_satu",
+        "role": null,
+        "text": "Harga Normal",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 395,
+          "y": 562,
+          "width": 294,
+          "height": 17
+        }
+      },
+      {
+        "idx": 90,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary9447514d1efc142d0e5788e1f20e5892price_grosir_dua",
+        "role": null,
+        "text": "Harga Normal",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 803,
+          "y": 562,
+          "width": 294,
+          "height": 17
+        }
+      },
+      {
+        "idx": 91,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary9447514d1efc142d0e5788e1f20e5892price_distributor",
+        "role": null,
+        "text": "Harga Normal",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 395,
+          "y": 659,
+          "width": 294,
+          "height": 17
+        }
+      },
+      {
+        "idx": 92,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary9447514d1efc142d0e5788e1f20e5892price_marketplace",
+        "role": null,
+        "text": "Harga Normal",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 803,
+          "y": 659,
+          "width": 294,
+          "height": 17
+        }
+      },
+      {
+        "idx": 93,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary9447514d1efc142d0e5788e1f20e5892price_bottom",
+        "role": null,
+        "text": "Harga Normal",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 395,
+          "y": 755,
+          "width": 702,
+          "height": 17
+        }
+      }
+    ]
+  }
+}

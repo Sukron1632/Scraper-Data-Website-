@@ -1,0 +1,29 @@
+{
+  "plan_id": "PLAN-ACT-BRAND-001",
+  "activity_id": "ACT-BRAND-001",
+  "screenshot_ref": "evidence/screenshots_sanitized/STATE_BRAND_007_speedometer.png",
+  "callouts": [
+    {
+      "callout_number": 1,
+      "target_label": "Tautan Merek Resmi SPD Speedometer",
+      "bbox_px": [
+        32,
+        540,
+        209,
+        34
+      ],
+      "text_note": "Pilih katalog resmi SPD Speedometer."
+    },
+    {
+      "callout_number": 2,
+      "target_label": "Daftar Tipe & Kategori Produk Brand",
+      "bbox_px": [
+        290,
+        240,
+        1110,
+        500
+      ],
+      "text_note": "Katalog suku cadang dan tipe kendaraan."
+    }
+  ]
+}

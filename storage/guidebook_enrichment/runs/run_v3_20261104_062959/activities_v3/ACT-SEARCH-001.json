@@ -1,0 +1,39 @@
+{
+  "schema_version": "3.0",
+  "activity_id": "ACT-SEARCH-001",
+  "module_id": "MOD-002",
+  "module": "Cari Harga",
+  "feature_id": "FEAT-002",
+  "feature": "Panduan Onboarding",
+  "activity_name_ui_accurate": "Menutup Pop-up Panduan Interaktif untuk Memulai Pencarian",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "preconditions": [
+    "Halaman /search baru dimuat dan pop-up panduan aktif"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "CLICK_DISMISS",
+      "ui_target_actual": "Lewati Panduan",
+      "state_before_id": "STATE_SEARCH_001_MODAL_OPEN",
+      "state_after_id": "STATE_SEARCH_002_MODAL_CLOSED",
+      "expected_result": "Pop-up panduan tertutup dan seluruh kolom pencarian terlihat",
+      "actual_result": "Modal berhasil ditutup dan tabel pencarian normal terlihat sempurna",
+      "assertion_status": "PASS",
+      "evidence_ids": [
+        "EVD-STATE_SEARCH_001_MODAL_OPEN",
+        "EVD-STATE_SEARCH_002_MODAL_CLOSED"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01"
+  ],
+  "verification_status": "TESTED_READ_ONLY",
+  "readiness": "READY_FOR_PROCEDURAL_GUIDE",
+  "gaps": [],
+  "source_refs": [
+    "storage/raw_pages/002_https___pricelist_radiatorsprings_id_search.json"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "4.1",
+  "activity_id": "ACT-USER-001",
+  "module_id": "MOD-006",
+  "module": "Karyawan & User",
+  "feature_id": "FEAT-USER-LIST",
+  "feature": "Daftar Akun Karyawan",
+  "activity_name_ui_accurate": "Melihat Daftar Karyawan dan Role Akses Terdaftar Secara Aman",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "readiness": "READY_FOR_PROCEDURAL_GUIDE",
+  "preconditions": [
+    "Berada pada rute /admin/user"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "OBSERVE_USER_TABLE",
+      "ui_target_actual": "Tabel Pengguna Tersanitasi",
+      "state_before_id": "STATE_USER_001_LIST",
+      "state_after_id": "STATE_USER_001_LIST",
+      "expected_result": "Daftar nama karyawan dan peran terlihat jelas dengan nomor telepon dan email tersanitasi",
+      "evidence_ids": [
+        "EVD-STATE_USER_001_LIST"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01",
+    "BR-03"
+  ],
+  "gaps": [
+    "Aksi Tambah/Edit/Hapus/Sync Karyawan berstatus DEFERRED (FEAT-USER-SYNC)."
+  ]
+}

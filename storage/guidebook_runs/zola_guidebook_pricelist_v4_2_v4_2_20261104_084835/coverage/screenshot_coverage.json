@@ -1,0 +1,226 @@
+[
+  {
+    "state_id": "STATE_DASHBOARD_001_CLEAN",
+    "module": "Dashboard",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_DASHBOARD_001_CLEAN.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_DASHBOARD_001_CLEAN.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_SEARCH_001_MODAL_OPEN",
+    "module": "Cari Harga",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_SEARCH_001_MODAL_OPEN.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_SEARCH_001_MODAL_OPEN.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_SEARCH_002_MODAL_CLOSED",
+    "module": "Cari Harga",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_SEARCH_002_MODAL_CLOSED.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_SEARCH_002_MODAL_CLOSED.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_SEARCH_003_FILTERED",
+    "module": "Cari Harga",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_SEARCH_003_FILTERED.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_SEARCH_003_FILTERED.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_SEARCH_004_EMPTY",
+    "module": "Cari Harga",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_SEARCH_004_EMPTY.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_SEARCH_004_EMPTY.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_SEARCH_005_BRAND_FILTERED",
+    "module": "Cari Harga",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_SEARCH_005_BRAND_FILTERED.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_SEARCH_005_BRAND_FILTERED.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_EDIT_HARGA_001_VIEW",
+    "module": "Edit Harga",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_EDIT_HARGA_001_VIEW.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_EDIT_HARGA_001_VIEW.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_DUPLICATE_001_PAGINATION",
+    "module": "Duplikat Harga",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_DUPLICATE_001_PAGINATION.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_DUPLICATE_001_PAGINATION.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_DUPLICATE_002_PAGE2",
+    "module": "Duplikat Harga",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_DUPLICATE_002_PAGE2.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_DUPLICATE_002_PAGE2.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BROSUR_001_LIST",
+    "module": "Brosur",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BROSUR_001_LIST.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BROSUR_001_LIST.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BROSUR_002_DETAIL_1103",
+    "module": "Brosur",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BROSUR_002_DETAIL_1103.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BROSUR_002_DETAIL_1103.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_DISKON_001_LIST",
+    "module": "Diskon",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_DISKON_001_LIST.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_DISKON_001_LIST.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_USER_001_LIST",
+    "module": "Karyawan & User",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_USER_001_LIST.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_USER_001_LIST.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BRAND_001_makerspace",
+    "module": "Harga per Brand",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BRAND_001_makerspace.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BRAND_001_makerspace.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BRAND_002_sekolah_bengkel",
+    "module": "Harga per Brand",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BRAND_002_sekolah_bengkel.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BRAND_002_sekolah_bengkel.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BRAND_003_sistem_bengkel",
+    "module": "Harga per Brand",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BRAND_003_sistem_bengkel.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BRAND_003_sistem_bengkel.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BRAND_004_workshop",
+    "module": "Harga per Brand",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BRAND_004_workshop.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BRAND_004_workshop.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BRAND_005_boostlab",
+    "module": "Harga per Brand",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BRAND_005_boostlab.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BRAND_005_boostlab.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BRAND_006_spdvc",
+    "module": "Harga per Brand",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BRAND_006_spdvc.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BRAND_006_spdvc.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BRAND_007_speedometer",
+    "module": "Harga per Brand",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BRAND_007_speedometer.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BRAND_007_speedometer.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BRAND_008_gearsecond",
+    "module": "Harga per Brand",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BRAND_008_gearsecond.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BRAND_008_gearsecond.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BRAND_009_power",
+    "module": "Harga per Brand",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BRAND_009_power.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BRAND_009_power.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_BRAND_010_yoong_motor",
+    "module": "Harga per Brand",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_BRAND_010_yoong_motor.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_BRAND_010_yoong_motor.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_CONSULT_001_TRIGGER",
+    "module": "Tanya Harga & Konsultasi Keluhan",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_CONSULT_001_TRIGGER.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_CONSULT_001_TRIGGER.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_CONSULT_002_MODAL_SPD",
+    "module": "Tanya Harga & Konsultasi Keluhan",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_CONSULT_002_MODAL_SPD.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_CONSULT_002_MODAL_SPD.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_CONSULT_003_MODAL_GRS",
+    "module": "Tanya Harga & Konsultasi Keluhan",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_CONSULT_003_MODAL_GRS.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_CONSULT_003_MODAL_GRS.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_CONSULT_004_MODAL_OTHER",
+    "module": "Tanya Harga & Konsultasi Keluhan",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_CONSULT_004_MODAL_OTHER.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_CONSULT_004_MODAL_OTHER.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  },
+  {
+    "state_id": "STATE_CONSULT_005_MODAL_CLOSED",
+    "module": "Tanya Harga & Konsultasi Keluhan",
+    "screenshot_path": "evidence/screenshots_sanitized/STATE_CONSULT_005_MODAL_CLOSED.png",
+    "html_extract_path": "evidence/html_sanitized/STATE_CONSULT_005_MODAL_CLOSED.html",
+    "viewport": "1440x900",
+    "is_sanitized": true
+  }
+]

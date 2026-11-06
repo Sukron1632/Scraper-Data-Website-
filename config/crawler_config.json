@@ -1,0 +1,37 @@
+{
+  "crawler": {
+    "requestDelayMs": 2500,
+    "concurrency": 1,
+    "maxPages": 60,
+    "maxDepth": 3,
+    "navigationTimeoutMs": 30000,
+    "actionTimeoutMs": 5000,
+    "settleDelayMs": 800,
+    "retryAttempts": 3,
+    "retryBackoffMs": 2000,
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (Antigravity-Guidebook-SafeCrawler/1.0)",
+    "captureScreenshots": true,
+    "fullPageScreenshot": false,
+    "ignoredAssetTypes": [
+      "media",
+      "font"
+    ]
+  },
+  "roles": {
+    "employee": {
+      "name": "Karyawan Operasional",
+      "priority": "high",
+      "description": "Fokus pada alur kerja sehari-hari: input pencarian, melihat daftar data, navigasi menu operasional, dan export report jika ada."
+    },
+    "it": {
+      "name": "IT Administrator",
+      "priority": "medium",
+      "description": "Menjelajahi menu pengaturan sistem, manajemen user, log sistem, dan konfigurasi."
+    }
+  }
+}
+

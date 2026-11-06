@@ -1,0 +1,29 @@
+{
+  "activity_id": "ACT-SEARCH-005",
+  "module_id": "MOD-002",
+  "feature_id": "FEAT-SEARCH-CONTROLS",
+  "title": "Mengatur Jumlah Baris Tampilan dan Konfigurasi Kolom Harga",
+  "observed_result": "Tabel menyesuaikan kapasitas baris (10/25/50/100) dan menampilkan kolom harga yang dicentang.",
+  "prerequisites": "Halaman Cari Harga aktif.",
+  "observed_role": "Staff / IT Administrator (NANA)",
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Pilih batas baris per halaman pada dropdown limit di kanan atas tabel.",
+      "exact_ui_label": "10 / 25 / 50 / 100",
+      "evidence_ids": [
+        "EVD-STATE_SEARCH_002_MODAL_CLOSED"
+      ]
+    },
+    {
+      "step_number": 2,
+      "action": "Aktifkan atau nonaktifkan toggle kolom harga sesuai kebutuhan analisis kasir.",
+      "exact_ui_label": "✓ Harga End User / ✓ Harga Bengkel",
+      "evidence_ids": [
+        "EVD-STATE_SEARCH_002_MODAL_CLOSED"
+      ]
+    }
+  ],
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "status": "READY_FOR_GUIDEBOOK"
+}

@@ -1,0 +1,40 @@
+{
+  "activity_id": "ACT-002",
+  "screenshot_ref": "screenshots_sanitized/state_002_search_modal_open.png",
+  "style_standard": "Zola Standard (Orange #E65100 / Charcoal #263238 / White #FFFFFF)",
+  "callouts": [
+    {
+      "callout_number": "[01]",
+      "element_label": "Lewati Panduan",
+      "action": "Tutup",
+      "operational_purpose": "Layar beralih ke mode kerja pencarian aktif.",
+      "target_locator": "button:has-text('Lewati Panduan'), .driver-close-btn",
+      "bounding_box_estimate": {
+        "focal_area": "Area kerja utama",
+        "relative_position": "Top / Header"
+      }
+    },
+    {
+      "callout_number": "[02]",
+      "element_label": "Cari Produk...",
+      "action": "Ketik",
+      "operational_purpose": "Baris tabel terfilter tanpa perlu me-refresh halaman.",
+      "target_locator": "input[type='text'], input[placeholder*='Cari']",
+      "bounding_box_estimate": {
+        "focal_area": "Area kerja utama",
+        "relative_position": "Center / Table"
+      }
+    },
+    {
+      "callout_number": "[03]",
+      "element_label": "Cari Produk...",
+      "action": "Ketik",
+      "operational_purpose": "Pengguna mengetahui indikator visual saat produk tidak tersedia di sistem.",
+      "target_locator": "input[type='text'], input[placeholder*='Cari']",
+      "bounding_box_estimate": {
+        "focal_area": "Area kerja utama",
+        "relative_position": "Center / Table"
+      }
+    }
+  ]
+}

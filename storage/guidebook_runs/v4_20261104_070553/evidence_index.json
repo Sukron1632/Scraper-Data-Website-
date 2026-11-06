@@ -1,0 +1,407 @@
+{
+  "schema_version": "4.0",
+  "generated_at_utc": "2026-11-04T07:06:52.568Z",
+  "total_evidences": 25,
+  "evidences": [
+    {
+      "evidence_id": "EVD-STATE_BRAND_001_MAKERSPACE",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BRAND_001_makerspace.png",
+      "sha256": "502c7a1f802a509ca829646a57db3dd6dd1e37290f41ca68e86c0869f6d90c98",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:33.698Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.556Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BRAND_002_SEKOLAH_BENGKEL",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BRAND_002_sekolah_bengkel.png",
+      "sha256": "8b784812b20fce740f33978c41ee5672e80d8ac2e89798c25540d330ccd6e3e7",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:35.550Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.557Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BRAND_003_SISTEM_BENGKEL",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BRAND_003_sistem_bengkel.png",
+      "sha256": "c3f7a90d077fe9e04fc1eeee51d7a8d5dd40c234ecb566c3da9b1b31b2229a8c",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:37.447Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.557Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BRAND_004_WORKSHOP",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BRAND_004_workshop.png",
+      "sha256": "50b12a7cf91c53bc70873773b1b35afbe546dfca0abfd41ff7a76d337d580361",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:39.415Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.557Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BRAND_005_BOOSTLAB",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BRAND_005_boostlab.png",
+      "sha256": "145fd6c8af55f47a60a8248ee3aab0b135cd99d820110983786184d553e10961",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:41.334Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.558Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BRAND_006_SPDVC",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BRAND_006_spdvc.png",
+      "sha256": "d53fa787d7aab4602070e3403de0c035cf12980abed9a6f46816ee8bb3c935f6",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:43.670Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.558Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BRAND_007_SPEEDOMETER",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BRAND_007_speedometer.png",
+      "sha256": "987a62d1af2b92201193637818efed6e4cb5a4615e87b22a37bf960a47d81609",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:46.125Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.559Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BRAND_008_GEARSECOND",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BRAND_008_gearsecond.png",
+      "sha256": "0018dc90965e7ca54a4fe2430447be594e062fa19d9826a8ff26e0192dc551ee",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:48.282Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.560Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BRAND_009_POWER",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BRAND_009_power.png",
+      "sha256": "d1333b181c60d2ea654196dc2cccc7187bc303d9e1f82e13111fd41427955596",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:50.375Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.560Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BRAND_010_YOONG_MOTOR",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BRAND_010_yoong_motor.png",
+      "sha256": "a97c8659d07daf39fa8be8b298bab603f293615872d9d3f0d658012b8c50d8b8",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:52.407Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.560Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BROSUR_001_LIST",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BROSUR_001_LIST.png",
+      "sha256": "4477ba6808c2bd8d90425d235deb635d5f294c480eafdfd43e4f19a24f616b0c",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:24.734Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.561Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_BROSUR_002_DETAIL_1103",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_BROSUR_002_DETAIL_1103.png",
+      "sha256": "db5534fc1fdc0dc0b0e0db374996aa116e35d05ed7e96c8b965c4f0fefb4deb5",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:27.493Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.562Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_DASHBOARD_001_CLEAN",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_DASHBOARD_001_CLEAN.png",
+      "sha256": "93819bffb4b04012396ac0eb472c30c717af798c56275b12e5188aeead79471c",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:05:57.617Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.563Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_DISKON_001_LIST",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_DISKON_001_LIST.png",
+      "sha256": "9594b97c97a10fe8262ec24df6ee9700eec167cba1fda50db2618018968d373a",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:29.256Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.563Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_DUPLICATE_001_PAGINATION",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_DUPLICATE_001_PAGINATION.png",
+      "sha256": "4848dc95ecfcfd69c626499fa59d3671ad87021926285a7f14ab23fc94072c6a",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:19.806Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.564Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_DUPLICATE_002_PAGE2",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_DUPLICATE_002_PAGE2.png",
+      "sha256": "b474aa578383675b1cec21f38e21a2b8064b091dac1ac8756cdd75b3327436b8",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:21.983Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.564Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_EDIT_HARGA_001_VIEW",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_EDIT_HARGA_001_VIEW.png",
+      "sha256": "be5806923f39b5e03955b5c581adaf9ad054927101ee7149851ca54cfd3e509c",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:17.285Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.564Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_SEARCH_001_MODAL_OPEN",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_SEARCH_001_MODAL_OPEN.png",
+      "sha256": "9825504aa4b18e6c92b07b7a4cfdcf2cb92d0815df8943ced03ab2400c6e7a48",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:05:59.964Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.565Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_SEARCH_002_MODAL_CLOSED",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_SEARCH_002_MODAL_CLOSED.png",
+      "sha256": "adab1e83cc640b2214684011a2e3005d90c9e80c8ce7b261409aca67e9d7c91f",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:00.758Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.566Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_SEARCH_002_MODAL_CLOSED_PASS2",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_SEARCH_002_MODAL_CLOSED_PASS2.png",
+      "sha256": "2f73076906b13a28214c4d10800c19635df0e9c9f68f544bae285fba9bc1ff58",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:09.130Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.566Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_SEARCH_003_FILTERED",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_SEARCH_003_FILTERED.png",
+      "sha256": "2bf6344ca63d928b136c2b61e68f1345bcd976a9fc25dfaea8ecfb8e1e7ef096",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:03.425Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.567Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_SEARCH_003_FILTERED_PASS2",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_SEARCH_003_FILTERED_PASS2.png",
+      "sha256": "84044cb9f96febf80c62e64ae9af7f5b087d8ba363a5f0c8d483846414f5c63c",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:11.788Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.567Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_SEARCH_004_EMPTY",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_SEARCH_004_EMPTY.png",
+      "sha256": "8eea8d206f029ffdf4c6c3364e8b971a078bb758449a691cf03b294d4b713b5d",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:06.324Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.568Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_SEARCH_004_EMPTY_PASS2",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_SEARCH_004_EMPTY_PASS2.png",
+      "sha256": "8eea8d206f029ffdf4c6c3364e8b971a078bb758449a691cf03b294d4b713b5d",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:14.629Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.568Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    },
+    {
+      "evidence_id": "EVD-STATE_USER_001_LIST",
+      "relative_path_in_zip": "screenshots_sanitized/STATE_USER_001_LIST.png",
+      "sha256": "06a41d782ad8e8bcaf4d6b2d9778f87d5e91d4d7f5168441b82936c234d04701",
+      "mime_type": "image/png",
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "captured_at_utc": "2026-11-04T07:06:31.357Z",
+      "indexed_at_utc": "2026-11-04T07:06:52.568Z",
+      "source_run": "run_v4",
+      "reused_from": null,
+      "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+      "verification_status": "OBSERVED_AND_VERIFIED"
+    }
+  ]
+}

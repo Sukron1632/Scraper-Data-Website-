@@ -1,0 +1,31 @@
+{
+  "schema_version": "4.1",
+  "activity_id": "ACT-CONSULT-003",
+  "screenshot_ref": "screenshots_sanitized/STATE_CONSULT_002_MODAL_SPD.png",
+  "style_standard": "Zola Standard (Orange #E65100 / Charcoal #263238 / White #FFFFFF)",
+  "canvas_resolution": {
+    "width": 1440,
+    "height": 900
+  },
+  "callouts": [
+    {
+      "callout_id": "CALL-1",
+      "callout_number": "[01]",
+      "target_label_actual": "Tombol 'Batal' Tutup Modal",
+      "action_type": "CLICK_CANCEL_BUTTON",
+      "bbox_px": [
+        940,
+        720,
+        80,
+        38
+      ],
+      "canvas_dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "operational_instruction": "Modal tertutup sepenuhnya dan antarmuka kembali ke halaman awal tanpa perubahan",
+      "review_status": "MEASURED_AND_VERIFIED",
+      "semantic_audit_status": "VERIFIED_SEMANTIC_TARGET"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "activity_id": "ACT-SEARCH-003",
+  "module_id": "MOD-002",
+  "feature_id": "FEAT-SEARCH-EMPTY",
+  "title": "Melihat Tampilan saat Produk Tidak Ditemukan (Empty State)",
+  "observed_result": "Tabel menyajikan pesan informatif bahwa produk dengan kata kunci tersebut tidak tersedia.",
+  "prerequisites": "Modul Cari Harga aktif.",
+  "observed_role": "Staff / IT Administrator (NANA)",
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Ketik kata kunci yang tidak terdapat dalam katalog.",
+      "exact_ui_label": "Cari produk...",
+      "evidence_ids": [
+        "EVD-STATE_SEARCH_004_EMPTY"
+      ]
+    },
+    {
+      "step_number": 2,
+      "action": "Konfirmasi munculnya pesan 'Data tidak ditemukan' dan bersihkan kembali input pencarian.",
+      "exact_ui_label": "Data tidak ditemukan",
+      "evidence_ids": [
+        "EVD-STATE_SEARCH_004_EMPTY"
+      ]
+    }
+  ],
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "status": "READY_FOR_GUIDEBOOK"
+}

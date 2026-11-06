@@ -1,0 +1,12 @@
+{
+  "schema_version": "4.1",
+  "transition_id": "TRANS-12",
+  "from_state_id": "STATE_CONSULT_004_MODAL_OTHER",
+  "to_state_id": "STATE_CONSULT_005_MODAL_CLOSED",
+  "trigger_action": "Klik tombol \"Batal\" untuk menutup modal",
+  "assertion_data": {
+    "assertion_type": "MODAL_DISMISSED",
+    "status": "PASS"
+  },
+  "recorded_at_utc": "2026-11-04T08:02:55.071Z"
+}

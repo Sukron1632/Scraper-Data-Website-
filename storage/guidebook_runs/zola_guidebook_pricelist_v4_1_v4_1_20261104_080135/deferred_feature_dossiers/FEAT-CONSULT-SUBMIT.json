@@ -1,0 +1,29 @@
+{
+  "schema_version": "4.1",
+  "feature_id": "FEAT-CONSULT-SUBMIT",
+  "module": "Tanya Harga & Konsultasi Keluhan",
+  "ui_label_exact": "Kirim",
+  "observed_location": "Footer formulir tanya-harga-modal-wide",
+  "existence_status": "INVENTORY_AND_VISUAL_TRUTH",
+  "visual_status": "OBSERVED_ACTIVE_BUTTON",
+  "mutation_test_status": "NOT_EXECUTED_PRODUCTION_SAFETY",
+  "is_production_safe_to_click": false,
+  "role_status": "NANA (Observed in Header)",
+  "field_inventory_refs": [
+    "Merk",
+    "Tipe",
+    "Transmisi",
+    "Tahun",
+    "Keluhan",
+    "Foto Lampiran"
+  ],
+  "evidence_refs": [
+    "EVD-STATE_CONSULT_002_MODAL_SPD"
+  ],
+  "remaining_questions": [
+    "Apakah pengiriman pesan langsung membuka aplikasi WhatsApp Web atau API backend server?",
+    "Berapa nomor tujuan WhatsApp resmi layanan konsultasi?"
+  ],
+  "guidebook_permission": "EXPLAIN_FIELDS_ONLY_DEFER_SUBMIT_EXECUTION",
+  "verification_notes": "Tombol Kirim memicu submitToWhatsapp(). Dilarang diklik pada produksi untuk mencegah pengiriman pesan uji fiktif."
+}

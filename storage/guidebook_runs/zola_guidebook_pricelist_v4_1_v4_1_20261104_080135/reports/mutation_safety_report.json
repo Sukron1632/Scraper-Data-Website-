@@ -1,0 +1,7 @@
+{
+  "audit_time_utc": "2026-11-04T08:02:58.296Z",
+  "guardrail_status": "ENFORCED_ACTIVE",
+  "allowed_reads_count": 7,
+  "blocked_mutations_count": 0,
+  "production_mutation_status": "CLIENT_SIDE_NO_MUTATION_OBSERVED"
+}

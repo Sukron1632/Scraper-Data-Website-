@@ -1,0 +1,44 @@
+{
+  "schema_version": "4.2",
+  "executed_at_utc": "2026-11-04T08:50:20.458Z",
+  "pass_d1_navigation": {
+    "status": "PASS",
+    "routes_discovered": 18,
+    "modules_count": 9,
+    "global_modals_count": 1
+  },
+  "pass_d2_dom_accessibility": {
+    "status": "PASS",
+    "interactive_elements_measured": 120,
+    "canvas_bounded": "1440x900"
+  },
+  "pass_d3_candidate_index": {
+    "status": "PASS",
+    "candidates_registered": 24,
+    "candidates_dispositioned": 24
+  },
+  "pass_d4_state_conditions": {
+    "status": "PASS",
+    "states_recorded": 31,
+    "transitions_recorded": 12
+  },
+  "pass_d5_four_way_reconciliation": {
+    "status": "PASS",
+    "a_minus_c": {
+      "unresolved_controls": 0,
+      "verdict": "ZERO_UNRESOLVED"
+    },
+    "b_minus_c": {
+      "undispositioned_candidates": 0,
+      "verdict": "ALL_DISPOSITIONED"
+    },
+    "c_minus_d": {
+      "unmapped_features": 0,
+      "verdict": "ALL_FEATURES_MAPPED"
+    },
+    "d_minus_c": {
+      "orphan_activities": 0,
+      "verdict": "ZERO_ORPHAN_ACTIVITIES"
+    }
+  }
+}

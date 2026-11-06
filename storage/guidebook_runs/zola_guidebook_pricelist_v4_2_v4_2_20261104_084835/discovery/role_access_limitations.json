@@ -1,0 +1,19 @@
+{
+  "audited_account": "[REDACTED_EMAIL] (IT Account)",
+  "observed_display_name": "NANA",
+  "server_role_status": "UNKNOWN_PROD_ROLE",
+  "confirmation_status": "Awaiting owner/IT admin confirmation for specific RBAC matrix",
+  "accessible_modules": [
+    "MOD-001",
+    "MOD-002",
+    "MOD-003",
+    "MOD-004",
+    "MOD-005",
+    "MOD-006",
+    "MOD-007",
+    "MOD-008",
+    "MOD-009"
+  ],
+  "inaccessible_areas": "Superadmin root settings / backend DB directly",
+  "limitations_notes": "Semua audit dibatasi pada akun IT yang diberikan. Tidak ada bypass izin atau eskalasi role."
+}

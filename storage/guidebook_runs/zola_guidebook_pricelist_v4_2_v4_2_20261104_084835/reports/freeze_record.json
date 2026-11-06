@@ -1,0 +1,66 @@
+{
+  "schema_version": "4.2",
+  "freeze_verdict": "GO_WITH_DOCUMENTED_EXCEPTIONS",
+  "freeze_timestamp_utc": "2026-11-04T08:50:21.935Z",
+  "application": "Web Pricelist PT Radiator Springs Indonesia",
+  "environment": "PRODUCTION_READ_ONLY_AUDIT",
+  "run_id": "zola_guidebook_pricelist_v4_2_v4_2_20261104_084835",
+  "zip_artifact": {
+    "file_name": "guidebook_dataset_v4_2_sanitized_zola_guidebook_pricelist_v4_2_v4_2_20261104_084835.zip",
+    "sha256": "1f0844e0c6370efe688919be8aea01c8582418f1308c3c7589299ce466b4d2a7",
+    "sidecar_file": "guidebook_dataset_v4_2_sanitized_zola_guidebook_pricelist_v4_2_v4_2_20261104_084835.zip.sha256",
+    "size_bytes": 8474451
+  },
+  "frozen_metrics": {
+    "total_modules": 9,
+    "total_features": 24,
+    "read_only_features": 14,
+    "deferred_mutative_features": 10,
+    "total_activities": 15,
+    "total_states": 28,
+    "total_transitions": 9,
+    "unresolved_in_scope_controls": 0,
+    "unmapped_readonly_features": 0,
+    "undocumented_deferred_actions": 0,
+    "orphan_activities": 0,
+    "unreviewed_annotations": 0
+  },
+  "approved_guidebook_sections": [
+    {
+      "section_id": "SEC-01",
+      "name": "Memulai dan Mengenal Sistem Web Pricelist",
+      "status": "FROZEN_READY_FOR_WRITING"
+    },
+    {
+      "section_id": "SEC-02",
+      "name": "Tanya Harga & Konsultasi Keluhan",
+      "status": "FROZEN_READY_FOR_WRITING"
+    },
+    {
+      "section_id": "SEC-03",
+      "name": "Mencari dan Memeriksa Harga Produk",
+      "status": "FROZEN_READY_FOR_WRITING"
+    },
+    {
+      "section_id": "SEC-04",
+      "name": "Meninjau Brosur Digital Resmi",
+      "status": "FROZEN_READY_FOR_WRITING"
+    },
+    {
+      "section_id": "SEC-05",
+      "name": "Memantau Program Diskon dan Promosi",
+      "status": "FROZEN_READY_FOR_WRITING"
+    },
+    {
+      "section_id": "SEC-06",
+      "name": "Manajemen Duplikat & Pembaruan Harga Massal",
+      "status": "FROZEN_READY_FOR_WRITING"
+    },
+    {
+      "section_id": "SEC-07",
+      "name": "Administrasi Pengguna dan Hak Akses",
+      "status": "FROZEN_READY_FOR_WRITING"
+    }
+  ],
+  "change_management_policy": "Perubahan atau penambahan fitur pasca-freeze wajib diproses melalui POST_FREEZE_CHANGE_REQUEST formal."
+}

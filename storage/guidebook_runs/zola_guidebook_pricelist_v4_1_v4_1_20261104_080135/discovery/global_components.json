@@ -1,0 +1,13 @@
+[
+  {
+    "component_name": "chatBubble()",
+    "dom_selector": "div[x-data='chatBubble()']",
+    "role": "Floating chat and consultation widget",
+    "modal_id": "tanya-harga-modal-wide"
+  },
+  {
+    "component_name": "driver.js Onboarding Tour",
+    "dom_selector": ".driver-popover",
+    "role": "Step-by-step interactive guidance on search page"
+  }
+]

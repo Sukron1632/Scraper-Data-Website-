@@ -1,0 +1,453 @@
+{
+  "schema_version": "4.0",
+  "state_id": "STATE_USER_001_LIST",
+  "module": "Karyawan & User",
+  "feature": "Daftar Akun Karyawan",
+  "state_name_ui": "Tabel Pengguna dengan Redaksi Total Nomor Telepon & Email",
+  "url": "https://pricelist.radiatorsprings.id/admin/user",
+  "captured_at_utc": "2026-11-04T07:06:31.357Z",
+  "indexed_at_utc": "2026-11-04T07:06:31.357Z",
+  "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+  "reused_from": null,
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scale": 1
+  },
+  "screenshot_sanitized_ref": "screenshots_sanitized/STATE_USER_001_LIST.png",
+  "source_extract_ref": "source_extracts_sanitized/STATE_USER_001_LIST.html",
+  "modal_active": false,
+  "filter_applied": false,
+  "row_count_observed": 60,
+  "dom_summary": {
+    "table_headers": [
+      "NO",
+      "NAMA",
+      "NO TELEPON",
+      "CABANG",
+      "DIVISI",
+      "SUB DIVISI",
+      "STATUS"
+    ],
+    "interactive_elements_count": 26,
+    "visible_elements_count": 26
+  },
+  "measured_elements": [
+    {
+      "element_id": "EL-003",
+      "tag": "input",
+      "type": "text",
+      "role": null,
+      "ui_text_exact": "Search...",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        902,
+        37,
+        176,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-004",
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "ui_text_exact": "Sync Org Units",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        1128,
+        36,
+        167,
+        40
+      ]
+    },
+    {
+      "element_id": "EL-005",
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "ui_text_exact": "Sync",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        1307,
+        36,
+        93,
+        40
+      ]
+    },
+    {
+      "element_id": "EL-006",
+      "tag": "table",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "NO\tNAMA \tNO TELEPON\tCABANG\tDIVISI\tSUB DIVISI\tSTATUS\n1\tAdhitya Rizaldi\t[REDACTED_PHONE]\tBelum Ada\tOpe",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        291,
+        114,
+        1108,
+        786
+      ]
+    },
+    {
+      "element_id": "EL-023",
+      "tag": "h1",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "WEB PRICELIST",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        20,
+        40,
+        173,
+        24
+      ]
+    },
+    {
+      "element_id": "EL-024",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "NANA",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        20,
+        148,
+        163,
+        20
+      ]
+    },
+    {
+      "element_id": "EL-026",
+      "tag": "button",
+      "type": "submit",
+      "role": null,
+      "ui_text_exact": "",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        195,
+        132,
+        34,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-027",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Beranda",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        188,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-028",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Cari Harga",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        230,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-029",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Makerspace",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        312,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-030",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Sekolah Bengkel",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        350,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-031",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Sistem Bengkel",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        388,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-032",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "SPD Workshop",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        426,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-033",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Boostlab",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        464,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-034",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "SPDVC",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        502,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-035",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "SPD Speedometer",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        540,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-036",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "GRS Speedometer",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        578,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-037",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Power +",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        616,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-038",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Yoong Motor",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        654,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-039",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Brosur",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        312,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-040",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Diskon",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        354,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-041",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Karyawan",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        397,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-042",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Duplikat Harga",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        439,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-043",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Edit Harga",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        481,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-044",
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "ui_text_exact": "",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        51,
+        824,
+        44,
+        44
+      ]
+    },
+    {
+      "element_id": "EL-046",
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "ui_text_exact": "",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        155,
+        824,
+        44,
+        44
+      ]
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "schema_version": "4.2",
+  "state_id": "STATE_DISKON_001_LIST",
+  "module": "Diskon",
+  "feature": "Manajemen Diskon Aktif",
+  "state_name_ui": "Daftar Program Diskon Harga (Read-Only Observation)",
+  "url": "https://pricelist.radiatorsprings.id/admin/diskon",
+  "captured_at_utc": "2026-11-04T08:49:50.010Z",
+  "indexed_at_utc": "2026-11-04T08:49:50.010Z",
+  "source_capture_confidence": "HIGH_FRESH_EXECUTION",
+  "reused_from": null,
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "scale": 1
+  },
+  "screenshot_sanitized_ref": "evidence/screenshots_sanitized/STATE_DISKON_001_LIST.png",
+  "source_extract_ref": "evidence/html_sanitized/STATE_DISKON_001_LIST.html",
+  "modal_active": false,
+  "filter_applied": false,
+  "row_count_observed": 1,
+  "dom_summary": {
+    "table_headers": [
+      "Nama Diskon",
+      "Nilai Diskon",
+      "Tanggal Awal",
+      "Tanggal Akhir",
+      "Sisa Waktu",
+      "Aksi"
+    ],
+    "interactive_elements_count": 27,
+    "visible_elements_count": 27
+  },
+  "measured_elements": [
+    {
+      "element_id": "EL-003",
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "ui_text_exact": "Tambah",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        1058,
+        36,
+        119,
+        40
+      ]
+    },
+    {
+      "element_id": "EL-004",
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "ui_text_exact": "Apply",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        1189,
+        36,
+        102,
+        40
+      ]
+    },
+    {
+      "element_id": "EL-005",
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "ui_text_exact": "Arsip",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        1303,
+        36,
+        97,
+        40
+      ]
+    },
+    {
+      "element_id": "EL-006",
+      "tag": "table",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Nama Diskon\tNilai Diskon\tTanggal Awal\tTanggal Akhir\tSisa Waktu\tAksi\nPROMO SPESIAL MAZDA\t\n40 %\n\t22 Au",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        290,
+        117,
+        1110,
+        108
+      ]
+    },
+    {
+      "element_id": "EL-007",
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "ui_text_exact": "Apply",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        1290,
+        173,
+        76,
+        40
+      ]
+    },
+    {
+      "element_id": "EL-031",
+      "tag": "h1",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "WEB PRICELIST",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        20,
+        40,
+        173,
+        24
+      ]
+    },
+    {
+      "element_id": "EL-032",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "NANA",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        20,
+        148,
+        163,
+        20
+      ]
+    },
+    {
+      "element_id": "EL-034",
+      "tag": "button",
+      "type": "submit",
+      "role": null,
+      "ui_text_exact": "",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        195,
+        132,
+        34,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-035",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Beranda",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        188,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-036",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Cari Harga",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        230,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-037",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Makerspace",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        312,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-038",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Sekolah Bengkel",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        350,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-039",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Sistem Bengkel",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        388,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-040",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "SPD Workshop",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        426,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-041",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Boostlab",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        464,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-042",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "SPDVC",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        502,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-043",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "SPD Speedometer",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        540,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-044",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "GRS Speedometer",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        578,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-045",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Power +",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        616,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-046",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Yoong Motor",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        32,
+        654,
+        209,
+        34
+      ]
+    },
+    {
+      "element_id": "EL-047",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Brosur",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        312,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-048",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Diskon",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        354,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-049",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Karyawan",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        397,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-050",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Duplikat Harga",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        439,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-051",
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "ui_text_exact": "Edit Harga",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        8,
+        481,
+        233,
+        38
+      ]
+    },
+    {
+      "element_id": "EL-052",
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "ui_text_exact": "",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        51,
+        824,
+        44,
+        44
+      ]
+    },
+    {
+      "element_id": "EL-054",
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "ui_text_exact": "",
+      "visible_in_viewport": true,
+      "is_hidden_template": false,
+      "enabled": true,
+      "bbox_px": [
+        155,
+        824,
+        44,
+        44
+      ]
+    }
+  ]
+}

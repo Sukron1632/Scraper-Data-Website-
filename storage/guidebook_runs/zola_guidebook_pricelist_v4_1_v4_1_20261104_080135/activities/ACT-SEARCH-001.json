@@ -1,0 +1,35 @@
+{
+  "schema_version": "4.1",
+  "activity_id": "ACT-SEARCH-001",
+  "module_id": "MOD-002",
+  "module": "Cari Harga",
+  "feature_id": "FEAT-SEARCH-01",
+  "feature": "Panduan Onboarding Driver.js",
+  "activity_name_ui_accurate": "Menutup Pop-up Panduan Interaktif saat Pertama Masuk",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "readiness": "READY_FOR_PROCEDURAL_GUIDE",
+  "preconditions": [
+    "Berada pada rute /search dengan pop-up panduan interaktif aktif"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "CLICK_DISMISS_MODAL",
+      "ui_target_actual": "Lewati Panduan",
+      "state_before_id": "STATE_SEARCH_001_MODAL_OPEN",
+      "state_after_id": "STATE_SEARCH_002_MODAL_CLOSED",
+      "expected_result": "Modal panduan tertutup dan layar bersih siap menerima input pencarian",
+      "evidence_ids": [
+        "EVD-STATE_SEARCH_001_MODAL_OPEN",
+        "EVD-STATE_SEARCH_002_MODAL_CLOSED"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01",
+    "BR-02"
+  ],
+  "gaps": []
+}

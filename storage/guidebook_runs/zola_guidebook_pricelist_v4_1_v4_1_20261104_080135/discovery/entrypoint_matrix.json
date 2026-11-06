@@ -1,0 +1,51 @@
+[
+  {
+    "trigger": "Floating Button / Header Icon",
+    "target": "MOD-009 Tanya Harga",
+    "route": "All Pages",
+    "event": "open-tanya-harga",
+    "observed_status": "VISUALLY_CONFIRMED"
+  },
+  {
+    "trigger": "Sidebar Menu Cari Harga",
+    "target": "MOD-002 Cari Harga",
+    "route": "/search",
+    "event": "navigation",
+    "observed_status": "VISUALLY_CONFIRMED"
+  },
+  {
+    "trigger": "Sidebar Menu Edit Harga",
+    "target": "MOD-008 Edit Harga",
+    "route": "/admin/edit-harga",
+    "event": "navigation",
+    "observed_status": "VISUALLY_CONFIRMED"
+  },
+  {
+    "trigger": "Sidebar Menu Duplikat",
+    "target": "MOD-007 Duplikat Harga",
+    "route": "/admin/duplicate",
+    "event": "navigation",
+    "observed_status": "VISUALLY_CONFIRMED"
+  },
+  {
+    "trigger": "Sidebar Menu Brosur",
+    "target": "MOD-004 Brosur",
+    "route": "/admin/brosur",
+    "event": "navigation",
+    "observed_status": "VISUALLY_CONFIRMED"
+  },
+  {
+    "trigger": "Sidebar Menu Diskon",
+    "target": "MOD-005 Diskon",
+    "route": "/admin/diskon",
+    "event": "navigation",
+    "observed_status": "VISUALLY_CONFIRMED"
+  },
+  {
+    "trigger": "Sidebar Menu User",
+    "target": "MOD-006 Karyawan & User",
+    "route": "/admin/user",
+    "event": "navigation",
+    "observed_status": "VISUALLY_CONFIRMED"
+  }
+]

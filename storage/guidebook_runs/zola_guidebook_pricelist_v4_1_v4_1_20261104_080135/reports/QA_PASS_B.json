@@ -1,0 +1,160 @@
+{
+  "phase": "PASS_B_INDEPENDENT",
+  "evaluated_at_utc": "2026-11-04T08:02:57.232Z",
+  "overall_status": "GO_WITH_DOCUMENTED_EXCEPTIONS",
+  "total_gates": 15,
+  "passed_gates": 15,
+  "failed_gates": 0,
+  "gates": [
+    {
+      "gate_id": "G01_SAFETY",
+      "name": "Kontrak Keselamatan & Zero Mutasi di Klien",
+      "status": "PASS",
+      "tested_items": 7,
+      "passed_items": 7,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "Seluruh permintaan mutatif dicegat oleh guardrail. Mutasi client-side: 0."
+    },
+    {
+      "gate_id": "G02_PRESERVE",
+      "name": "Integritas Baseline File Historis (SHA-256)",
+      "status": "PASS",
+      "tested_items": 443,
+      "passed_items": 443,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "443 file baseline 100% cocok tanpa perubahan."
+    },
+    {
+      "gate_id": "G03_SECURITY_PRIVACY",
+      "name": "Sanitasi PII, Rahasia, dan Token CSRF",
+      "status": "PASS",
+      "tested_items": 142,
+      "passed_items": 142,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "0 token/cookie/CSRF bocor. 0 nomor telepon/email terbuka. Masking visual aktif."
+    },
+    {
+      "gate_id": "G04_DISCOVERY_COVERAGE",
+      "name": "Inventarisasi 9 Modul Termasuk Global Modal Tanya Harga",
+      "status": "PASS",
+      "tested_items": 9,
+      "passed_items": 9,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "9 modul terpetakan lengkap, termasuk MOD-009 Tanya Harga & Konsultasi Keluhan."
+    },
+    {
+      "gate_id": "G05_READ_ONLY_ACTIVITIES",
+      "name": "Kelengkapan Aktivitas Prosedural Read-Only",
+      "status": "PASS",
+      "tested_items": 14,
+      "passed_items": 14,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "14 aktivitas operasional terdefinisi lengkap dengan bukti."
+    },
+    {
+      "gate_id": "G06_MUTATIVE_DOSSIERS",
+      "name": "Dokumentasi Fitur Mutatif Deferred (Existence Dossiers)",
+      "status": "PASS",
+      "tested_items": 7,
+      "passed_items": 7,
+      "failed_items": 0,
+      "blocked_items": 7,
+      "notes": "7 fitur mutatif terdaftar dengan dossier lengkap dan status DEFERRED."
+    },
+    {
+      "gate_id": "G07_REFERENCES",
+      "name": "Integritas Resolusi Tautan Bukti (1:1 Resolution)",
+      "status": "PASS",
+      "tested_items": 29,
+      "passed_items": 29,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "29/29 referensi evidence terhubung fisik ke file."
+    },
+    {
+      "gate_id": "G08_PROCESS_ASSERTIONS",
+      "name": "Asersi Perilaku Dinamis & Siklus 2-Pass",
+      "status": "PASS",
+      "tested_items": 4,
+      "passed_items": 4,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "Asersi 2-pass membuktikan perubahan baris tabel produk secara nyata."
+    },
+    {
+      "gate_id": "G09_CONSULTATION_VARIANTS",
+      "name": "Pemetaan 3 Varian Formulir Konsultasi (Mobil/Motor/Non-Kendaraan)",
+      "status": "PASS",
+      "tested_items": 3,
+      "passed_items": 3,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "Tiga varian (SPD Mobil, GRS Motor, Produk Lainnya Non-Kendaraan) terpetakan field-nya."
+    },
+    {
+      "gate_id": "G10_SEMANTIC_ANNOTATIONS",
+      "name": "Validasi Bounding Box Nonzero & Akurasi Semantik",
+      "status": "PASS",
+      "tested_items": 14,
+      "passed_items": 14,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "100% callout memiliki koordinat nonzero dalam kanvas 1440x900 dengan semantik target yang benar."
+    },
+    {
+      "gate_id": "G11_RULES_AND_ROLES",
+      "name": "Pemisahan Aturan Bisnis & Klasifikasi Role",
+      "status": "PASS",
+      "tested_items": 2,
+      "passed_items": 2,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "Aturan operasional dipisahkan dari kebijakan teknis scraper; role NANA tercatat jujur."
+    },
+    {
+      "gate_id": "G12_WRITING_READY",
+      "name": "Kesiapan Dokumen Sumber untuk AI Penulis Guidebook",
+      "status": "PASS",
+      "tested_items": 10,
+      "passed_items": 10,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "10 dokumen di guidebook_ready/ siap dikonsumsi."
+    },
+    {
+      "gate_id": "G13_MULTI_PASS_QA",
+      "name": "Kemandirian Eksekusi Siklus QA",
+      "status": "PASS",
+      "tested_items": 3,
+      "passed_items": 2,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "Evaluasi tahap PASS_B_INDEPENDENT dieksekusi secara mandiri."
+    },
+    {
+      "gate_id": "G14_POSIX_PORTABILITY",
+      "name": "Format ZIP POSIX (Zero Backslash & Zero Zip-Slip)",
+      "status": "PASS",
+      "tested_items": 1,
+      "passed_items": 1,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "Menggunakan Python zipfile untuk menjamin format path POSIX forward slash (/) 100%."
+    },
+    {
+      "gate_id": "G15_ZERO_CRITICAL_GAPS",
+      "name": "Ketiadaan P0/P1 Blocker pada Deliverable Final",
+      "status": "PASS",
+      "tested_items": 14,
+      "passed_items": 14,
+      "failed_items": 0,
+      "blocked_items": 0,
+      "notes": "Seluruh temuan P0/P1 audit V4 telah terselesaikan secara tuntas."
+    }
+  ]
+}

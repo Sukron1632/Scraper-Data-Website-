@@ -1,0 +1,207 @@
+{
+  "schema_version": "4.0",
+  "generated_at_utc": "2026-11-04T07:06:52.577Z",
+  "total_sources": 25,
+  "sources": [
+    {
+      "source_id": "SRC-STATE_BRAND_001_MAKERSPACE",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_001_makerspace.html",
+      "sha256": "0a211010121a26b11d7d1d1e04ef7b93f8239cb3b05c45d38c340ab3fe4832b1",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.570Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_002_SEKOLAH_BENGKEL",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_002_sekolah_bengkel.html",
+      "sha256": "69783b00e495635ae452b0ef489d6c3b43f133b4205bf2e492d350a351962b7b",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.570Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_003_SISTEM_BENGKEL",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_003_sistem_bengkel.html",
+      "sha256": "c56fefca7f0b57920e96c2160c0d0027cfbf569c50d9857da67a0631807d8ead",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.571Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_004_WORKSHOP",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_004_workshop.html",
+      "sha256": "b3281155672423a94a047ee8ce83a0ee8f0b5f1e78320716d5a033d08b72aefb",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.571Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_005_BOOSTLAB",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_005_boostlab.html",
+      "sha256": "6796e6d56ed886fbfedff2dbf61b1c7cdd678900d9abf9cf5fcb31af9633ec99",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.571Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_006_SPDVC",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_006_spdvc.html",
+      "sha256": "3d09c07570e2a1af8018d3f9bc47fe9f47f5b993adb8d53d121f32d339d1d2c6",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.572Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_007_SPEEDOMETER",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_007_speedometer.html",
+      "sha256": "a1101c42facee1d76b35e52165775c2002f988c48d30ee15dfffc0e9a406a511",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.572Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_008_GEARSECOND",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_008_gearsecond.html",
+      "sha256": "7ea06c7b977a035f0ce634e52ebfbfde3e5519bcd439acbc28af107280fcd172",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.573Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_009_POWER",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_009_power.html",
+      "sha256": "5359bb8f695cb6700655a7fff4ce76017c1bd626d12878b529e419c1777db8b4",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.573Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_010_YOONG_MOTOR",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_010_yoong_motor.html",
+      "sha256": "df1604392df2a3c70e07da035fd76c9a673e3b4bbc646731283aa1bbc989bee2",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.574Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BROSUR_001_LIST",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BROSUR_001_LIST.html",
+      "sha256": "d4a759ba2e78438ef159a22cfc2854dc975054bd7ea7191523d27deb039251b9",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.574Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_BROSUR_002_DETAIL_1103",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BROSUR_002_DETAIL_1103.html",
+      "sha256": "ea874c0c16e67769babb485dae1fa6b9ad8d7b8ab24a0f6b6e7f0b1d24496080",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.574Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_DASHBOARD_001_CLEAN",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_DASHBOARD_001_CLEAN.html",
+      "sha256": "e7e70f378b40dad1197fd7a312f574e8433d2c25691667d2966d7a1a0f4f67fd",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.574Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_DISKON_001_LIST",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_DISKON_001_LIST.html",
+      "sha256": "303b6f4c19476311b9f98b38fe07a5aae908e1e7e388508494e602a0e7375cc6",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.575Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_DUPLICATE_001_PAGINATION",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_DUPLICATE_001_PAGINATION.html",
+      "sha256": "19a71386076cb8b28064dede87543c147542df140a32548bae092aa86694549b",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.575Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_DUPLICATE_002_PAGE2",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_DUPLICATE_002_PAGE2.html",
+      "sha256": "4a4b7a902c0d01ba1d5ba05e4e7aa0f356024aecb7d8bc92447c711421c4cfef",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.575Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_EDIT_HARGA_001_VIEW",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_EDIT_HARGA_001_VIEW.html",
+      "sha256": "f441191eb8cc36cb310efaf9622b4e31d3bd625cdf77bee1bd7ea34dbd9c3996",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.575Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_001_MODAL_OPEN",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_001_MODAL_OPEN.html",
+      "sha256": "782d014bdd784f5ecc42c7d158d5ab555b8531f13c61a09edcf504547a443d67",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.576Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_002_MODAL_CLOSED",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_002_MODAL_CLOSED.html",
+      "sha256": "6f6e8d66f2a46f81b2cd6e4c619fd63f5f17dd67cce5c486cac8dd6b4d34542d",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.576Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_002_MODAL_CLOSED_PASS2",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_002_MODAL_CLOSED_PASS2.html",
+      "sha256": "964a93446835bdae1b4f10e7d379ad16d41d322ec87a3f42f7de6b31c44cf09f",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.576Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_003_FILTERED",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_003_FILTERED.html",
+      "sha256": "6f411b66aa1b0520e34effa652e66815ee9e5114bad1340648f951e1370cf3c8",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.576Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_003_FILTERED_PASS2",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_003_FILTERED_PASS2.html",
+      "sha256": "1a91573bb68fa6a2a4da55bce305bc4c9461914b0972f730d71ac68de15f059c",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.577Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_004_EMPTY",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_004_EMPTY.html",
+      "sha256": "85ddfd1a5338a76eb56125e597bf1bd41d47e80f6586148fba65cf7a09929c37",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.577Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_004_EMPTY_PASS2",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_004_EMPTY_PASS2.html",
+      "sha256": "d12837cdd1d91f6febbc681756a9f39b5ac4c4e22409971e9fb01bf2efae328b",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.577Z",
+      "pii_redacted": true
+    },
+    {
+      "source_id": "SRC-STATE_USER_001_LIST",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_USER_001_LIST.html",
+      "sha256": "4fe4c1049d1a24b470405a47304e667c4c33446ffcd6c03650b2ab9c92ee3a7f",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T07:06:52.577Z",
+      "pii_redacted": true
+    }
+  ]
+}

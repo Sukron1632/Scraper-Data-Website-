@@ -1,0 +1,20 @@
+{
+  "deferred_feature_id": "FEAT-CONSULT-SUBMIT",
+  "parent_module_id": "MOD-009",
+  "display_label": "Kirim",
+  "entry_point": "GLOBAL_MODAL (Tanya Harga)",
+  "visible_state_ref": "evidence/screenshots_sanitized/STATE_CONSULT_002_MODAL_SPD.png",
+  "target_bbox_px": [
+    1189,
+    729,
+    123,
+    40
+  ],
+  "why_mutative": "Mengirimkan pesan konsultasi ke nomor WhatsApp resmi customer service atau database tiket live.",
+  "what_is_not_tested": "Pengiriman pesan konsultasi nyata via API WhatsApp.",
+  "staging_test_plan": "Isi data dummy di staging dan arahkan webhook WhatsApp ke nomor internal sandbox.",
+  "owner_confirmation_needed": "Nomor WhatsApp customer service tujuan pesan.",
+  "allowed_guidebook_text": "Formulir Tanya Harga memungkinkan pelanggan/karyawan berkonsultasi mengenai keluhan speedometer dan produk lainnya.",
+  "prohibited_guidebook_text": "Jangan mengklik tombol Kirim di produksi saat sesi pelatihan.",
+  "linked_outline_section": "SEC-02"
+}

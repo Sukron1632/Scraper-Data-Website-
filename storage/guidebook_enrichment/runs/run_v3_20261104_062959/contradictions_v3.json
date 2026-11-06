@@ -1,0 +1,24 @@
+[
+  {
+    "discrepancy_id": "DISC-V3-001",
+    "target": "Rute /admin/edit-harga",
+    "old_v1_status": "URL tercatat di visitedUrls, namun tidak memiliki screenshot/raw page.",
+    "v2_explanation": "Sempat diduga terjadi pengalihan/redirect.",
+    "v3_factual_resolution": "Rute /admin/edit-harga berhasil diakses langsung dengan status HTTP 200 dan menampilkan form. Ketiadaan data lama terbukti karena guardrail awal memblokir kata kunci /edit.",
+    "reconciled_status": "RESOLVED_WITH_EVIDENCE"
+  },
+  {
+    "discrepancy_id": "DISC-V3-002",
+    "target": "Paginasi Duplikat Harga",
+    "old_v1_status": "Metadata menyatakan hasPagination: false",
+    "v3_factual_resolution": "Terbukti secara fisik tombol PREV dan NEXT aktif pada antarmuka dan tercatat pada state STATE_DUPLICATE_001_PAGINATION.",
+    "reconciled_status": "RESOLVED_WITH_EVIDENCE"
+  },
+  {
+    "discrepancy_id": "DISC-V3-003",
+    "target": "Filter Cari Harga Identik di V2",
+    "old_v1_status": "V2 menghasilkan screenshot filtered dan empty dengan pixel tabel identik.",
+    "v3_factual_resolution": "Diperbaiki dengan mengizinkan Livewire component search updates secara aman. Uji 2-Pass membuktikan perubahan baris dari 10 baris ke 0 baris.",
+    "reconciled_status": "RESOLVED_WITH_EVIDENCE"
+  }
+]

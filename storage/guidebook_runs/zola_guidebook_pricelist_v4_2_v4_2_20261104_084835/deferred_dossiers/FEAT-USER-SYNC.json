@@ -1,0 +1,20 @@
+{
+  "deferred_feature_id": "FEAT-USER-SYNC",
+  "parent_module_id": "MOD-006",
+  "display_label": "Sync User / Org Units",
+  "entry_point": "https://pricelist.radiatorsprings.id/admin/user",
+  "visible_state_ref": "evidence/screenshots_sanitized/STATE_USER_001_LIST.png",
+  "target_bbox_px": [
+    1200,
+    36,
+    120,
+    40
+  ],
+  "why_mutative": "Menyinkronkan data pengguna dengan sistem HR eksternal atau database pusat, berpotensi menimpa data akun aktif.",
+  "what_is_not_tested": "Pemicuan sinkronisasi akun pengguna.",
+  "staging_test_plan": "Jalankan sinkronisasi di server staging dengan mock API HR.",
+  "owner_confirmation_needed": "Kapan jadwal sinkronisasi otomatis berjalan?",
+  "allowed_guidebook_text": "Halaman Karyawan & User menampilkan daftar staf aktif dan hak akses yang diberikan.",
+  "prohibited_guidebook_text": "Jangan menjalankan tombol Sync di produksi.",
+  "linked_outline_section": "SEC-07"
+}

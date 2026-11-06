@@ -1,0 +1,38 @@
+{
+  "name": "pricelist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js help",
+    "test:readiness": "node src/readiness_check.js",
+    "crawl": "node src/index.js crawl",
+    "crawl:scrapling": "python src/crawler/scrapling_mass_crawler.py",
+    "crawl:scrapling:stealth": "python src/crawler/scrapling_mass_crawler.py --stealth",
+    "analyze": "node src/index.js analyze",
+    "generate": "node src/index.js generate",
+    "export:docx": "node src/index.js export:docx",
+    "audit": "node src/index.js audit",
+    "pipeline": "node src/index.js pipeline",
+    "package:consolidate": "node src/index.js consolidate",
+    "enrichment": "node src/enrichment/run_enrichment.js",
+    "enrichment:v3": "node src/enrichment_v3/run_v3.js",
+    "enrichment:v4": "node src/enrichment_v4/run_v4.js",
+    "enrichment:v4_1": "node src/enrichment_v4_1/run_v4_1.js",
+    "enrichment:v4_2": "node src/enrichment_v4_2/run_v4_2.js",
+    "browser:inspect": "node src/index.js inspect",
+    "mcp:scrapling": "scrapling mcp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^2.32.0",
+    "@playwright/mcp": "^0.0.84",
+    "@playwright/test": "^1.64.1",
+    "cheerio": "^1.1.0",
+    "docx": "^9.15.2",
+    "dotenv": "^18.0.9",
+    "playwright": "^1.64.1"
+  }
+}

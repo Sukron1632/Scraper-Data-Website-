@@ -1,0 +1,95 @@
+{
+  "schema_version": "4.1",
+  "observed_fields": [
+    {
+      "form": "SPD Speedometer (MOBIL)",
+      "field": "Merk Kendaraan",
+      "type": "input with datalist",
+      "required_ui": true
+    },
+    {
+      "form": "SPD Speedometer (MOBIL)",
+      "field": "Tipe Kendaraan",
+      "type": "input with datalist",
+      "required_ui": true
+    },
+    {
+      "form": "SPD Speedometer (MOBIL)",
+      "field": "Transmisi",
+      "type": "input with datalist",
+      "required_ui": true
+    },
+    {
+      "form": "SPD Speedometer (MOBIL)",
+      "field": "Tahun Kendaraan",
+      "type": "text",
+      "required_ui": true
+    },
+    {
+      "form": "SPD Speedometer (MOBIL)",
+      "field": "Detail Pertanyaan / Keluhan",
+      "type": "textarea",
+      "required_ui": true
+    },
+    {
+      "form": "SPD Speedometer (MOBIL)",
+      "field": "Foto Lampiran",
+      "type": "file input",
+      "required_ui": true
+    },
+    {
+      "form": "GRS Speedometer (MOTOR)",
+      "field": "Merk Kendaraan",
+      "type": "input with datalist",
+      "required_ui": true
+    },
+    {
+      "form": "GRS Speedometer (MOTOR)",
+      "field": "Tipe Kendaraan",
+      "type": "input with datalist",
+      "required_ui": true
+    },
+    {
+      "form": "GRS Speedometer (MOTOR)",
+      "field": "Transmisi",
+      "type": "input with datalist",
+      "required_ui": true
+    },
+    {
+      "form": "GRS Speedometer (MOTOR)",
+      "field": "Tahun Kendaraan",
+      "type": "text",
+      "required_ui": true
+    },
+    {
+      "form": "GRS Speedometer (MOTOR)",
+      "field": "Detail Pertanyaan / Keluhan",
+      "type": "textarea",
+      "required_ui": true
+    },
+    {
+      "form": "GRS Speedometer (MOTOR)",
+      "field": "Foto Lampiran",
+      "type": "file input",
+      "required_ui": true
+    },
+    {
+      "form": "Produk Lainnya (NON-KENDARAAN)",
+      "field": "Nama Produk",
+      "type": "text",
+      "required_ui": true
+    },
+    {
+      "form": "Produk Lainnya (NON-KENDARAAN)",
+      "field": "Detail Pertanyaan / Keluhan",
+      "type": "textarea",
+      "required_ui": true
+    },
+    {
+      "form": "Produk Lainnya (NON-KENDARAAN)",
+      "field": "Foto Lampiran",
+      "type": "file input",
+      "required_ui": true
+    }
+  ]
+}

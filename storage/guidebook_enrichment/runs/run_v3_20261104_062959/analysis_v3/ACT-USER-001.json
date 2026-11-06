@@ -1,0 +1,30 @@
+{
+  "schema_version": "3.0",
+  "activity_id": "ACT-USER-001",
+  "module": "Karyawan & User",
+  "feature": "Manajemen Akun Karyawan",
+  "user_objective_non_it": "Panduan bagi staf dalam memeriksa daftar pengguna dengan proteksi kerahasiaan pii secara cepat dan aman.",
+  "verified_roles": [
+    "NANA (Observed in Header)"
+  ],
+  "steps_grounded": [
+    {
+      "step": 1,
+      "target_label_exact": "Tabel Pengguna",
+      "action": "OBSERVE_TABLE_SANITIZED",
+      "observed_outcome": "Nomor telepon dan email berhasil disamarkan secara visual dan dalam ekstrak DOM",
+      "evidence_id": "EVD-STATE_USER_001_LIST"
+    }
+  ],
+  "governing_business_rules": [
+    "BR-01",
+    "BR-03"
+  ],
+  "questions_for_process_owner": [
+    "Apakah staf kasir diizinkan melihat seluruh kolom harga pada modul Karyawan & User?",
+    "Kapan jadwal sinkronisasi atau perubahan data rutin dilakukan pada fitur Manajemen Akun Karyawan?"
+  ],
+  "coverage_gaps": [
+    "Penambahan akun baru DIBLOKIR di produksi."
+  ]
+}

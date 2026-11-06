@@ -1,0 +1,9 @@
+{
+  "decision": "GO_WITH_DOCUMENTED_EXCEPTIONS",
+  "signoff_date_utc": "2026-11-04T08:02:58.297Z",
+  "zip_file": "guidebook_dataset_v4_1_sanitized_zola_guidebook_pricelist_v4_1_v4_1_20261104_080135.zip",
+  "sha256": "9d39db7ae6432de77e11be052b6c262ca1c873e7f01c8a2026f703836fe8a9f9",
+  "ready_modules_count": 9,
+  "ready_activities_count": 14,
+  "deferred_mutative_count": 7
+}

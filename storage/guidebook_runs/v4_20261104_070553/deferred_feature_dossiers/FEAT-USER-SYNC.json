@@ -1,0 +1,21 @@
+{
+  "schema_version": "4.0",
+  "feature_id": "FEAT-USER-SYNC",
+  "module": "Karyawan & User",
+  "ui_label_exact": "Sync / Sync Org Units",
+  "observed_location": "Header aksi /admin/user",
+  "existence_status": "INVENTORY_TRUTH",
+  "visual_status": "OBSERVED_IN_PAGE",
+  "mutation_test_status": "NOT_EXECUTED_PRODUCTION_SAFETY",
+  "is_production_safe_to_click": false,
+  "role_status": "ROLE_UNVERIFIED",
+  "field_inventory_refs": [],
+  "evidence_refs": [
+    "EVD-STATE_USER_001_LIST"
+  ],
+  "remaining_questions": [
+    "Apakah tombol Sync mengambil data langsung dari HRIS pusat?"
+  ],
+  "guidebook_permission": "EXPLAIN_PURPOSE_DEFER_EXECUTION_STEPS",
+  "verification_notes": "Aksi sync dilarang karena berpotensi menimpa data organisasi."
+}

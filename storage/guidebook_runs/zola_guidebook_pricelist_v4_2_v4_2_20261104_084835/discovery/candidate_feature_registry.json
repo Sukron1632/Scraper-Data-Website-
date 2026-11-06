@@ -1,0 +1,194 @@
+[
+  {
+    "candidate_id": "CAND-FEAT-DASH-SUMMARY",
+    "feature_id": "FEAT-DASH-SUMMARY",
+    "module_id": "MOD-001",
+    "name": "Ringkasan Statistik Metrik Katalog & Shortcut Brosur",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-SEARCH-ONBOARDING",
+    "feature_id": "FEAT-SEARCH-ONBOARDING",
+    "module_id": "MOD-002",
+    "name": "Panduan Interaktif Driver.js",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-SEARCH-REALTIME",
+    "feature_id": "FEAT-SEARCH-REALTIME",
+    "module_id": "MOD-002",
+    "name": "Pencarian Produk Real-Time Livewire",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-SEARCH-EMPTY",
+    "feature_id": "FEAT-SEARCH-EMPTY",
+    "module_id": "MOD-002",
+    "name": "Tampilan Hasil Kosong (Empty State)",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-SEARCH-BRAND-FILTER",
+    "feature_id": "FEAT-SEARCH-BRAND-FILTER",
+    "module_id": "MOD-002",
+    "name": "Penyaringan Katalog Berdasarkan Brand",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-SEARCH-CONTROLS",
+    "feature_id": "FEAT-SEARCH-CONTROLS",
+    "module_id": "MOD-002",
+    "name": "Pengaturan Limit Tampilan, Refresh & Toggle Kolom Harga",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-BRAND-CATALOG",
+    "feature_id": "FEAT-BRAND-CATALOG",
+    "module_id": "MOD-003",
+    "name": "Navigasi Katalog 10 Merek Resmi",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-BRAND-ADD-MERK",
+    "feature_id": "FEAT-BRAND-ADD-MERK",
+    "module_id": "MOD-003",
+    "name": "Penambahan Merk Kendaraan Baru",
+    "disposition": "DEFERRED_WITH_DOSSIER",
+    "verification_status": "MUTATIVE_DEFERRED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-BRAND-ADD-TIPE",
+    "feature_id": "FEAT-BRAND-ADD-TIPE",
+    "module_id": "MOD-003",
+    "name": "Penambahan Tipe Kendaraan Baru",
+    "disposition": "DEFERRED_WITH_DOSSIER",
+    "verification_status": "MUTATIVE_DEFERRED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-BROSUR-LIST",
+    "feature_id": "FEAT-BROSUR-LIST",
+    "module_id": "MOD-004",
+    "name": "Daftar Katalog Brosur Digital",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-BROSUR-DETAIL",
+    "feature_id": "FEAT-BROSUR-DETAIL",
+    "module_id": "MOD-004",
+    "name": "Tinjauan Rincian Produk Brosur #1103",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-BROSUR-UPLOAD",
+    "feature_id": "FEAT-BROSUR-UPLOAD",
+    "module_id": "MOD-004",
+    "name": "Pengunggahan Berkas Brosur Digital Baru",
+    "disposition": "DEFERRED_WITH_DOSSIER",
+    "verification_status": "MUTATIVE_DEFERRED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-DISKON-LIST",
+    "feature_id": "FEAT-DISKON-LIST",
+    "module_id": "MOD-005",
+    "name": "Pemantauan Program Promo Diskon Aktif",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-DISKON-CREATE",
+    "feature_id": "FEAT-DISKON-CREATE",
+    "module_id": "MOD-005",
+    "name": "Pembuatan Program Diskon Baru",
+    "disposition": "DEFERRED_WITH_DOSSIER",
+    "verification_status": "MUTATIVE_DEFERRED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-DISKON-APPLY",
+    "feature_id": "FEAT-DISKON-APPLY",
+    "module_id": "MOD-005",
+    "name": "Penerapan Diskon ke Katalog Produk",
+    "disposition": "DEFERRED_WITH_DOSSIER",
+    "verification_status": "MUTATIVE_DEFERRED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-DISKON-ARCHIVE",
+    "feature_id": "FEAT-DISKON-ARCHIVE",
+    "module_id": "MOD-005",
+    "name": "Pengarsipan Program Diskon Kadaluarsa",
+    "disposition": "DEFERRED_WITH_DOSSIER",
+    "verification_status": "MUTATIVE_DEFERRED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-USER-LIST",
+    "feature_id": "FEAT-USER-LIST",
+    "module_id": "MOD-006",
+    "name": "Tinjauan Daftar Karyawan & Akun Pengguna",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-USER-SYNC",
+    "feature_id": "FEAT-USER-SYNC",
+    "module_id": "MOD-006",
+    "name": "Sinkronisasi Data Karyawan & Akun Pengguna",
+    "disposition": "DEFERRED_WITH_DOSSIER",
+    "verification_status": "MUTATIVE_DEFERRED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-DUP-PAGINATION",
+    "feature_id": "FEAT-DUP-PAGINATION",
+    "module_id": "MOD-007",
+    "name": "Navigasi Paginasi Tabel Duplikat PREV/NEXT",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-DUP-EXEC",
+    "feature_id": "FEAT-DUP-EXEC",
+    "module_id": "MOD-007",
+    "name": "Eksekusi Duplikasi Data Produk",
+    "disposition": "DEFERRED_WITH_DOSSIER",
+    "verification_status": "MUTATIVE_DEFERRED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-EDIT-SELECTION",
+    "feature_id": "FEAT-EDIT-SELECTION",
+    "module_id": "MOD-008",
+    "name": "Antarmuka Seleksi Produk Edit Harga (Edit (0) Disabled)",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-EDIT-SAVE",
+    "feature_id": "FEAT-EDIT-SAVE",
+    "module_id": "MOD-008",
+    "name": "Penyimpanan Pembaruan Harga Massal",
+    "disposition": "DEFERRED_WITH_DOSSIER",
+    "verification_status": "MUTATIVE_DEFERRED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-CONSULT-FORM",
+    "feature_id": "FEAT-CONSULT-FORM",
+    "module_id": "MOD-009",
+    "name": "Formulir Konsultasi 3 Varian (Mobil/Motor/Non-Kendaraan)",
+    "disposition": "UI_VERIFIED_IN_SCOPE",
+    "verification_status": "SAFE_INTERACTION_VERIFIED"
+  },
+  {
+    "candidate_id": "CAND-FEAT-CONSULT-SUBMIT",
+    "feature_id": "FEAT-CONSULT-SUBMIT",
+    "module_id": "MOD-009",
+    "name": "Pengiriman Formulir Konsultasi ke WhatsApp",
+    "disposition": "DEFERRED_WITH_DOSSIER",
+    "verification_status": "MUTATIVE_DEFERRED"
+  }
+]

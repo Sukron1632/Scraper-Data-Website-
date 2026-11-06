@@ -1,0 +1,29 @@
+{
+  "activity_id": "ACT-BROSUR-002",
+  "module_id": "MOD-004",
+  "feature_id": "FEAT-BROSUR-LIST",
+  "title": "Menavigasi dan Meninjau Daftar Katalog Brosur Digital",
+  "observed_result": "Daftar seluruh brosur digital resmi perusahaan tampil lengkap dengan thumbnail dan tanggal terbit.",
+  "prerequisites": "Pengguna mengakses menu Brosur di sidebar.",
+  "observed_role": "Staff / IT Administrator (NANA)",
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Buka menu Brosur pada bilah navigasi utama.",
+      "exact_ui_label": "Brosur",
+      "evidence_ids": [
+        "EVD-STATE_BROSUR_001_LIST"
+      ]
+    },
+    {
+      "step_number": 2,
+      "action": "Tinjau daftar brosur aktif dan gunakan fitur pencarian brosur jika diperlukan.",
+      "exact_ui_label": "Daftar Brosur",
+      "evidence_ids": [
+        "EVD-STATE_BROSUR_001_LIST"
+      ]
+    }
+  ],
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "status": "READY_FOR_GUIDEBOOK"
+}

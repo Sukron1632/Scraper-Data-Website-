@@ -1,0 +1,29 @@
+{
+  "plan_id": "PLAN-ACT-CONSULT-001",
+  "activity_id": "ACT-CONSULT-001",
+  "screenshot_ref": "evidence/screenshots_sanitized/STATE_CONSULT_002_MODAL_SPD.png",
+  "callouts": [
+    {
+      "callout_number": 1,
+      "target_label": "Kartu Pemilih Varian Produk",
+      "bbox_px": [
+        330,
+        280,
+        780,
+        80
+      ],
+      "text_note": "Pilih varian SPD Mobil, GRS Motor, atau Lainnya."
+    },
+    {
+      "callout_number": 2,
+      "target_label": "Isian Keluhan & Unggah Lampiran",
+      "bbox_px": [
+        330,
+        380,
+        780,
+        320
+      ],
+      "text_note": "Isi detail keluhan dan lampirkan foto bukti."
+    }
+  ]
+}

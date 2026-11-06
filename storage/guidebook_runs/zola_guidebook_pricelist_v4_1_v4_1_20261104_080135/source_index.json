@@ -1,0 +1,286 @@
+{
+  "schema_version": "4.1",
+  "generated_at_utc": "2026-11-04T08:02:55.324Z",
+  "total_sources": 31,
+  "sources": [
+    {
+      "source_id": "SRC-STATE_BRAND_001_MAKERSPACE",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_001_makerspace.html",
+      "sha256": "4463ddf894c819a316001d114f2307e015d12b83643421d64fa528df9db5b14b",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.305Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_002_SEKOLAH_BENGKEL",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_002_sekolah_bengkel.html",
+      "sha256": "601ae2083d821098b0a28c936ac7a2fa20f8f0b066749bc11db667e47ea85133",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.307Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_003_SISTEM_BENGKEL",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_003_sistem_bengkel.html",
+      "sha256": "66abaa42c4e3c92f4432fc7650af771a6e2a99797f87e19fe98b57a56196fa02",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.309Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_004_WORKSHOP",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_004_workshop.html",
+      "sha256": "d1a877f8dc163a0400772eff7c84edb9dc56cf6182584970fa10741e0da38833",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.309Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_005_BOOSTLAB",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_005_boostlab.html",
+      "sha256": "d34a6342b6030d2fffc2af1ae60976c69d0670a2b5d9712c4f0212c339d39d4b",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.310Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_006_SPDVC",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_006_spdvc.html",
+      "sha256": "716cc1ff98308952af4091a594a1ad715fe93833fe5bdcad9fa89ea803d4cc6f",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.311Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_007_SPEEDOMETER",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_007_speedometer.html",
+      "sha256": "d45420e8508693c973d920a8a27382a5f4db9a450ca403b1d26bd6f771de4863",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.312Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_008_GEARSECOND",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_008_gearsecond.html",
+      "sha256": "3e5c873cd8fb6cbff47f946ac96c07413cc983dadd4ceb573ba22b423875cd11",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.313Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_009_POWER",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_009_power.html",
+      "sha256": "47aa43404d3714fffdf4cb502c9670ab7fc67cf2654e1ca43029d8da6561570e",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.313Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BRAND_010_YOONG_MOTOR",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BRAND_010_yoong_motor.html",
+      "sha256": "eb8656e3ac0706432a94641cd676aeca7720bf9dcab4a0cedd6d3fe5fe350bf2",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.314Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BROSUR_001_LIST",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BROSUR_001_LIST.html",
+      "sha256": "9332b37b78b5ad2494f84ebbb61e0c1929ffea8ba2163ea25e2844d87fe482dc",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.315Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_BROSUR_002_DETAIL_1103",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_BROSUR_002_DETAIL_1103.html",
+      "sha256": "bc5de87b17a867eaa5e436584c78d0aaf21df22439696df226ad21668f29ad84",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.315Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_CONSULT_001_TRIGGER",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_CONSULT_001_TRIGGER.html",
+      "sha256": "809f9b0cb445061940a1cd019a2b154151837f9c3ea2a7b095a01e1f495d2ccc",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.316Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_CONSULT_002_MODAL_SPD",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_CONSULT_002_MODAL_SPD.html",
+      "sha256": "579a908b907d20f33835ad0906b88a8d1ab878cf46fbef977f99e3a244249ae7",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.317Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_CONSULT_003_MODAL_GRS",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_CONSULT_003_MODAL_GRS.html",
+      "sha256": "7076cff2076c06fa14615930822a50740ed6f481c1e6db6ca703332b476a93ab",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.317Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_CONSULT_004_MODAL_OTHER",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_CONSULT_004_MODAL_OTHER.html",
+      "sha256": "8a8a44915085c1eb4772fc2b68a6da8ab2ddb800419a29c44fbd66acec5b4d85",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.318Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_CONSULT_005_MODAL_CLOSED",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_CONSULT_005_MODAL_CLOSED.html",
+      "sha256": "c4a272bacc57867a36c0c46c48b68079a948c88832a814c089c0cc145992758f",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.319Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_DASHBOARD_001_CLEAN",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_DASHBOARD_001_CLEAN.html",
+      "sha256": "2254137e5eb708105c91fdd223486040d2507353ddefa42c8ab73caac00909c9",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.319Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_DISKON_001_LIST",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_DISKON_001_LIST.html",
+      "sha256": "5e85ae16ae718e1eb2f2b1001cb1ff75473bf1b6358b41876c875a10cc409f17",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.320Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_DUPLICATE_001_PAGINATION",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_DUPLICATE_001_PAGINATION.html",
+      "sha256": "53b50ab8353d993ea091128dfec792dbaba4de085f5be51414d5e8a2509e73e7",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.320Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_DUPLICATE_002_PAGE2",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_DUPLICATE_002_PAGE2.html",
+      "sha256": "20612e43f8df48c6e506d1f38980e07f0618f2b485f6910fb8a2f6b778dd8089",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.320Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_EDIT_HARGA_001_VIEW",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_EDIT_HARGA_001_VIEW.html",
+      "sha256": "c4e14565b2c3e52c37c07a63be58af9fa023900bef086c9118ff95bb96ffb95a",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.320Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_001_MODAL_OPEN",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_001_MODAL_OPEN.html",
+      "sha256": "6be1f611b07580dc603c44c7862dca2607df4f370207d12c7e1b64d57f39fac5",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.321Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_002_MODAL_CLOSED",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_002_MODAL_CLOSED.html",
+      "sha256": "6d4f7beaa8975e1aeeb3541e8c1523dc216a5699390f7a5a63641f5ad1f911e0",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.321Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_002_MODAL_CLOSED_PASS2",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_002_MODAL_CLOSED_PASS2.html",
+      "sha256": "617bfd5ae125685fccca979caf7404fd65294f01fcf8fa3bb3d068629a52454c",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.321Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_003_FILTERED",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_003_FILTERED.html",
+      "sha256": "ca6493736ac727758865a8a15290282a37f6b38bd991fcf5cf6d10270cb602c5",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.322Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_003_FILTERED_PASS2",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_003_FILTERED_PASS2.html",
+      "sha256": "3f115db8c5a5c7f7e47bfc9036f5ac0d16256e1e8b9b079fe10248607cca7e74",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.322Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_004_EMPTY",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_004_EMPTY.html",
+      "sha256": "cd8315c38c4b0f802a0ffa98e2d1d5fd9be7f92d0f77267a1be0ae41ef9a83a8",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.323Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_004_EMPTY_PASS2",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_004_EMPTY_PASS2.html",
+      "sha256": "0d4f4c6c05c155b985747d99be5cd57f4ef158aa4562922c2d1542b7924401e9",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.323Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_SEARCH_005_BRAND_FILTERED",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_SEARCH_005_BRAND_FILTERED.html",
+      "sha256": "2b121a31b4cda6d210cfffd26cd2bbeec50c9495f91557e09d79e171d4796f8b",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.323Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    },
+    {
+      "source_id": "SRC-STATE_USER_001_LIST",
+      "relative_path_in_zip": "source_extracts_sanitized/STATE_USER_001_LIST.html",
+      "sha256": "a4c616e2e4725b6ff739d986c08c938b963d009a473d0af5232ec3a71757db22",
+      "mime_type": "text/html",
+      "indexed_at_utc": "2026-11-04T08:02:55.324Z",
+      "csrf_sanitized": true,
+      "pii_sanitized": true
+    }
+  ]
+}

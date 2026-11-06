@@ -1,0 +1,11 @@
+{
+  "schema_version": "4.2",
+  "transition_id": "TRANS-006",
+  "from_state_id": "STATE_CONSULT_001_TRIGGER",
+  "to_state_id": "STATE_CONSULT_002_MODAL_SPD",
+  "action_name": "Klik tombol atau pemicu \"Tanya Harga\"",
+  "triggered_at_utc": "2026-11-04T08:50:16.653Z",
+  "assertion_result": "PASS",
+  "assertion_type": "MODAL_OPENED",
+  "notes": ""
+}

@@ -1,0 +1,29 @@
+{
+  "activity_id": "ACT-CONSULT-001",
+  "module_id": "MOD-009",
+  "feature_id": "FEAT-CONSULT-FORM",
+  "title": "Membuka Form Konsultasi & Memilih Varian Produk (Mobil, Motor, Non-Kendaraan)",
+  "observed_result": "Jendela pop-up konsultasi terbuka dan formulir menyesuaikan field isian berdasarkan opsi jenis produk yang diklik.",
+  "prerequisites": "Pengguna berada di halaman mana pun dengan tombol pemicu 'Tanya Harga' aktif.",
+  "observed_role": "Staff / IT Administrator (NANA)",
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Klik tombol mengambang 'Tanya Harga' di pojok kanan bawah.",
+      "exact_ui_label": "Tanya Harga",
+      "evidence_ids": [
+        "EVD-STATE_CONSULT_001_TRIGGER"
+      ]
+    },
+    {
+      "step_number": 2,
+      "action": "Pilih salah satu varian jenis produk: SPD Mobil, GRS Motor, atau Produk Lainnya Non-Kendaraan.",
+      "exact_ui_label": "Pilihan Jenis Produk",
+      "evidence_ids": [
+        "EVD-STATE_CONSULT_002_MODAL_SPD"
+      ]
+    }
+  ],
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "status": "READY_FOR_GUIDEBOOK"
+}

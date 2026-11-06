@@ -1,0 +1,146 @@
+{
+  "schema_version": "4.2",
+  "total_plans_reviewed": 15,
+  "total_callouts_reviewed": 21,
+  "target_mismatch_count": 0,
+  "out_of_bounds_count": 0,
+  "placeholder_count": 0,
+  "overall_semantic_status": "PASS_100_PERCENT_VERIFIED",
+  "reviewed_plans": [
+    {
+      "plan_id": "PLAN-ACT-DASH-001",
+      "activity_id": "ACT-DASH-001",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_DASHBOARD_001_CLEAN.png",
+      "callouts_reviewed": 2,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-SEARCH-001",
+      "activity_id": "ACT-SEARCH-001",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_SEARCH_001_MODAL_OPEN.png",
+      "callouts_reviewed": 1,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-SEARCH-002",
+      "activity_id": "ACT-SEARCH-002",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_SEARCH_003_FILTERED.png",
+      "callouts_reviewed": 2,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-SEARCH-003",
+      "activity_id": "ACT-SEARCH-003",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_SEARCH_004_EMPTY.png",
+      "callouts_reviewed": 1,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-SEARCH-004",
+      "activity_id": "ACT-SEARCH-004",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_SEARCH_005_BRAND_FILTERED.png",
+      "callouts_reviewed": 1,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-SEARCH-005",
+      "activity_id": "ACT-SEARCH-005",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_SEARCH_002_MODAL_CLOSED.png",
+      "callouts_reviewed": 2,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-BRAND-001",
+      "activity_id": "ACT-BRAND-001",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_BRAND_007_speedometer.png",
+      "callouts_reviewed": 2,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-BROSUR-001",
+      "activity_id": "ACT-BROSUR-001",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_BROSUR_002_DETAIL_1103.png",
+      "callouts_reviewed": 1,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-BROSUR-002",
+      "activity_id": "ACT-BROSUR-002",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_BROSUR_001_LIST.png",
+      "callouts_reviewed": 1,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-DISKON-001",
+      "activity_id": "ACT-DISKON-001",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_DISKON_001_LIST.png",
+      "callouts_reviewed": 1,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-USER-001",
+      "activity_id": "ACT-USER-001",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_USER_001_LIST.png",
+      "callouts_reviewed": 1,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-DUP-001",
+      "activity_id": "ACT-DUP-001",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_DUPLICATE_001_PAGINATION.png",
+      "callouts_reviewed": 1,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-EDIT-001",
+      "activity_id": "ACT-EDIT-001",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_EDIT_HARGA_001_VIEW.png",
+      "callouts_reviewed": 2,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-CONSULT-001",
+      "activity_id": "ACT-CONSULT-001",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_CONSULT_002_MODAL_SPD.png",
+      "callouts_reviewed": 2,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    },
+    {
+      "plan_id": "PLAN-ACT-CONSULT-002",
+      "activity_id": "ACT-CONSULT-002",
+      "screenshot_ref": "evidence/screenshots_sanitized/STATE_CONSULT_002_MODAL_SPD.png",
+      "callouts_reviewed": 1,
+      "semantic_accuracy": "VERIFIED_ACCURATE",
+      "geometry_status": "PASS_CANVAS_BOUNDED",
+      "remediated_notes": "Target terverifikasi tepat pada kontrol UI yang bersangkutan."
+    }
+  ]
+}

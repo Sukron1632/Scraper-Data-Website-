@@ -1,0 +1,23 @@
+{
+  "schema_version": "4.1",
+  "registered_forms": [
+    {
+      "form_id": "FORM-CONSULT-01",
+      "name": "Form Tanya Harga & Konsultasi Keluhan",
+      "module": "MOD-009",
+      "type": "Modal Global"
+    },
+    {
+      "form_id": "FORM-EDIT-01",
+      "name": "Seleksi Produk Edit Harga",
+      "module": "MOD-008",
+      "type": "Table Selection Form"
+    },
+    {
+      "form_id": "FORM-SEARCH-01",
+      "name": "Filter Pencarian Produk",
+      "module": "MOD-002",
+      "type": "Search & Filter Form"
+    }
+  ]
+}

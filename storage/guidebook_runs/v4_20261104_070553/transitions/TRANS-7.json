@@ -1,0 +1,12 @@
+{
+  "schema_version": "4.0",
+  "transition_id": "TRANS-7",
+  "from_state_id": "STATE_BROSUR_001_LIST",
+  "to_state_id": "STATE_BROSUR_002_DETAIL_1103",
+  "trigger_action": "Buka link rincian brosur ID 1103",
+  "assertion_data": {
+    "assertion_type": "NAVIGATE_DETAIL",
+    "status": "PASS"
+  },
+  "recorded_at_utc": "2026-11-04T07:06:27.639Z"
+}

@@ -1,0 +1,21 @@
+{
+  "activity_id": "ACT-USER-001",
+  "module_id": "MOD-006",
+  "feature_id": "FEAT-USER-LIST",
+  "title": "Meninjau Daftar Akun Pengguna dan Status Hak Akses",
+  "observed_result": "Tabel menampilkan nama akun, role, dan tanggal pendaftaran dengan data sensitif tersanitasi.",
+  "prerequisites": "Pengguna memiliki izin membuka modul User & Karyawan.",
+  "observed_role": "Staff / IT Administrator (NANA)",
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Buka modul User & Karyawan dan periksa daftar nama serta hak akses yang terdaftar.",
+      "exact_ui_label": "Daftar Akun",
+      "evidence_ids": [
+        "EVD-STATE_USER_001_LIST"
+      ]
+    }
+  ],
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "status": "READY_FOR_GUIDEBOOK"
+}

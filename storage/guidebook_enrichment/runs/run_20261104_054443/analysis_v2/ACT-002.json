@@ -1,0 +1,48 @@
+{
+  "schema_version": "2.0",
+  "activity_id": "ACT-002",
+  "module": "Cari Harga",
+  "feature": "Pencarian Produk & Filter Spesifik",
+  "user_goal": "Memandu staf operasional dalam mencari informasi harga produk & menyesuaikan kolom tampilan secara cepat, tepat, dan aman.",
+  "verified_roles": [
+    "NANA (Admin/IT - Observed in UI Header)"
+  ],
+  "prerequisites": [
+    "Pengguna berada pada modul Cari Harga",
+    "Pop-up panduan interaktif telah dilewati/ditutup"
+  ],
+  "grounded_steps": [
+    {
+      "step": 1,
+      "action_text": "Tutup Pop-up Panduan Interaktif bila muncul",
+      "exact_label": "Lewati Panduan",
+      "evidence_id": "EV-SEARCH-MODAL",
+      "observed_result": "Pop-up panduan tertutup sempurna dan seluruh area tabel pencarian terbuka penuh."
+    },
+    {
+      "step": 2,
+      "action_text": "Ketik kata kunci produk pada Kolom Pencarian",
+      "exact_label": "Cari Produk...",
+      "evidence_id": "EV-SEARCH-FILTER",
+      "observed_result": "Tabel menampilkan daftar produk yang sesuai dengan kata kunci secara real-time."
+    },
+    {
+      "step": 3,
+      "action_text": "Ketik kata kunci acak untuk mengamati kondisi data tidak ditemukan",
+      "exact_label": "Cari Produk...",
+      "evidence_id": "EV-SEARCH-EMPTY",
+      "observed_result": "Tabel menampilkan state kosong tanpa data produk."
+    }
+  ],
+  "verified_business_rules": [
+    "BR-02"
+  ],
+  "unsupported_claims_or_speculations": [],
+  "questions_for_process_owner": [
+    "Apakah role staf kasir memiliki pembatasan kolom harga khusus dibandingkan admin?",
+    "Kapan jadwal rutin sinkronisasi diskon dilakukan oleh tim operasional?"
+  ],
+  "coverage_gaps": [
+    "Eksekusi tombol Download file excel/pdf tidak dijalankan di produksi guna menghindari beban IO server."
+  ]
+}

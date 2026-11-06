@@ -1,0 +1,1166 @@
+{
+  "state_id": "state_014_diskon_list",
+  "url": "https://pricelist.radiatorsprings.id/admin/diskon",
+  "title": "Web Pricelist | Admin",
+  "captured_at_utc": "2026-11-04T05:45:12.749Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "screenshot_original_ref": "screenshots_original_new/state_014_diskon_list.png",
+  "screenshot_sanitized_ref": "screenshots_sanitized/state_014_diskon_list.png",
+  "module": "Diskon",
+  "feature": "Daftar Program Diskon Aktif",
+  "state_description": "Tampilan daftar diskon harga dengan kontrol Tambah, Apply, dan Arsip (Read-Only).",
+  "modal_active": false,
+  "filter_applied": false,
+  "pagination_info": null,
+  "dom_summary": {
+    "url": "https://pricelist.radiatorsprings.id/admin/diskon",
+    "title": "Web Pricelist | Admin",
+    "interactiveElementsCount": 71,
+    "visibleElementsCount": 26,
+    "elements": [
+      {
+        "idx": 0,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 1,
+        "tagName": "input",
+        "type": "checkbox",
+        "id": "main-drawer",
+        "role": null,
+        "text": "on",
+        "className": "drawer-toggle",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 2,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Tambah",
+        "className": "btn normal-case btn-primary",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1058,
+          "y": 36,
+          "width": 119,
+          "height": 40
+        }
+      },
+      {
+        "idx": 3,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Apply",
+        "className": "btn normal-case btn-info",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1189,
+          "y": 36,
+          "width": 102,
+          "height": 40
+        }
+      },
+      {
+        "idx": 4,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Arsip",
+        "className": "btn normal-case btn-success",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1303,
+          "y": 36,
+          "width": 97,
+          "height": 40
+        }
+      },
+      {
+        "idx": 5,
+        "tagName": "table",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Nama Diskon\tNilai Diskon\tTanggal Awal\tTanggal Akhir\tSisa Waktu\tAksi\nPROMO SPESIA",
+        "className": "min-w-full text-xs md:text-sm",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 290,
+          "y": 117,
+          "width": 1110,
+          "height": 108
+        }
+      },
+      {
+        "idx": 6,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Apply",
+        "className": "btn normal-case btn-info",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1290,
+          "y": 173,
+          "width": 76,
+          "height": 40
+        }
+      },
+      {
+        "idx": 7,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "btn normal-case btn-circle btn-sm btn-ghost absolute end-4 top-4 z-[999]",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 918,
+          "y": 236,
+          "width": 30,
+          "height": 30
+        }
+      },
+      {
+        "idx": 8,
+        "tagName": "input",
+        "type": "text",
+        "id": "marya36464e1f59d24d0501dc61abe1de2d4nama_diskon",
+        "role": null,
+        "text": "Masukkan nama diskon",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 512,
+          "y": 317,
+          "width": 416,
+          "height": 36
+        }
+      },
+      {
+        "idx": 9,
+        "tagName": "select",
+        "type": null,
+        "id": "mary5363f03c0239bcdebfd5e4f94e69fd7ftipeDiskon",
+        "role": null,
+        "text": "Pilih tipe diskon\nPersen\nPotongan Harga",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 501,
+          "y": 401,
+          "width": 439,
+          "height": 34
+        }
+      },
+      {
+        "idx": 10,
+        "tagName": "input",
+        "type": "number",
+        "id": "maryca0e0bbfc39f6ddda0e4a5a1d3179aa0nilai_diskon",
+        "role": null,
+        "text": "Masukkan persen diskon",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 554,
+          "y": 450,
+          "width": 374,
+          "height": 36
+        }
+      },
+      {
+        "idx": 11,
+        "tagName": "input",
+        "type": "hidden",
+        "id": null,
+        "role": null,
+        "text": "Tanggal Awal",
+        "className": "flatpickr-input",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 12,
+        "tagName": "input",
+        "type": "text",
+        "id": null,
+        "role": null,
+        "text": "Tanggal Awal",
+        "className": " ",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 530,
+          "y": 540,
+          "width": 172,
+          "height": 17
+        }
+      },
+      {
+        "idx": 13,
+        "tagName": "input",
+        "type": "hidden",
+        "id": null,
+        "role": null,
+        "text": "Tanggal Akhir",
+        "className": "flatpickr-input",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 14,
+        "tagName": "input",
+        "type": "text",
+        "id": null,
+        "role": null,
+        "text": "Tanggal Akhir",
+        "className": " ",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 756,
+          "y": 540,
+          "width": 172,
+          "height": 17
+        }
+      },
+      {
+        "idx": 15,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Batal",
+        "className": "btn normal-case",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 752,
+          "y": 626,
+          "width": 68,
+          "height": 38
+        }
+      },
+      {
+        "idx": 16,
+        "tagName": "button",
+        "type": "submit",
+        "id": null,
+        "role": null,
+        "text": "Simpan",
+        "className": "btn normal-case bg-[#ff8912] hover:bg-[#ff8912] hover:text-black hover:gap-2 transition-all duration-300 text-white",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 831,
+          "y": 626,
+          "width": 109,
+          "height": 38
+        }
+      },
+      {
+        "idx": 17,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "close",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "idx": 18,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "btn normal-case btn-circle btn-sm btn-ghost absolute end-4 top-4 z-[999]",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 918,
+          "y": 328,
+          "width": 30,
+          "height": 30
+        }
+      },
+      {
+        "idx": 19,
+        "tagName": "input",
+        "type": "text",
+        "id": "maryfdb5ace9c9c98b836b2c3a56c03e0f1e",
+        "role": null,
+        "text": "",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 512,
+          "y": 361,
+          "width": 190,
+          "height": 36
+        }
+      },
+      {
+        "idx": 20,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary2e6332b23336b16339c9a89f3c0256cf",
+        "role": null,
+        "text": "",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 791,
+          "y": 361,
+          "width": 137,
+          "height": 36
+        }
+      },
+      {
+        "idx": 21,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary692c3108b65c2e372f63405e5e419ba7",
+        "role": null,
+        "text": "04 Nov 2026",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 533,
+          "y": 454,
+          "width": 169,
+          "height": 36
+        }
+      },
+      {
+        "idx": 22,
+        "tagName": "input",
+        "type": "text",
+        "id": "mary692c3108b65c2e372f63405e5e419ba7",
+        "role": null,
+        "text": "04 Nov 2026",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 759,
+          "y": 454,
+          "width": 169,
+          "height": 36
+        }
+      },
+      {
+        "idx": 23,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "close",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "idx": 24,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "btn normal-case btn-circle btn-sm btn-ghost absolute end-4 top-4 z-[999]",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 918,
+          "y": 156,
+          "width": 30,
+          "height": 30
+        }
+      },
+      {
+        "idx": 25,
+        "tagName": "select",
+        "type": null,
+        "id": "mary30cf60fdd4897518ad57ed4f2476d4afbrandDiskon",
+        "role": null,
+        "text": "Pilih brand\nMakerspace\nSekolah Bengkel\nSistem Bengkel\nSPD Workshop\nBoostlab\nSPDV",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 501,
+          "y": 270,
+          "width": 439,
+          "height": 34
+        }
+      },
+      {
+        "idx": 26,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Tambah Filter",
+        "className": "btn normal-case p-[10px_12px] rounded-[10px] bg-blue-500/10 border border-blue-500/30",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": false,
+        "rect": {
+          "x": 648,
+          "y": 340,
+          "width": 144,
+          "height": 38
+        }
+      },
+      {
+        "idx": 27,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "Batal",
+        "className": "btn normal-case",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 784,
+          "y": 706,
+          "width": 68,
+          "height": 38
+        }
+      },
+      {
+        "idx": 28,
+        "tagName": "button",
+        "type": "submit",
+        "id": null,
+        "role": null,
+        "text": "APPLY",
+        "className": "btn normal-case btn-info hover:text-black",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 863,
+          "y": 706,
+          "width": 77,
+          "height": 38
+        }
+      },
+      {
+        "idx": 29,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "close",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "idx": 30,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "NANA",
+        "className": null,
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 20,
+          "y": 148,
+          "width": 163,
+          "height": 20
+        }
+      },
+      {
+        "idx": 31,
+        "tagName": "input",
+        "type": "hidden",
+        "id": null,
+        "role": null,
+        "text": "wjd0qxrCYDeKjxXrQFanGM8Wtg1bkcrsXpCq2YcP",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 32,
+        "tagName": "button",
+        "type": "submit",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "p-2 rounded-xl border border-red-500/20 bg-red-500/10 hover:bg-red-500/20 text-red-500 transition-colors",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 195,
+          "y": 132,
+          "width": 34,
+          "height": 34
+        }
+      },
+      {
+        "idx": 33,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Beranda",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap font-bold hover:text-white",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 8,
+          "y": 188,
+          "width": 233,
+          "height": 38
+        }
+      },
+      {
+        "idx": 34,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Cari Harga",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap font-bold hover:text-white",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 8,
+          "y": 230,
+          "width": 233,
+          "height": 38
+        }
+      },
+      {
+        "idx": 35,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Makerspace",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap text-xs !py-1 transition-all",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 32,
+          "y": 312,
+          "width": 209,
+          "height": 34
+        }
+      },
+      {
+        "idx": 36,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Sekolah Bengkel",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap text-xs !py-1 transition-all",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 32,
+          "y": 350,
+          "width": 209,
+          "height": 34
+        }
+      },
+      {
+        "idx": 37,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Sistem Bengkel",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap text-xs !py-1 transition-all",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 32,
+          "y": 388,
+          "width": 209,
+          "height": 34
+        }
+      },
+      {
+        "idx": 38,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "SPD Workshop",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap text-xs !py-1 transition-all",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 32,
+          "y": 426,
+          "width": 209,
+          "height": 34
+        }
+      },
+      {
+        "idx": 39,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Boostlab",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap text-xs !py-1 transition-all",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 32,
+          "y": 464,
+          "width": 209,
+          "height": 34
+        }
+      },
+      {
+        "idx": 40,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "SPDVC",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap text-xs !py-1 transition-all",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 32,
+          "y": 502,
+          "width": 209,
+          "height": 34
+        }
+      },
+      {
+        "idx": 41,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "SPD Speedometer",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap text-xs !py-1 transition-all",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 32,
+          "y": 540,
+          "width": 209,
+          "height": 34
+        }
+      },
+      {
+        "idx": 42,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "GRS Speedometer",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap text-xs !py-1 transition-all",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 32,
+          "y": 578,
+          "width": 209,
+          "height": 34
+        }
+      },
+      {
+        "idx": 43,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Power +",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap text-xs !py-1 transition-all",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 32,
+          "y": 616,
+          "width": 209,
+          "height": 34
+        }
+      },
+      {
+        "idx": 44,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Yoong Motor",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap text-xs !py-1 transition-all",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 32,
+          "y": 654,
+          "width": 209,
+          "height": 34
+        }
+      },
+      {
+        "idx": 45,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Brosur",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap font-bold hover:text-white",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 8,
+          "y": 312,
+          "width": 233,
+          "height": 38
+        }
+      },
+      {
+        "idx": 46,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Diskon",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap mary-active-menu bg-primary/20 text-white border-l-4 border-primary font-bold hover:text-white",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 8,
+          "y": 354,
+          "width": 233,
+          "height": 38
+        }
+      },
+      {
+        "idx": 47,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Karyawan",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap font-bold hover:text-white",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 8,
+          "y": 397,
+          "width": 233,
+          "height": 38
+        }
+      },
+      {
+        "idx": 48,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Duplikat Harga",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap font-bold hover:text-white",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 8,
+          "y": 439,
+          "width": 233,
+          "height": 38
+        }
+      },
+      {
+        "idx": 49,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Edit Harga",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap font-bold hover:text-white",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 8,
+          "y": 481,
+          "width": 233,
+          "height": 38
+        }
+      },
+      {
+        "idx": 50,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "btn btn-sm btn-ghost h-11 w-11 rounded-xl border border-white/10 p-0",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 51,
+          "y": 824,
+          "width": 44,
+          "height": 44
+        }
+      },
+      {
+        "idx": 51,
+        "tagName": "input",
+        "type": "checkbox",
+        "id": "mary69ceee2257f095f0c82008cdccb0d824",
+        "role": null,
+        "text": "spd-light",
+        "className": "theme-controller opacity-0",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 115,
+          "y": 846,
+          "width": 20,
+          "height": 0
+        }
+      },
+      {
+        "idx": 52,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "btn btn-sm btn-ghost h-11 w-11 rounded-xl border border-white/10 p-0",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 155,
+          "y": 824,
+          "width": 44,
+          "height": 44
+        }
+      },
+      {
+        "idx": 53,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "relative flex items-center justify-center w-14 h-14 bg-gradient-to-tr from-emerald-600 to-green-500 text-white rounded-full shadow-2xl hover:scale-110 active:scale-95 transition-all duration-300 focus:outline-none ring-4 ring-emerald-500/30",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 54,
+        "tagName": "button",
+        "type": "button",
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "btn normal-case !inline-flex lg:tooltip lg:tooltip-top btn btn-sm btn-square rounded-full border-2 border-red-500/50 bg-red-500/10 text-red-500 hover:bg-red-600 hover:text-white",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 1228,
+          "y": 144,
+          "width": 30,
+          "height": 30
+        }
+      },
+      {
+        "idx": 55,
+        "tagName": "input",
+        "type": "radio",
+        "id": null,
+        "role": null,
+        "text": "spd",
+        "className": "sr-only",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 330,
+          "y": 290,
+          "width": 1,
+          "height": 1
+        }
+      },
+      {
+        "idx": 56,
+        "tagName": "input",
+        "type": "radio",
+        "id": null,
+        "role": null,
+        "text": "gearsecond",
+        "className": "sr-only",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 720,
+          "y": 290,
+          "width": 1,
+          "height": 1
+        }
+      },
+      {
+        "idx": 57,
+        "tagName": "input",
+        "type": "radio",
+        "id": null,
+        "role": null,
+        "text": "other",
+        "className": "sr-only",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 1109,
+          "y": 290,
+          "width": 1,
+          "height": 1
+        }
+      },
+      {
+        "idx": 58,
+        "tagName": "input",
+        "type": "text",
+        "id": null,
+        "role": null,
+        "text": "Pilih atau tulis manual...",
+        "className": "w-full px-4 py-2.5 rounded-xl border border-slate-700 bg-slate-800/80 text-white text-sm focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 transition-all outline-none",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 143,
+          "y": 382,
+          "width": 569,
+          "height": 40
+        }
+      },
+      {
+        "idx": 59,
+        "tagName": "input",
+        "type": "text",
+        "id": null,
+        "role": null,
+        "text": "Pilih atau tulis manual...",
+        "className": "w-full px-4 py-2.5 rounded-xl border border-slate-700 bg-slate-800/80 text-white text-sm focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 transition-all outline-none",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 728,
+          "y": 382,
+          "width": 569,
+          "height": 40
+        }
+      }
+    ]
+  }
+}

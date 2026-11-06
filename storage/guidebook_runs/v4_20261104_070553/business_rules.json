@@ -1,0 +1,53 @@
+{
+  "schema_version": "4.0",
+  "generated_at_utc": "2026-11-04T07:06:52.592Z",
+  "scraper_policies": [
+    {
+      "policy_id": "POL-01",
+      "name": "Kontrak Keselamatan Produksi (Zero Mutation)",
+      "rule_code": "BR-01",
+      "status": "ENFORCED_ACTIVE",
+      "provenance": "LivewireGuardrailV4 Interceptor",
+      "description": "Seluruh permintaan mutatif (POST di luar pencarian, PUT, DELETE, method calls mutatif) dibatalkan secara mutlak sebelum menyentuh server."
+    },
+    {
+      "policy_id": "POL-02",
+      "name": "Sanitasi PII Multi-Lapis",
+      "rule_code": "BR-03",
+      "status": "ENFORCED_ACTIVE",
+      "provenance": "CSS Visual Masking + DOM Regex Redaction",
+      "description": "Nomor telepon dan email karyawan disamarkan permanen pada tangkapan layar dan data terstruktur."
+    }
+  ],
+  "product_business_rules": [
+    {
+      "rule_id": "PBR-01",
+      "name": "Pencarian Real-Time Dinamis",
+      "rule_code": "BR-02",
+      "status": "TESTED_READ_ONLY",
+      "provenance": "2-Pass Behavioral Assertions pada rute /search",
+      "description": "Input kata kunci produk secara dinamis menyaring tabel harga melalui Livewire component render tanpa reload halaman penuh."
+    },
+    {
+      "rule_id": "PBR-02",
+      "name": "Paginasi Tabel Duplikat",
+      "rule_code": "BR-04",
+      "status": "OBSERVED_AND_TESTED",
+      "provenance": "Pengujian rute /admin/duplicate",
+      "description": "Tabel duplikat memuat baris dengan tombol navigasi PREV dan NEXT aktif."
+    },
+    {
+      "rule_id": "PBR-03",
+      "name": "Seleksi Produk Sebelum Edit Harga",
+      "rule_code": "PBR-03",
+      "status": "OBSERVED_UI",
+      "provenance": "Observasi rute /admin/edit-harga",
+      "description": "Tombol Edit (0) berstatus disabled dan membutuhkan pencentangan minimal 1 produk sebelum proses ubah harga dapat dimulai."
+    }
+  ],
+  "unverified_rules_for_owner_confirmation": [
+    "Apakah diskon diterapkan otomatis saat transaksi kasir atau memerlukan input kode promo?",
+    "Apakah perubahan harga massal langsung berlaku di seluruh cabang atau memiliki waktu aktivasi terjadwal?",
+    "Apakah ada approval bertingkat untuk penghapusan atau penambahan akun karyawan?"
+  ]
+}

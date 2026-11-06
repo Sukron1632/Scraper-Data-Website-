@@ -1,0 +1,12 @@
+[
+  {
+    "ui_element": "Button Kirim (Konsultasi)",
+    "reason": "Submit mutatif ke WhatsApp sengaja ditunda demi keselamatan produksi.",
+    "status": "MUTATIVE_DEFERRED"
+  },
+  {
+    "ui_element": "Button Edit (0) Disabled",
+    "reason": "Disabled sampai ada checkbox produk yang dipilih.",
+    "status": "UI_OBSERVED_DISABLED"
+  }
+]

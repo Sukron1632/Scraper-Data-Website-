@@ -1,0 +1,2723 @@
+[
+  {
+    "timestamp": "2026-11-04T08:48:35.853Z",
+    "method": "GET",
+    "path": "/dashboard",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.671Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.672Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.672Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.673Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.673Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.673Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.676Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.677Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.677Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.678Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:36.849Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.026Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.028Z",
+    "method": "GET",
+    "path": "/storage/brosur/7/assets/image-E4KP0h.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.029Z",
+    "method": "GET",
+    "path": "/storage/brosur/8/assets/image-PYlPGL.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.029Z",
+    "method": "GET",
+    "path": "/storage/brosur/8/assets/image-IxIYpu.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.029Z",
+    "method": "GET",
+    "path": "/storage/brosur/7/assets/image-yUhtMN.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.030Z",
+    "method": "GET",
+    "path": "/storage/brosur/272/assets/image-mOtwPL.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.030Z",
+    "method": "GET",
+    "path": "/storage/brosur/7/assets/image-wTSMh0.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.033Z",
+    "method": "GET",
+    "path": "/storage/brosur/891/assets/grs-pricelist-vario-rev-2-logfile-4940-869zA8.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.033Z",
+    "method": "GET",
+    "path": "/storage/brosur/20226/brosur_02.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.033Z",
+    "method": "GET",
+    "path": "/storage/brosur/20226/brosur_01.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.033Z",
+    "method": "GET",
+    "path": "/storage/brosur/20227/brosur_01.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.033Z",
+    "method": "GET",
+    "path": "/storage/brosur/16259/brosur_01.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.034Z",
+    "method": "GET",
+    "path": "/storage/brosur/715/brosur_01.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.121Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:37.121Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:40.324Z",
+    "method": "GET",
+    "path": "/search",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.010Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.011Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.011Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.011Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.012Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.012Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.013Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.013Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.014Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.014Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.065Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.308Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.429Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:41.429Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:44.284Z",
+    "method": "POST",
+    "path": "/livewire/update",
+    "classification": "SAFE_READ_ONLY_COMPONENT_UPDATE",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:47.800Z",
+    "method": "POST",
+    "path": "/livewire/update",
+    "classification": "SAFE_READ_ONLY_COMPONENT_UPDATE",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:51.181Z",
+    "method": "POST",
+    "path": "/livewire/update",
+    "classification": "SAFE_READ_ONLY_COMPONENT_UPDATE",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:54.584Z",
+    "method": "POST",
+    "path": "/livewire/update",
+    "classification": "SAFE_READ_ONLY_COMPONENT_UPDATE",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:48:57.087Z",
+    "method": "POST",
+    "path": "/livewire/update",
+    "classification": "SAFE_READ_ONLY_COMPONENT_UPDATE",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:26.818Z",
+    "method": "POST",
+    "path": "/livewire/update",
+    "classification": "SAFE_READ_ONLY_COMPONENT_UPDATE",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:28.300Z",
+    "method": "GET",
+    "path": "/admin/edit-harga",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.141Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.141Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.141Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.142Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.144Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.144Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.144Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.145Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.145Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.145Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.208Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.426Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.549Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:29.550Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:30.530Z",
+    "method": "GET",
+    "path": "/admin/duplicate",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.762Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.762Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.762Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.762Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.762Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.763Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.763Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.763Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.763Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.764Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:31.813Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:32.036Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:32.107Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:32.109Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:33.053Z",
+    "method": "POST",
+    "path": "/livewire/update",
+    "classification": "SAFE_READ_ONLY_COMPONENT_UPDATE",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.056Z",
+    "method": "GET",
+    "path": "/admin/brosur",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.608Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.610Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.611Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.611Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.611Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.611Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.611Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.611Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.612Z",
+    "method": "GET",
+    "path": "/storage/brosur/7/assets/image-E4KP0h.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.612Z",
+    "method": "GET",
+    "path": "/storage/brosur/8/assets/image-PYlPGL.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.660Z",
+    "method": "GET",
+    "path": "/storage/brosur/8/assets/image-IxIYpu.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.660Z",
+    "method": "GET",
+    "path": "/storage/brosur/7/assets/image-yUhtMN.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.661Z",
+    "method": "GET",
+    "path": "/storage/brosur/272/assets/image-mOtwPL.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.661Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.662Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.662Z",
+    "method": "GET",
+    "path": "/storage/brosur/7/assets/image-wTSMh0.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.663Z",
+    "method": "GET",
+    "path": "/storage/brosur/891/assets/grs-pricelist-vario-rev-2-logfile-4940-869zA8.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.663Z",
+    "method": "GET",
+    "path": "/storage/brosur/20226/brosur_02.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.663Z",
+    "method": "GET",
+    "path": "/storage/brosur/20226/brosur_01.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.663Z",
+    "method": "GET",
+    "path": "/storage/brosur/20227/brosur_01.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:35.663Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:36.008Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:36.315Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:36.316Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:38.321Z",
+    "method": "GET",
+    "path": "/admin/brosur/1103",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.152Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.153Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.153Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.153Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.153Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.153Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.154Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.154Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.154Z",
+    "method": "GET",
+    "path": "/storage/brosur/7/assets/image-E4KP0h.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.154Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.200Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.201Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.849Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.877Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:46.878Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:47.956Z",
+    "method": "GET",
+    "path": "/admin/diskon",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.556Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.557Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.557Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.559Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.559Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.559Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.559Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.560Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.560Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.560Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.604Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:48.896Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:49.102Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:49.103Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.097Z",
+    "method": "GET",
+    "path": "/admin/user",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.627Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.628Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.628Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.628Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.628Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.629Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.630Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.630Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.630Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.630Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.673Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:50.938Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:51.087Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:51.088Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.160Z",
+    "method": "GET",
+    "path": "/harga",
+    "query_redacted": "?brand=makerspace",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.867Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.868Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.868Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.868Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.868Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.870Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.870Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.871Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.871Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.871Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:52.918Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:53.214Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:53.273Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:53.273Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.218Z",
+    "method": "GET",
+    "path": "/harga",
+    "query_redacted": "?brand=sekolah-bengkel",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.897Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.898Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.898Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.898Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.899Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.900Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.900Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.900Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.900Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.900Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:54.941Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:55.232Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:55.278Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:55.278Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.184Z",
+    "method": "GET",
+    "path": "/harga",
+    "query_redacted": "?brand=sistem-bengkel",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.842Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.844Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.844Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.844Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.845Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.845Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.845Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.845Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.846Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.846Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:56.890Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:57.146Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:57.304Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:57.305Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.235Z",
+    "method": "GET",
+    "path": "/harga",
+    "query_redacted": "?brand=workshop",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.911Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.912Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.913Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.913Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.913Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.913Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.913Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.914Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.914Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.914Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:58.960Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:59.196Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:59.243Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:49:59.243Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.143Z",
+    "method": "GET",
+    "path": "/harga",
+    "query_redacted": "?brand=boostlab",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.743Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.743Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.744Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.744Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.744Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.745Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.745Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.745Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.745Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.745Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:00.792Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:01.092Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:01.145Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:01.145Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.052Z",
+    "method": "GET",
+    "path": "/harga",
+    "query_redacted": "?brand=spdvc",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.671Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.673Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.673Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.673Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.673Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.673Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.674Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.674Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.674Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.674Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.721Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:02.979Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:03.028Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:03.029Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:03.902Z",
+    "method": "GET",
+    "path": "/harga",
+    "query_redacted": "?brand=speedometer",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.529Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.530Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.531Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.531Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.531Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.531Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.531Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.532Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.532Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.532Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.585Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.902Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.904Z",
+    "method": "GET",
+    "path": "/konten/kendaraan/6/221/data_260526_h1BL5.webp",
+    "query_redacted": "?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=main%3AW8jAo79DS54Ix4gVd8lS%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T084702Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=41c0dd2ea5dd1a6203c50bdf56ae42dde9ae6d6180165a24856bd91311bc3aff",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.905Z",
+    "method": "GET",
+    "path": "/konten/kendaraan/6/222/data_260526_HHW79.webp",
+    "query_redacted": "?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=main%3AW8jAo79DS54Ix4gVd8lS%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T084702Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=dc84080c47f4a285d4b50d5358e298fc9146a5a5634c29ec356cb463cdacefc8",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.905Z",
+    "method": "GET",
+    "path": "/konten/kendaraan/6/223/data_260526_Ngite.webp",
+    "query_redacted": "?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=main%3AW8jAo79DS54Ix4gVd8lS%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T084702Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=4982a2fa2afc846172b8c0a31e520fc686c885ecf9dcce1de67a760660243ee9",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.906Z",
+    "method": "GET",
+    "path": "/konten/kendaraan/6/1234/data_260610_EJRui.webp",
+    "query_redacted": "?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=main%3AW8jAo79DS54Ix4gVd8lS%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T084702Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=03ebaedc3154f50224c7be2a94d955fc3592b0fc39d0df8b53bfb53cbc00e670",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.958Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:04.958Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:05.885Z",
+    "method": "GET",
+    "path": "/harga",
+    "query_redacted": "?brand=gearsecond",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.648Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.649Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.649Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.651Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.651Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.651Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.652Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.652Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.652Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.652Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:06.702Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:07.021Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:07.022Z",
+    "method": "GET",
+    "path": "/konten/kendaraan/69/730/data_260526_eSB72.webp",
+    "query_redacted": "?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=main%3AW8jAo79DS54Ix4gVd8lS%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T084705Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=16ae5c3d82a1335290949fdf5a4e2cb7564905abb322e16d38a49beccd96852a",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:07.024Z",
+    "method": "GET",
+    "path": "/konten/kendaraan/69/731/data_260526_HSdeT.webp",
+    "query_redacted": "?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=main%3AW8jAo79DS54Ix4gVd8lS%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T084705Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=c0247f61e4caab1fa8e118632274c3640d242049fba65536b0cabd89aab1d235",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:07.024Z",
+    "method": "GET",
+    "path": "/konten/kendaraan/69/732/data_260526_mJhdE.webp",
+    "query_redacted": "?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=main%3AW8jAo79DS54Ix4gVd8lS%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T084705Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=4fed4bff3b500490898eb0625cfc41fa2453b090a5de71a22d368dde2b369df6",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:07.024Z",
+    "method": "GET",
+    "path": "/konten/kendaraan/69/733/data_260526_nrzN5.webp",
+    "query_redacted": "?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=main%3AW8jAo79DS54Ix4gVd8lS%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T084705Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=7bb29fc9f0536711c6ceea2fb614ccd26b2d4e463497d7279b17e1cd114dce06",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:07.025Z",
+    "method": "GET",
+    "path": "/konten/kendaraan/69/734/data_260526_Ei2yb.webp",
+    "query_redacted": "?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=main%3AW8jAo79DS54Ix4gVd8lS%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T084705Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=fba3cac7b958ffc6a85b7e5ab0b4f55425458a5eb91d3439efb99a82bc2e7379",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:07.074Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:07.074Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.097Z",
+    "method": "GET",
+    "path": "/harga",
+    "query_redacted": "?brand=power",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.705Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.705Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.706Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.706Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.708Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.708Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.708Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.708Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.708Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.709Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.758Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:08.997Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:09.041Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:09.041Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:09.968Z",
+    "method": "GET",
+    "path": "/harga",
+    "query_redacted": "?brand=yoong-motor",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.598Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.599Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.599Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.599Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.600Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.601Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.601Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.601Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.601Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.601Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.660Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.930Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.996Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:10.996Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:11.969Z",
+    "method": "GET",
+    "path": "/dashboard",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.824Z",
+    "method": "GET",
+    "path": "/css2",
+    "query_redacted": "?family=Montserrat:wght@400;500;600;700&display=swap",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.824Z",
+    "method": "GET",
+    "path": "/npm/flatpickr/dist/flatpickr.min.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.824Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.825Z",
+    "method": "GET",
+    "path": "/npm/flatpickr",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.825Z",
+    "method": "GET",
+    "path": "/build/assets/app-BD2QI5fQ.css",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.825Z",
+    "method": "GET",
+    "path": "/build/assets/app-mXCEOKPc.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.826Z",
+    "method": "GET",
+    "path": "/_filepond/styles",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.826Z",
+    "method": "GET",
+    "path": "/_filepond/scripts",
+    "query_redacted": "?v=1.6.0",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.827Z",
+    "method": "GET",
+    "path": "/logo/LOGO%20RSI.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.827Z",
+    "method": "GET",
+    "path": "/npm/driver.js@1.3.1/dist/driver.js.iife.js",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:12.861Z",
+    "method": "GET",
+    "path": "/vendor/livewire/livewire.js",
+    "query_redacted": "?id=d73b2798",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.149Z",
+    "method": "GET",
+    "path": "/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.151Z",
+    "method": "GET",
+    "path": "/storage/brosur/7/assets/image-E4KP0h.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.152Z",
+    "method": "GET",
+    "path": "/storage/brosur/8/assets/image-PYlPGL.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.152Z",
+    "method": "GET",
+    "path": "/storage/brosur/8/assets/image-IxIYpu.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.153Z",
+    "method": "GET",
+    "path": "/storage/brosur/7/assets/image-yUhtMN.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.153Z",
+    "method": "GET",
+    "path": "/storage/brosur/272/assets/image-mOtwPL.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.153Z",
+    "method": "GET",
+    "path": "/storage/brosur/7/assets/image-wTSMh0.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.153Z",
+    "method": "GET",
+    "path": "/storage/brosur/891/assets/grs-pricelist-vario-rev-2-logfile-4940-869zA8.png",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.153Z",
+    "method": "GET",
+    "path": "/storage/brosur/20226/brosur_02.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.154Z",
+    "method": "GET",
+    "path": "/storage/brosur/20226/brosur_01.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.154Z",
+    "method": "GET",
+    "path": "/storage/brosur/20227/brosur_01.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.154Z",
+    "method": "GET",
+    "path": "/storage/brosur/16259/brosur_01.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.181Z",
+    "method": "GET",
+    "path": "/storage/brosur/715/brosur_01.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.255Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:13.255Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=7",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:15.913Z",
+    "method": "GET",
+    "path": "/storage/brosur/238/brosur_07.jpg",
+    "query_redacted": "",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:16.690Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=8",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:16.692Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=8",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:17.350Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=8",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  },
+  {
+    "timestamp": "2026-11-04T08:50:17.351Z",
+    "method": "GET",
+    "path": "/api/kendaraan/merks",
+    "query_redacted": "?root_id=8",
+    "classification": "SAFE_READ_ONLY",
+    "action": "ALLOWED"
+  }
+]

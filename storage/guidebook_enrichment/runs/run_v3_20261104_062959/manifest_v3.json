@@ -1,0 +1,16 @@
+{
+  "dataset_version": "3.0",
+  "generated_at_utc": "2026-11-04T06:31:12.018Z",
+  "run_directory": "E:/Radiator Springs/pricelist/storage/guidebook_enrichment/runs/run_v3_20261104_062959",
+  "zip_artifact": {
+    "file_name": "guidebook_dataset_v3_sanitized_run_v3_20261104_062959.zip",
+    "sha256": "4c9c958c7da6cfe0392ef3db4ba9cfbaa4d583072312f104abdb87b8d81762af",
+    "size_bytes": 3791734,
+    "portability_format": "POSIX-compliant zip, no backslashes, no zip-slip"
+  },
+  "audit_pass_status": {
+    "pass_1": "PASS",
+    "pass_2": "PASS",
+    "final_verdict": "GO (Read-Only Approved)"
+  }
+}

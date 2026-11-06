@@ -1,0 +1,31 @@
+{
+  "schema_version": "4.1",
+  "activity_id": "ACT-BRAND-001",
+  "screenshot_ref": "screenshots_sanitized/STATE_BRAND_007_speedometer.png",
+  "style_standard": "Zola Standard (Orange #E65100 / Charcoal #263238 / White #FFFFFF)",
+  "canvas_resolution": {
+    "width": 1440,
+    "height": 900
+  },
+  "callouts": [
+    {
+      "callout_id": "CALL-1",
+      "callout_number": "[01]",
+      "target_label_actual": "Katalog Brand Resmi",
+      "action_type": "NAVIGATE_BRAND_CATALOG",
+      "bbox_px": [
+        48,
+        120,
+        280,
+        50
+      ],
+      "canvas_dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "operational_instruction": "Katalog memuat tabel produk resmi untuk masing-masing merek terdaftar",
+      "review_status": "MEASURED_AND_VERIFIED",
+      "semantic_audit_status": "VERIFIED_SEMANTIC_TARGET"
+    }
+  ]
+}

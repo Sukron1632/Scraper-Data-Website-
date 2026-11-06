@@ -1,0 +1,18 @@
+{
+  "activity_id": "ACT-004",
+  "screenshot_ref": "screenshots_sanitized/state_016_duplicate_pagination.png",
+  "style_standard": "Zola Standard (Orange #E65100 / Charcoal #263238 / White #FFFFFF)",
+  "callouts": [
+    {
+      "callout_number": "[01]",
+      "element_label": "PREV / NEXT",
+      "action": "Periksa",
+      "operational_purpose": "Mengoreksi metadata lama yang menyatakan paginasi tidak ada.",
+      "target_locator": "button:has-text('PREV'), button:has-text('NEXT')",
+      "bounding_box_estimate": {
+        "focal_area": "Area kerja utama",
+        "relative_position": "Top / Header"
+      }
+    }
+  ]
+}

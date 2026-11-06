@@ -1,0 +1,21 @@
+{
+  "activity_id": "ACT-DISKON-001",
+  "module_id": "MOD-005",
+  "feature_id": "FEAT-DISKON-LIST",
+  "title": "Memeriksa Status dan Masa Berlaku Program Diskon Aktif",
+  "observed_result": "Pengguna dapat memantau nama diskon, persentase potongan, periode berlaku, dan sisa waktu promo.",
+  "prerequisites": "Pengguna membuka rute /admin/diskon.",
+  "observed_role": "Staff / IT Administrator (NANA)",
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Tinjau kolom persentase dan tanggal berlaku pada tabel program diskon.",
+      "exact_ui_label": "Nilai Diskon / Sisa Waktu",
+      "evidence_ids": [
+        "EVD-STATE_DISKON_001_LIST"
+      ]
+    }
+  ],
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "status": "READY_FOR_GUIDEBOOK"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "4.0",
+  "activity_id": "ACT-BROSUR-001",
+  "module_id": "MOD-004",
+  "module": "Brosur",
+  "feature_id": "FEAT-BROSUR-VIEW",
+  "feature": "Rincian Produk Brosur #1103",
+  "activity_name_ui_accurate": "Melihat Daftar Brosur Digital dan Rincian Pemetaan Produk",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "readiness": "READY_FOR_PROCEDURAL_GUIDE",
+  "preconditions": [
+    "Berada pada rute /admin/brosur"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "NAVIGATE_DETAIL",
+      "ui_target_actual": "Detail Brosur ID 1103",
+      "state_before_id": "STATE_BROSUR_001_LIST",
+      "state_after_id": "STATE_BROSUR_002_DETAIL_1103",
+      "expected_result": "Tabel menampilkan rincian produk yang dipetakan pada brosur terkait",
+      "evidence_ids": [
+        "EVD-STATE_BROSUR_001_LIST",
+        "EVD-STATE_BROSUR_002_DETAIL_1103"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01"
+  ],
+  "gaps": [
+    "Aksi Tambah Brosur berstatus DEFERRED (FEAT-BROSUR-CREATE)."
+  ]
+}

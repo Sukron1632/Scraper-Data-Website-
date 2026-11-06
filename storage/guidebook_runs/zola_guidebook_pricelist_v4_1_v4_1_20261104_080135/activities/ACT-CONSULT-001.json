@@ -1,0 +1,34 @@
+{
+  "schema_version": "4.1",
+  "activity_id": "ACT-CONSULT-001",
+  "module_id": "MOD-009",
+  "module": "Tanya Harga & Konsultasi Keluhan",
+  "feature_id": "FEAT-CONSULT-OPEN",
+  "feature": "Membuka Modal Tanya Harga",
+  "activity_name_ui_accurate": "Membuka Form Tanya Harga & Konsultasi Keluhan via Tombol Pemicu",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "readiness": "READY_FOR_PROCEDURAL_GUIDE",
+  "preconditions": [
+    "Berada pada halaman dashboard atau katalog dengan widget chat bubble aktif"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "CLICK_TRIGGER_BUTTON",
+      "ui_target_actual": "Tombol Floating 'Tanya Harga'",
+      "state_before_id": "STATE_CONSULT_001_TRIGGER",
+      "state_after_id": "STATE_CONSULT_002_MODAL_SPD",
+      "expected_result": "Modal interaktif 'Tanya Harga & Konsultasi Keluhan' muncul di tengah layar",
+      "evidence_ids": [
+        "EVD-STATE_CONSULT_001_TRIGGER",
+        "EVD-STATE_CONSULT_002_MODAL_SPD"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01"
+  ],
+  "gaps": []
+}

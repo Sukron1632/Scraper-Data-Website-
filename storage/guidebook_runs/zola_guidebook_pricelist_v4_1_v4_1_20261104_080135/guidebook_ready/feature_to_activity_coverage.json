@@ -1,0 +1,190 @@
+[
+  {
+    "feature_id": "FEAT-DASH-01",
+    "feature_name": "Ringkasan Sistem & Statistik",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-DASH-001"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-SEARCH-01",
+    "feature_name": "Panduan Onboarding Driver.js",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-SEARCH-001"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-SEARCH-02",
+    "feature_name": "Pencarian Real-Time Livewire",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-SEARCH-002",
+      "ACT-SEARCH-003"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-SEARCH-03",
+    "feature_name": "Filter Brand & Kategori",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-SEARCH-004"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-BRAND-ALL",
+    "feature_name": "Katalog 10 Brand Resmi",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-BRAND-001"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-BROSUR-LIST",
+    "feature_name": "Daftar Brosur Digital",
+    "classification": "READ_ONLY",
+    "mapped_activities": [],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-BROSUR-VIEW",
+    "feature_name": "Rincian Produk Brosur #1103",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-BROSUR-001"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-BROSUR-CREATE",
+    "feature_name": "Tambah / Upload Brosur",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "mapped_dossiers": [
+      "FEAT-BROSUR-CREATE"
+    ]
+  },
+  {
+    "feature_id": "FEAT-DISKON-LIST",
+    "feature_name": "Daftar Diskon Aktif",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-DISKON-001"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-DISKON-APPLY",
+    "feature_name": "Apply Diskon Toko",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "mapped_dossiers": [
+      "FEAT-DISKON-APPLY"
+    ]
+  },
+  {
+    "feature_id": "FEAT-DISKON-ARCHIVE",
+    "feature_name": "Arsip Diskon Toko",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "mapped_dossiers": [
+      "FEAT-DISKON-ARCHIVE"
+    ]
+  },
+  {
+    "feature_id": "FEAT-USER-LIST",
+    "feature_name": "Daftar Akun Karyawan",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-USER-001"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-USER-SYNC",
+    "feature_name": "Sync / Sync Org Units",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "mapped_dossiers": [
+      "FEAT-USER-SYNC"
+    ]
+  },
+  {
+    "feature_id": "FEAT-DUP-PAG",
+    "feature_name": "Paginasi Duplikat PREV/NEXT",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-DUP-001"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-DUP-EXECUTE",
+    "feature_name": "Eksekusi Duplikasi Produk",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "mapped_dossiers": [
+      "FEAT-DUP-EXECUTE"
+    ]
+  },
+  {
+    "feature_id": "FEAT-EDIT-VIEW",
+    "feature_name": "Seleksi Produk Edit Harga",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-EDIT-001"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-EDIT-SAVE",
+    "feature_name": "Submit Ubah Harga Massal",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "mapped_dossiers": [
+      "FEAT-EDIT-SAVE"
+    ]
+  },
+  {
+    "feature_id": "FEAT-CONSULT-OPEN",
+    "feature_name": "Membuka Modal Tanya Harga",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-CONSULT-001"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-CONSULT-VARIANTS",
+    "feature_name": "Pemilihan 3 Varian Produk",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-CONSULT-002"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-CONSULT-CANCEL",
+    "feature_name": "Membatalkan dan Menutup Form",
+    "classification": "READ_ONLY",
+    "mapped_activities": [
+      "ACT-CONSULT-003"
+    ],
+    "mapped_dossiers": []
+  },
+  {
+    "feature_id": "FEAT-CONSULT-SUBMIT",
+    "feature_name": "Kirim Konsultasi ke WhatsApp",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "mapped_dossiers": [
+      "FEAT-CONSULT-SUBMIT"
+    ]
+  }
+]

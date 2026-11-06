@@ -1,0 +1,30 @@
+{
+  "schema_version": "3.0",
+  "activity_id": "ACT-EDIT-001",
+  "screenshot_ref": "screenshots_sanitized_v3/STATE_EDIT_HARGA_001_VIEW.png",
+  "style_standard": "Zola Standard (Orange #E65100 / Charcoal #263238 / White #FFFFFF)",
+  "canvas_resolution": {
+    "width": 1440,
+    "height": 900
+  },
+  "callouts": [
+    {
+      "callout_id": "CALL-1",
+      "callout_number": "[01]",
+      "target_label_actual": "Edit Harga",
+      "action_type": "OBSERVE_FORM_VIEW",
+      "bbox_px": [
+        8,
+        481,
+        233,
+        38
+      ],
+      "canvas_dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "operational_instruction": "Halaman formulir terbuka dengan status HTTP 200",
+      "review_status": "MEASURED_AND_VERIFIED"
+    }
+  ]
+}

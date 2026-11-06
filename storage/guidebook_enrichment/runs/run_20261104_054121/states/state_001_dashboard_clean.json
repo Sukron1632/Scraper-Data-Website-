@@ -1,0 +1,1166 @@
+{
+  "state_id": "state_001_dashboard_clean",
+  "url": "https://pricelist.radiatorsprings.id/dashboard",
+  "title": "Web Pricelist | Admin",
+  "captured_at_utc": "2026-11-04T05:41:37.653Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "screenshot_original_ref": "screenshots_original_new/state_001_dashboard_clean.png",
+  "screenshot_sanitized_ref": "screenshots_sanitized/state_001_dashboard_clean.png",
+  "module": "Dashboard",
+  "feature": "Ringkasan Metrik Sistem",
+  "state_description": "Tampilan bersih Dashboard Utama dengan widget statistik aktif dan identitas akun terverifikasi.",
+  "modal_active": false,
+  "filter_applied": false,
+  "pagination_info": null,
+  "dom_summary": {
+    "url": "https://pricelist.radiatorsprings.id/dashboard",
+    "title": "Web Pricelist | Admin",
+    "interactiveElementsCount": 135,
+    "visibleElementsCount": 117,
+    "elements": [
+      {
+        "idx": 0,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": null,
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 1,
+        "tagName": "input",
+        "type": "checkbox",
+        "id": "main-drawer",
+        "role": null,
+        "text": "on",
+        "className": "drawer-toggle",
+        "visible_in_viewport": false,
+        "visible_in_dom": false,
+        "is_hidden_global_component": true,
+        "enabled": true,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "idx": 2,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "block rounded-xl bg-base-200/50 overflow-hidden border border-white/5 hover:border-white/10 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 328,
+          "y": 285,
+          "width": 175,
+          "height": 226
+        }
+      },
+      {
+        "idx": 3,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "PROMO SERVIS ORANG HAVE\n2026-10-22",
+        "className": "min-w-0 hover:opacity-90 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 328,
+          "y": 523,
+          "width": 141,
+          "height": 40
+        }
+      },
+      {
+        "idx": 4,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Open (HD)",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 486,
+          "y": 387,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 5,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Download",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 486,
+          "y": 429,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 6,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Bagikan",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 486,
+          "y": 471,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 7,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Salin Link",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 486,
+          "y": 514,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 8,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "block rounded-xl bg-base-200/50 overflow-hidden border border-white/5 hover:border-white/10 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 541,
+          "y": 285,
+          "width": 175,
+          "height": 226
+        }
+      },
+      {
+        "idx": 9,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "PROMO SERVIS IN THIS ECONOMY\n2026-10-22",
+        "className": "min-w-0 hover:opacity-90 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 541,
+          "y": 523,
+          "width": 141,
+          "height": 40
+        }
+      },
+      {
+        "idx": 10,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Open (HD)",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 700,
+          "y": 387,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 11,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Download",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 700,
+          "y": 429,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 12,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Bagikan",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 700,
+          "y": 471,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 13,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Salin Link",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 700,
+          "y": 514,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 14,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "block rounded-xl bg-base-200/50 overflow-hidden border border-white/5 hover:border-white/10 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 755,
+          "y": 285,
+          "width": 175,
+          "height": 226
+        }
+      },
+      {
+        "idx": 15,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "PROMO SERVIS ORANG HAVE\n2026-10-22",
+        "className": "min-w-0 hover:opacity-90 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 755,
+          "y": 523,
+          "width": 141,
+          "height": 40
+        }
+      },
+      {
+        "idx": 16,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Open (HD)",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 913,
+          "y": 387,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 17,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Download",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 913,
+          "y": 429,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 18,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Bagikan",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 913,
+          "y": 471,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 19,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Salin Link",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 913,
+          "y": 514,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 20,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "block rounded-xl bg-base-200/50 overflow-hidden border border-white/5 hover:border-white/10 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 968,
+          "y": 285,
+          "width": 175,
+          "height": 226
+        }
+      },
+      {
+        "idx": 21,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "PROMO CUSTOM ORANG HAVE SPD\n2026-10-22",
+        "className": "min-w-0 hover:opacity-90 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 968,
+          "y": 523,
+          "width": 141,
+          "height": 40
+        }
+      },
+      {
+        "idx": 22,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Open (HD)",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1127,
+          "y": 387,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 23,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Download",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1127,
+          "y": 429,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 24,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Bagikan",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1127,
+          "y": 471,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 25,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Salin Link",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1127,
+          "y": 514,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 26,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "block rounded-xl bg-base-200/50 overflow-hidden border border-white/5 hover:border-white/10 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1182,
+          "y": 285,
+          "width": 175,
+          "height": 226
+        }
+      },
+      {
+        "idx": 27,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "PAKET\n2026-10-22",
+        "className": "min-w-0 hover:opacity-90 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1182,
+          "y": 523,
+          "width": 64,
+          "height": 40
+        }
+      },
+      {
+        "idx": 28,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Open (HD)",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1213,
+          "y": 387,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 29,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Download",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1213,
+          "y": 429,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 30,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Bagikan",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1213,
+          "y": 471,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 31,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Salin Link",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1213,
+          "y": 514,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 32,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "block rounded-xl bg-base-200/50 overflow-hidden border border-white/5 hover:border-white/10 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1395,
+          "y": 285,
+          "width": 175,
+          "height": 226
+        }
+      },
+      {
+        "idx": 33,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "PROMO CUSTOM IN THIS ECONOMY SP\n2026-10-22",
+        "className": "min-w-0 hover:opacity-90 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1395,
+          "y": 523,
+          "width": 141,
+          "height": 40
+        }
+      },
+      {
+        "idx": 34,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Open (HD)",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 387,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 35,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Download",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 429,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 36,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Bagikan",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 471,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 37,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Salin Link",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 514,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 38,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "block rounded-xl bg-base-200/50 overflow-hidden border border-white/5 hover:border-white/10 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1608,
+          "y": 285,
+          "width": 175,
+          "height": 226
+        }
+      },
+      {
+        "idx": 39,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "PROMO SERVIS VARIO 125/150/160 NEW\n2026-08-31",
+        "className": "min-w-0 hover:opacity-90 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1608,
+          "y": 523,
+          "width": 141,
+          "height": 40
+        }
+      },
+      {
+        "idx": 40,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Open (HD)",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 387,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 41,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Download",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 429,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 42,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Bagikan",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 471,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 43,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Salin Link",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 514,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 44,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "block rounded-xl bg-base-200/50 overflow-hidden border border-white/5 hover:border-white/10 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1822,
+          "y": 285,
+          "width": 175,
+          "height": 226
+        }
+      },
+      {
+        "idx": 45,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "PAKET LCD DARK MODE VARIO 125\n2025-11-26",
+        "className": "min-w-0 hover:opacity-90 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1822,
+          "y": 523,
+          "width": 141,
+          "height": 40
+        }
+      },
+      {
+        "idx": 46,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Open (HD)",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 387,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 47,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Download",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 429,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 48,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Bagikan",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 471,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 49,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Salin Link",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 514,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 50,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "block rounded-xl bg-base-200/50 overflow-hidden border border-white/5 hover:border-white/10 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 2035,
+          "y": 285,
+          "width": 175,
+          "height": 226
+        }
+      },
+      {
+        "idx": 51,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "PROMO PAKET SERVIS VARIO 125 OLD\n2025-11-26",
+        "className": "min-w-0 hover:opacity-90 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 2035,
+          "y": 523,
+          "width": 141,
+          "height": 40
+        }
+      },
+      {
+        "idx": 52,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Open (HD)",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 387,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 53,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Download",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 429,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 54,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Bagikan",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 471,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 55,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Salin Link",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 514,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 56,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "",
+        "className": "block rounded-xl bg-base-200/50 overflow-hidden border border-white/5 hover:border-white/10 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 2249,
+          "y": 285,
+          "width": 175,
+          "height": 226
+        }
+      },
+      {
+        "idx": 57,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "HARGA PARTNERSHIP\n2025-11-26",
+        "className": "min-w-0 hover:opacity-90 transition",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 2249,
+          "y": 523,
+          "width": 141,
+          "height": 40
+        }
+      },
+      {
+        "idx": 58,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Open (HD)",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 387,
+          "width": 135,
+          "height": 38
+        }
+      },
+      {
+        "idx": 59,
+        "tagName": "a",
+        "type": null,
+        "id": null,
+        "role": null,
+        "text": "Download",
+        "className": "my-0.5 py-1.5 px-4 hover:text-inherit whitespace-nowrap",
+        "visible_in_viewport": true,
+        "visible_in_dom": true,
+        "is_hidden_global_component": false,
+        "enabled": true,
+        "rect": {
+          "x": 1234,
+          "y": 429,
+          "width": 135,
+          "height": 38
+        }
+      }
+    ]
+  }
+}

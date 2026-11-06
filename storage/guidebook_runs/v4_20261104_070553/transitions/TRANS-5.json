@@ -1,0 +1,18 @@
+{
+  "schema_version": "4.0",
+  "transition_id": "TRANS-5",
+  "from_state_id": "STATE_SEARCH_003_FILTERED_PASS2",
+  "to_state_id": "STATE_SEARCH_004_EMPTY_PASS2",
+  "trigger_action": "Ketik \"xyznotfound9999\" pada kolom pencarian",
+  "assertion_data": {
+    "pass_no": 2,
+    "assertion_name": "SEARCH_EMPTY_STATE_VERIFIED",
+    "started_at": "2026-11-04T07:06:11.884Z",
+    "settled_at": "2026-11-04T07:06:14.702Z",
+    "query": "xyznotfound9999",
+    "empty_rows": 0,
+    "status": "PASS",
+    "evidence_proof": "Tabel terbukti menampilkan 0 baris (Row count: 0)"
+  },
+  "recorded_at_utc": "2026-11-04T07:06:14.702Z"
+}

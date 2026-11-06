@@ -1,0 +1,20 @@
+{
+  "deferred_feature_id": "FEAT-DISKON-APPLY",
+  "parent_module_id": "MOD-005",
+  "display_label": "Apply",
+  "entry_point": "https://pricelist.radiatorsprings.id/admin/diskon",
+  "visible_state_ref": "evidence/screenshots_sanitized/STATE_DISKON_001_LIST.png",
+  "target_bbox_px": [
+    1189,
+    36,
+    102,
+    40
+  ],
+  "why_mutative": "Menerapkan kalkulasi potongan harga promo ke seluruh produk yang ditargetkan secara langsung.",
+  "what_is_not_tested": "Penerapan diskon ke baris harga produk riil.",
+  "staging_test_plan": "Uji penerapan diskon 10% pada katalog produk staging dan cek harga akhir kasir.",
+  "owner_confirmation_needed": "Konfirmasi apakah diskon langsung aktif seketika setelah tombol Apply diklik.",
+  "allowed_guidebook_text": "Tombol 'Apply' digunakan untuk mengaktifkan potongan harga pada produk terpilih.",
+  "prohibited_guidebook_text": "Jangan mengklik tombol Apply di server produksi.",
+  "linked_outline_section": "SEC-05"
+}

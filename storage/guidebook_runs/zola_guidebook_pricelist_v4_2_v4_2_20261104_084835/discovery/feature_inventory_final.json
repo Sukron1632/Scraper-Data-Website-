@@ -1,0 +1,223 @@
+[
+  {
+    "feature_id": "FEAT-DASH-SUMMARY",
+    "module_id": "MOD-001",
+    "feature_name": "Ringkasan Statistik Metrik Katalog & Shortcut Brosur",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-DASH-001"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-SEARCH-ONBOARDING",
+    "module_id": "MOD-002",
+    "feature_name": "Panduan Interaktif Driver.js",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-SEARCH-001"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-SEARCH-REALTIME",
+    "module_id": "MOD-002",
+    "feature_name": "Pencarian Produk Real-Time Livewire",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-SEARCH-002"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-SEARCH-EMPTY",
+    "module_id": "MOD-002",
+    "feature_name": "Tampilan Hasil Kosong (Empty State)",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-SEARCH-003"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-SEARCH-BRAND-FILTER",
+    "module_id": "MOD-002",
+    "feature_name": "Penyaringan Katalog Berdasarkan Brand",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-SEARCH-004"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-SEARCH-CONTROLS",
+    "module_id": "MOD-002",
+    "feature_name": "Pengaturan Limit Tampilan, Refresh & Toggle Kolom Harga",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-SEARCH-005"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-BRAND-CATALOG",
+    "module_id": "MOD-003",
+    "feature_name": "Navigasi Katalog 10 Merek Resmi",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-BRAND-001"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-BRAND-ADD-MERK",
+    "module_id": "MOD-003",
+    "feature_name": "Penambahan Merk Kendaraan Baru",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "deferred_dossier_id": "FEAT-BRAND-ADD-MERK"
+  },
+  {
+    "feature_id": "FEAT-BRAND-ADD-TIPE",
+    "module_id": "MOD-003",
+    "feature_name": "Penambahan Tipe Kendaraan Baru",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "deferred_dossier_id": "FEAT-BRAND-ADD-TIPE"
+  },
+  {
+    "feature_id": "FEAT-BROSUR-LIST",
+    "module_id": "MOD-004",
+    "feature_name": "Daftar Katalog Brosur Digital",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-BROSUR-002"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-BROSUR-DETAIL",
+    "module_id": "MOD-004",
+    "feature_name": "Tinjauan Rincian Produk Brosur #1103",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-BROSUR-001"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-BROSUR-UPLOAD",
+    "module_id": "MOD-004",
+    "feature_name": "Pengunggahan Berkas Brosur Digital Baru",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "deferred_dossier_id": "FEAT-BROSUR-UPLOAD"
+  },
+  {
+    "feature_id": "FEAT-DISKON-LIST",
+    "module_id": "MOD-005",
+    "feature_name": "Pemantauan Program Promo Diskon Aktif",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-DISKON-001"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-DISKON-CREATE",
+    "module_id": "MOD-005",
+    "feature_name": "Pembuatan Program Diskon Baru",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "deferred_dossier_id": "FEAT-DISKON-CREATE"
+  },
+  {
+    "feature_id": "FEAT-DISKON-APPLY",
+    "module_id": "MOD-005",
+    "feature_name": "Penerapan Diskon ke Katalog Produk",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "deferred_dossier_id": "FEAT-DISKON-APPLY"
+  },
+  {
+    "feature_id": "FEAT-DISKON-ARCHIVE",
+    "module_id": "MOD-005",
+    "feature_name": "Pengarsipan Program Diskon Kadaluarsa",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "deferred_dossier_id": "FEAT-DISKON-ARCHIVE"
+  },
+  {
+    "feature_id": "FEAT-USER-LIST",
+    "module_id": "MOD-006",
+    "feature_name": "Tinjauan Daftar Karyawan & Akun Pengguna",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-USER-001"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-USER-SYNC",
+    "module_id": "MOD-006",
+    "feature_name": "Sinkronisasi Data Karyawan & Akun Pengguna",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "deferred_dossier_id": "FEAT-USER-SYNC"
+  },
+  {
+    "feature_id": "FEAT-DUP-PAGINATION",
+    "module_id": "MOD-007",
+    "feature_name": "Navigasi Paginasi Tabel Duplikat PREV/NEXT",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-DUP-001"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-DUP-EXEC",
+    "module_id": "MOD-007",
+    "feature_name": "Eksekusi Duplikasi Data Produk",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "deferred_dossier_id": "FEAT-DUP-EXEC"
+  },
+  {
+    "feature_id": "FEAT-EDIT-SELECTION",
+    "module_id": "MOD-008",
+    "feature_name": "Antarmuka Seleksi Produk Edit Harga (Edit (0) Disabled)",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-EDIT-001"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-EDIT-SAVE",
+    "module_id": "MOD-008",
+    "feature_name": "Penyimpanan Pembaruan Harga Massal",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "deferred_dossier_id": "FEAT-EDIT-SAVE"
+  },
+  {
+    "feature_id": "FEAT-CONSULT-FORM",
+    "module_id": "MOD-009",
+    "feature_name": "Formulir Konsultasi 3 Varian (Mobil/Motor/Non-Kendaraan)",
+    "classification": "SAFE_READ_ONLY_OBSERVED",
+    "mapped_activities": [
+      "ACT-CONSULT-001",
+      "ACT-CONSULT-002"
+    ],
+    "deferred_dossier_id": null
+  },
+  {
+    "feature_id": "FEAT-CONSULT-SUBMIT",
+    "module_id": "MOD-009",
+    "feature_name": "Pengiriman Formulir Konsultasi ke WhatsApp",
+    "classification": "MUTATIVE_DEFERRED",
+    "mapped_activities": [],
+    "deferred_dossier_id": "FEAT-CONSULT-SUBMIT"
+  }
+]

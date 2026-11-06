@@ -1,0 +1,12 @@
+{
+  "audit_time_utc": "2026-11-04T08:50:18.933Z",
+  "formula": "Set C (Features) mapped to Set D (Activities / Deferred Dossiers)",
+  "total_canonical_features": 24,
+  "read_only_features_count": 14,
+  "read_only_mapped_to_activities": 14,
+  "unmapped_read_only_count": 0,
+  "mutative_deferred_features_count": 10,
+  "mutative_mapped_to_dossiers": 10,
+  "undocumented_deferred_count": 0,
+  "status": "PASS_ZERO_UNMAPPED"
+}

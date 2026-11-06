@@ -1,0 +1,30 @@
+{
+  "schema_version": "4.0",
+  "activity_id": "ACT-SEARCH-002",
+  "screenshot_ref": "screenshots_sanitized/STATE_SEARCH_002_MODAL_CLOSED.png",
+  "style_standard": "Zola Standard (Orange #E65100 / Charcoal #263238 / White #FFFFFF)",
+  "canvas_resolution": {
+    "width": 1440,
+    "height": 900
+  },
+  "callouts": [
+    {
+      "callout_id": "CALL-1",
+      "callout_number": "[01]",
+      "target_label_actual": "Cari Produk...",
+      "action_type": "TYPE_SEARCH_INPUT",
+      "bbox_px": [
+        343,
+        127,
+        838,
+        38
+      ],
+      "canvas_dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "operational_instruction": "Tabel menyaring dan hanya menampilkan produk yang relevan dengan kata kunci 'speedometer'",
+      "review_status": "MEASURED_AND_VERIFIED"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "3.0",
+  "activity_id": "ACT-SEARCH-003",
+  "module_id": "MOD-002",
+  "module": "Cari Harga",
+  "feature_id": "FEAT-003",
+  "feature": "Pencarian Kata Kunci Produk",
+  "activity_name_ui_accurate": "Mengamati Tampilan Tabel Saat Produk Tidak Ditemukan (Empty State)",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "preconditions": [
+    "Kolom pencarian aktif"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "INPUT_NONEXISTENT_QUERY",
+      "ui_target_actual": "Cari produk... ",
+      "state_before_id": "STATE_SEARCH_003_FILTERED",
+      "state_after_id": "STATE_SEARCH_004_EMPTY",
+      "expected_result": "Tabel menampilkan 0 hasil pencarian",
+      "actual_result": "Livewire merender ulang tabel dan row count terbukti berubah menjadi 0 baris",
+      "assertion_status": "PASS",
+      "evidence_ids": [
+        "EVD-STATE_SEARCH_003_FILTERED",
+        "EVD-STATE_SEARCH_004_EMPTY"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01",
+    "BR-02"
+  ],
+  "verification_status": "TESTED_READ_ONLY",
+  "readiness": "READY_FOR_PROCEDURAL_GUIDE",
+  "gaps": [],
+  "source_refs": [
+    "storage/raw_pages/002_https___pricelist_radiatorsprings_id_search.json"
+  ]
+}

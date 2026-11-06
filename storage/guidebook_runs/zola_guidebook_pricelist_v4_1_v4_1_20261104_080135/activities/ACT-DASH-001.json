@@ -1,0 +1,34 @@
+{
+  "schema_version": "4.1",
+  "activity_id": "ACT-DASH-001",
+  "module_id": "MOD-001",
+  "module": "Dashboard",
+  "feature_id": "FEAT-DASH-01",
+  "feature": "Ringkasan Sistem & Statistik",
+  "activity_name_ui_accurate": "Memantau Metrik Katalog Produk dan Status Promo Aktif",
+  "environment": "PRODUCTION_READ_ONLY",
+  "role_status": "NANA (Observed in Header)",
+  "verification_status": "VERIFIED_READ_ONLY_PROCEDURE",
+  "readiness": "READY_FOR_PROCEDURAL_GUIDE",
+  "preconditions": [
+    "Pengguna berhasil login dan berada pada rute /dashboard"
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "action_type": "OBSERVE_UI_CARD",
+      "ui_target_actual": "Katalog & Ringkasan Produk",
+      "state_before_id": "STATE_DASHBOARD_001_CLEAN",
+      "state_after_id": "STATE_DASHBOARD_001_CLEAN",
+      "expected_result": "Kartu informasi ringkasan produk dan katalog aktif tampil di layar",
+      "evidence_ids": [
+        "EVD-STATE_DASHBOARD_001_CLEAN"
+      ]
+    }
+  ],
+  "business_rule_refs": [
+    "BR-01",
+    "BR-03"
+  ],
+  "gaps": []
+}

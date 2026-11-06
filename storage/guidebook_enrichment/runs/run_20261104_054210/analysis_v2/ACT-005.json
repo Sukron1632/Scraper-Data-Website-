@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "activity_id": "ACT-005",
+  "module": "Katalog Brand",
+  "feature": "Katalog Produk & Kategori Brand",
+  "user_goal": "Memandu staf operasional dalam navigasi 10 brand resmi & pemisahan komponen global secara cepat, tepat, dan aman.",
+  "verified_roles": [
+    "NANA (Admin/IT - Observed in UI Header)"
+  ],
+  "prerequisites": [
+    "Pengguna memilih salah satu menu Brand pada sidebar navigasi"
+  ],
+  "grounded_steps": [
+    {
+      "step": 1,
+      "action_text": "Buka halaman katalog brand resmi",
+      "exact_label": "Makerspace, Speedometer, Gearsecond, dll",
+      "evidence_id": "EV-BRAND-CATALOG",
+      "observed_result": "Katalog memuat kategori spesifik brand tanpa mencampur komponen global inquiry."
+    }
+  ],
+  "verified_business_rules": [
+    "BR-01"
+  ],
+  "unsupported_claims_or_speculations": [],
+  "questions_for_process_owner": [
+    "Apakah role staf kasir memiliki pembatasan kolom harga khusus dibandingkan admin?",
+    "Kapan jadwal rutin sinkronisasi diskon dilakukan oleh tim operasional?"
+  ],
+  "coverage_gaps": []
+}

@@ -1,0 +1,29 @@
+{
+  "plan_id": "PLAN-ACT-DASH-001",
+  "activity_id": "ACT-DASH-001",
+  "screenshot_ref": "evidence/screenshots_sanitized/STATE_DASHBOARD_001_CLEAN.png",
+  "callouts": [
+    {
+      "callout_number": 1,
+      "target_label": "Statistik Katalog Produk",
+      "bbox_px": [
+        290,
+        115,
+        360,
+        110
+      ],
+      "text_note": "Ringkasan metrik total produk dan promo aktif."
+    },
+    {
+      "callout_number": 2,
+      "target_label": "Widget Brosur Digital & Shortcut Aksi",
+      "bbox_px": [
+        290,
+        240,
+        840,
+        320
+      ],
+      "text_note": "Akses cepat unduh brosur HD."
+    }
+  ]
+}

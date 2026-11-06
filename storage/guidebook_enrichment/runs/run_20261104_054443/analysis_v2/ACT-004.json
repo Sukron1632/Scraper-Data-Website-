@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "activity_id": "ACT-004",
+  "module": "Duplikat Harga",
+  "feature": "Pengecekan Data Duplikat & Paginasi",
+  "user_goal": "Memandu staf operasional dalam memeriksa daftar duplikat & kontrol paginasi prev/next secara cepat, tepat, dan aman.",
+  "verified_roles": [
+    "NANA (Admin/IT - Observed in UI Header)"
+  ],
+  "prerequisites": [
+    "Pengguna membuka menu Cek Duplikat di sidebar admin"
+  ],
+  "grounded_steps": [
+    {
+      "step": 1,
+      "action_text": "Periksa Tombol Paginasi PREV dan NEXT pada tabel duplikat",
+      "exact_label": "PREV / NEXT",
+      "evidence_id": "EV-DUP-PAGINATION",
+      "observed_result": "Tombol PREV dan NEXT terdeteksi secara fisik pada antarmuka tabel."
+    }
+  ],
+  "verified_business_rules": [
+    "BR-01",
+    "BR-04"
+  ],
+  "unsupported_claims_or_speculations": [],
+  "questions_for_process_owner": [
+    "Apakah role staf kasir memiliki pembatasan kolom harga khusus dibandingkan admin?",
+    "Kapan jadwal rutin sinkronisasi diskon dilakukan oleh tim operasional?"
+  ],
+  "coverage_gaps": [
+    "Eksekusi tombol Duplikasi diblokir demi keselamatan data."
+  ]
+}
