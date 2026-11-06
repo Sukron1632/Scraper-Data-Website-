@@ -1,6 +1,0 @@
-Module,Feature,Activity ID,Activity Name,Status,Evidence Count,Has Screenshot,Coverage Gap,Priority
-"Dashboard","Monitoring Statistik & Status Promo","ACT-001","Memeriksa Ringkasan Stok & Promo Aktif Harian","OBSERVED",2,true,"None","CRITICAL"
-"Cari Harga","Pencarian Produk & Filter Spesifik","ACT-002","Mencari Informasi Harga Produk & Menyesuaikan Kolom Tampilan","OBSERVED|TESTED_READ_ONLY",3,true,"Eksekusi tombol Download file excel/pdf tidak dijalankan di produksi guna menghindari beban IO server.","CRITICAL"
-"Edit Harga","Pembaruan Harga Produk","ACT-003","Investigasi Aksesibilitas Formulir Edit Harga","OBSERVED|BLOCKED",1,true,"Pengujian penyimpanan/mutasi harga hanya boleh dilakukan di Staging.","CRITICAL"
-"Duplikat Harga","Pengecekan Data Duplikat & Paginasi","ACT-004","Memeriksa Daftar Duplikat & Kontrol Paginasi PREV/NEXT","OBSERVED",1,true,"Eksekusi tombol Duplikasi diblokir demi keselamatan data.","HIGH"
-"Katalog Brand","Katalog Produk & Kategori Brand","ACT-005","Navigasi 10 Brand Resmi & Pemisahan Komponen Global","OBSERVED",1,true,"None","HIGH"

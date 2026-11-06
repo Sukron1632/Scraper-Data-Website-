@@ -1,8 +1,0 @@
-{
-  "audit_time_utc": "2026-11-04T08:50:20.461Z",
-  "csrf_sanitized": "PASS (100% tokens replaced with [REDACTED_CSRF_TOKEN])",
-  "secrets_leaks": "PASS (0 secrets in distribution)",
-  "pii_leaks": "PASS (0 unmasked phone/email in JSON/HTML)",
-  "visual_masking": "PASS (CSS blur active on employee table)",
-  "session_files_excluded": "PASS (100% excluded from ZIP package)"
-}

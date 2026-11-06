@@ -1,16 +1,89 @@
-node_modules/
+# ==========================================
+# 1. Environment & Sensitive Credentials
+# ==========================================
 .env
+.env.*
+!.env.example
 storage/sessions/*.json
 !storage/sessions/.gitkeep
-storage/screenshots/*.png
-!storage/screenshots/.gitkeep
-storage/raw_pages/*.json
+
+# ==========================================
+# 2. Dependencies & Build Tools
+# ==========================================
+node_modules/
+.codegraph/
+!.codegraph/.gitignore
+.playwright/
+
+# ==========================================
+# 3. Python & Node Caches / Logs
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================================
+# 4. Scraper & Crawler Runtime Storage (Outputs)
+# ==========================================
+storage/raw_pages/*
 !storage/raw_pages/.gitkeep
-storage/checkpoints/*.json
+
+storage/checkpoints/*
 !storage/checkpoints/.gitkeep
-output/guidebook/docx/*.docx
-output/guidebook/markdown/*.md
-!output/guidebook/markdown/.gitkeep
-output/audit/*.md
+
+storage/screenshots/*
+!storage/screenshots/.gitkeep
+
+storage/scrapling_markdown/*
+!storage/scrapling_markdown/.gitkeep
+
+storage/guidebook_enrichment/*
+!storage/guidebook_enrichment/.gitkeep
+
+storage/guidebook_runs/*
+!storage/guidebook_runs/.gitkeep
+
+# ==========================================
+# 5. Generated Guidebooks, Audits & Client Outputs
+# ==========================================
+output/audit/*
 !output/audit/.gitkeep
 
+output/guidebook/markdown/*
+!output/guidebook/markdown/.gitkeep
+
+output/guidebook/docx/*
+!output/guidebook/docx/.gitkeep
+
+output/guidebook/ai_doc_export/*
+!output/guidebook/ai_doc_export/.gitkeep
+
+output/PAKET_REVIEW_AI_WEBSITE/
+
+# ==========================================
+# 6. Archives, Temporary & Diagnostic Dumps
+# ==========================================
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.sha256
+temp_check/
+temp*/
+tmp/
+
+# ==========================================
+# 7. Operating System & Editor Files
+# ==========================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.idea/
+*.sublime-project
+*.sublime-workspace
