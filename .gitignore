@@ -27,45 +27,28 @@ yarn-debug.log*
 yarn-error.log*
 
 # ==========================================
-# 4. Scraper & Crawler Runtime Storage (Outputs)
+# 4. Storage (Keep directory structures, ignore all data)
 # ==========================================
-storage/raw_pages/*
-!storage/raw_pages/.gitkeep
-
-storage/checkpoints/*
-!storage/checkpoints/.gitkeep
-
-storage/screenshots/*
-!storage/screenshots/.gitkeep
-
-storage/scrapling_markdown/*
-!storage/scrapling_markdown/.gitkeep
-
-storage/guidebook_enrichment/*
-!storage/guidebook_enrichment/.gitkeep
-
-storage/guidebook_runs/*
-!storage/guidebook_runs/.gitkeep
+storage/**
+!storage/**/
+!storage/**/.gitkeep
 
 # ==========================================
-# 5. Generated Guidebooks, Audits & Client Outputs
+# 5. Output (Keep directory structures, ignore all data)
 # ==========================================
-output/audit/*
-!output/audit/.gitkeep
-
-output/guidebook/markdown/*
-!output/guidebook/markdown/.gitkeep
-
-output/guidebook/docx/*
-!output/guidebook/docx/.gitkeep
-
-output/guidebook/ai_doc_export/*
-!output/guidebook/ai_doc_export/.gitkeep
-
-output/PAKET_REVIEW_AI_WEBSITE/
+output/**
+!output/**/
+!output/**/.gitkeep
 
 # ==========================================
-# 6. Archives, Temporary & Diagnostic Dumps
+# 6. References (Keep directory structures, ignore all data)
+# ==========================================
+references/**
+!references/**/
+!references/**/.gitkeep
+
+# ==========================================
+# 7. Archives, Temporary & Diagnostic Dumps
 # ==========================================
 *.zip
 *.tar.gz
@@ -78,7 +61,7 @@ temp*/
 tmp/
 
 # ==========================================
-# 7. Operating System & Editor Files
+# 8. Operating System & Editor Files
 # ==========================================
 .DS_Store
 Thumbs.db
